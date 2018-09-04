@@ -13,3 +13,6 @@ print(soup.prettify())
 
 links = soup.findAll('a')
 print(links)
+
+for link in links:
+	print(link)
