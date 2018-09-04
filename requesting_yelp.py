@@ -4,3 +4,5 @@ url = "https://www.yelp.com/search?find_desc=Restaurants&find_loc=San+Francisco%
 response = requests.get(url)
 
 print(response)
+print(f"STATUS CODE: {response.status_code}")
+print(response.text)
