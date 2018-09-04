@@ -10,3 +10,6 @@ print(response.text)
 
 soup = BeautifulSoup(response.text, 'html.parser')
 print(soup.prettify())
+
+links = soup.findAll('a')
+print(links)
