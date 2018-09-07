@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 base_url = "https://www.yelp.com/search?find_desc=Restaurants&find_loc={}"
 city = "los angeles"
-start = 120
+start = 30
 
 url = base_url.format(city)
 
