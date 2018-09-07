@@ -18,8 +18,10 @@ soup = BeautifulSoup(response.text, 'html.parser')
 businesses = soup.findAll('div', {'class': 'biz-listing-large'})
 
 count = 0
-for info in businesses:
-	print(info.text)
-	count += 1
-
-print(count)
+for biz in businesses:
+	title = biz.find('a', {'class': 'biz-name'}).text
+	print(title)
+	address = biz.find('address').text
+	print(address)
+	phone = biz.find('span', {'class': 'biz-phone'}).text
+	print(phone)
