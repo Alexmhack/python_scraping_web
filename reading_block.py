@@ -15,5 +15,11 @@ print(f"STATUS CODE: {response.status_code} FOR {response.url}")
 
 soup = BeautifulSoup(response.text, 'html.parser')
 
-info_block = soup.findAll('li', {'class': 'regular-search-result'})
-print(info_block)
+info_block = soup.findAll('a', {'class': 'biz-name'})
+
+count = 0
+for info in info_block:
+	print(info.text)
+	count += 1
+
+print(count)
