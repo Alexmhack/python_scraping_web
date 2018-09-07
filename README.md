@@ -176,3 +176,77 @@ for link in links:
 ```
 
 This looks a lot cleaner now.
+
+# Requesting Pages
+So far we have requesting a single url. In this section we will be formatting url
+to request a different url. 
+
+If you look at the yelp url we used before, you might find at the very bottom that 
+there is [pagination](https://whatis.techtarget.com/definition/pagination) being used.
+
+So what we can do is visit another search page say ```2``` page and we find that url 
+changed a bit. 
+
+Specifically the url had some new value at last for the ```2``` page which is
+
+```
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=los+angeles&start=30
+```
+
+You guessed it right 
+
+```
+&start=30
+```
+
+is what is new in the url, if you have worked with django then you might have used 
+pagination somewhere in your templates.
+
+So that means we can actually add this value at the end of the existing url and locate
+to another search result page 
+
+Have a look at ```formatting_url.py```
+
+```
+import requests
+from bs4 import BeautifulSoup
+
+base_url = "https://www.yelp.com/search?find_desc=Restaurants&find_loc={}"
+city = "los angeles"
+start = 30
+
+url = base_url.format(city)
+
+second_page = url + '&start=' + str(start)
+
+response = requests.get(third_page)
+
+print(f"STATUS CODE: {response.status_code} FOR {response.url}")
+
+soup = BeautifulSoup(response.text, 'html.parser')
+
+links = soup.findAll('a')
+```
+
+We assign 30 value to the start and add it as ```str(start)``` at the end of the url
+and name it ```second_page``` and then request that page. We get ```200``` status code
+
+This means that by finding the patterns in url we can request more url.
+
+So what more could be done. We can start a **loop** that would request the urls and
+each time increment the start value by ```30```
+
+```
+start = 0
+for i in range(40):
+    url = base_url.format(city)
+    url += '&start=' + str(start)
+    start += 30
+    if start == 270:
+        break
+    ...
+```
+
+Now how do I know that we have to increment by ```30``` well I checked the pattern of
+urls by visiting the pages and stop at ```270``` so that we only request 10 pages.
+You can use whatever value you want but it should be multiple of ```30```
