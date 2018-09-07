@@ -19,8 +19,9 @@ with open('los_angeles_restaurants.txt', 'w') as file:
 
 		count = 0
 		for info in names:
-			title = info.text
-			print(str(title))
+			title = info.text.encode("utf-8")
+			print(title)
 			count += 1
-			file.write(str(title) + '\n')
+			file.write(title + '\n')
 		print(f"{count} RESTAURANTS FOUND...")
+		print(start)
