@@ -250,3 +250,52 @@ for i in range(40):
 Now how do I know that we have to increment by ```30``` well I checked the pattern of
 urls by visiting the pages and stop at ```270``` so that we only request 10 pages.
 You can use whatever value you want but it should be multiple of ```30```
+
+# Reading Restaurant Title
+Now we will be using the previous code that we wrote in ```formatting_url.py``` and 
+extract the particular piece of text from the html tags that we need which is the title
+of the restaurant from each search page.
+
+Visit the [url](https://www.yelp.com/search?find_desc=Restaurants&find_loc=los+angeles&start=30) and open developers tools
+and point at the block of restaurant with title, rating, review etc. and find the
+li tag with class ```regular-search-result```
+
+We will be using this class for searching the particular ```li``` tag from the response
+using ```BeautifulSoup```
+
+**reading_name.py**
+```
+import requests
+...
+info_block = soup.findAll('li', {'class': 'regular-search-result'})
+print(info_block)
+```
+
+Run the file and you should the whole li tag and its inner tags printed. But we want
+to extract the title of the restaurant from each li tag, for that we have to find 
+the class used in the title of restaurant
+
+The title is wrapped inside a **anchor** tag with class ```biz-name```
+
+```
+info_block = soup.findAll('a', {'class': 'biz-name'})
+print(info_block)
+
+count = 0
+for info in info_block:
+    print(info.text)
+    count += 1
+
+print(count)
+```
+
+On printing the ```text``` of the html tag we get the title of the restaurant, these are 
+not all the title cause some block don't have ```biz-name``` class but we have what we 
+need.
+
+# Advanced Extraction
+In this section we will be go a little more further and extract the name, address, 
+phone-number of the restaurant.
+
+This time we will be looking for the ```div``` tag that has class ```biz-listing-large```
+that contains the restaurant details.
