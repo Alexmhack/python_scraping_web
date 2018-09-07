@@ -299,3 +299,59 @@ phone-number of the restaurant.
 
 This time we will be looking for the ```div``` tag that has class ```biz-listing-large```
 that contains the restaurant details.
+
+In ```writing_details.py``` We have reused a lot of code from other files the only 
+difference is that we open a new file, fetch the title, address, and phone number 
+from respective classes and write it into the file.
+
+```
+...
+city = "los+angeles"
+
+...
+file_path = f'yelp-{city}.txt'
+
+with open(file_path, 'w') as textFile:
+    soup = BeautifulSoup(response.text, 'html.parser')
+    businesses = soup.findAll('div', {'class': 'biz-listing-large'})
+    count = 0
+    for biz in businesses:
+        title = biz.find('a', {'class': 'biz-name'}).text
+        address = biz.find('address').text
+        phone = biz.find('span', {'class': 'biz-phone'}).text
+        detail = f"{title}\n{address}\n{phone}"
+        textFile.write(str(detail) + '\n\n')
+
+```
+
+We edit the city value so that it neither conflicts with url and our file path name.
+
+**yelp_los+angeles.txt** is still doesn't has text in nice formatted way like we wanted 
+but in the next section will be working on it.
+
+```
+AMF Beverly Lanes
+
+            1201 W Beverly Blvd
+        
+
+            (323) 728-9161
+        
+
+Maccheroni Republic
+
+            332 S Broadway
+        
+
+            (213) 346-9725
+        
+
+Home Restaurant - Los Feliz
+
+            1760 Hillhurst Ave
+        
+
+            (323) 669-0211
+        
+    ...
+```
