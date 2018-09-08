@@ -11,8 +11,6 @@ with open('los_angeles_restaurants.txt', 'a') as file:
 		url = base_url.format(city, start)
 		response = requests.get(url)
 		start += 30
-		if start == 1040:
-			break
 		print(f"STATUS CODE: {response.status_code} FOR {response.url}")
 		soup = BeautifulSoup(response.text, 'html.parser')
 		names = soup.findAll('a', {'class': 'biz-name'})
@@ -28,3 +26,5 @@ with open('los_angeles_restaurants.txt', 'a') as file:
 				print(e)
 		print(f"{count} RESTAURANTS EXTRACTED...")
 		print(start)
+		if start == 30:
+			break
