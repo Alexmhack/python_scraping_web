@@ -13,29 +13,31 @@ while start < 990:
 	print(f"STATUS CODE: {response.status_code} FOR {response.url}")
 	soup = BeautifulSoup(response.text, 'html.parser')
 	businesses = soup.findAll('div', {'class': 'biz-listing-large'})
-	count = 0
 
-	for biz in businesses:
-		try:
-			title = biz.find('a', {'class': 'biz-name'}).text
-			address = biz.find('address').text
-			phone = biz.find('span', {'class': 'biz-phone'}).text
+	with open(file_path, 'w') as textFile:
+		count = 0
+		for biz in businesses:
+			try:
+				title = biz.find('a', {'class': 'biz-name'}).text
+				address = biz.find('address').text
+				phone = biz.find('span', {'class': 'biz-phone'}).text
+				count += 1
+			except Exception as e:
+				print(e)
+				logs = open('errors.log', 'a')
+				logs.write(str(e) + '\n')
+				logs.close()
+				address = None
+				phone = None
+
 			detail = f"{title}\n{address}\n{phone}"
 			print(detail)
-			count += 1
-		except Exception as e:
-			print(e)
+
+			try:
+				textFile.write(str(detail) + '\n\n')
+			except Exception as e:
+				logs = open('errors.log', 'a')
+				logs.write(str(e) + '\n')
+				logs.close()
+
 	start += 30
-
-
-
-# with open(file_path, 'w') as textFile:
-# 	soup = BeautifulSoup(response.text, 'html.parser')
-# 	businesses = soup.findAll('div', {'class': 'biz-listing-large'})
-# 	count = 0
-# 	for biz in businesses:
-# 		title = biz.find('a', {'class': 'biz-name'}).text
-# 		address = biz.find('address').text
-# 		phone = biz.find('span', {'class': 'biz-phone'}).text
-# 		detail = f"{title}\n{address}\n{phone}"
-# 		textFile.write(str(detail) + '\n\n')
