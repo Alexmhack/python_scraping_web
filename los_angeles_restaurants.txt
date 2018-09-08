@@ -1,34 +1,34 @@
 Flavor of India
 Bestia
-The Morrison
 Running Goose
+The Morrison
 Eataly
 Howlin’ Ray’s
-DAMA
-République
 Bao Dim Sum House
+République
+DAMA
 Daikokuya Little Tokyo
 Slurpin’ Ramen Bar
 A Food Affair
+Genwa Korean BBQ
+Franco on Melrose
 Perch
 Dirt Dog
-Marugame Monzo
 Kang Ho-dong Baekjeong
+Marugame Monzo
+L’Assiette Steak Frites
 Bottega Louie
-Franco on Melrose
-Genwa Korean BBQ
+The Little Door
 Wurstküche
 Pasta Sisters
+Rascal
 Faith & Flower
-Okiboru House of Tsukemen
-Hangari Bajirak Kalguksu
+Osteria Mamma
+Beer Belly
 Yup Dduk La
-L’Assiette Steak Frites
-The Parker Room
+Hangari Bajirak Kalguksu
+Okiboru House of Tsukemen
 Maccheroni Republic
-Pine & Crane
-Han Bat Shul Lung Tang
-The Little Door
 Flavor of India
 fundamental LA
 Daikokuya Little Tokyo
@@ -184,97 +184,97 @@ Yakitori Ten
 Seongbukdong
 Quarters Korean BBQ
 Flavor of India
-Chibiscus Asian Cafe
-Figueroa Philly Cheese Steak
-Mastro’s Penthouse
-LONO Hollywood
-Ta-eem Grill
-The Roof on Wilshire
-Tlayuda LA
-DeSano Pizza Bakery
-Shin-Sen-Gumi Hakata Ramen - Little Tokyo
-Catch LA
-Robata JINYA
-Spartina
-MARUGAME UDON
+Church & State
+Silverlake Ramen
+Truxton’s American Bistro
+Testa
 Guisados
-Langer’s
-Cattle & Claw
-Yuk Dae Jang
-Trattoria Bella Roma
-Monty’s Good Burger
-Salazar
-Father’s Office
-Wings and Tails
-Bäco Mercat
-Chego!
-Hae Ha Heng Thai Bistro
-Button Mash
-Wood Spoon
-Wirtshaus
-Hasiba
-Tsujita LA Artisan Noodle Annex
+Post & Beam
+Open Sesame
+Library Bar
+Hyperion Public
+Tesse
+The Bento Place
+Palms Thai Restaurant
+Public School 213
+Chichen Itza Restaurant
+Shojin Downtown
+Tsujita LA Artisan Noodle
+Barbrix Restaurant & Wine Bar
+Eight Korean BBQ
+Urban Skillet
+SharksTeeth
+The Pollo L.A.
+HATCH Yakitori + Bar
+M Grill
+Blue Palms Brewhouse
+Poppy + Rose
+Velvet Margarita
+Ma’am Sir
+Window 44
+Forage
+Tatsu Ramen
 Flavor of India
-Little Pine
-Fleming’s Prime Steakhouse & Wine Bar
-The Stocking Frame
-ChungMuRo
-Summer Buffalo
-The Ivy
+Oasis Mediterranean Cuisine
+ixlb DimSum Eats
+Himalayan House
+Stella Barra Pizzeria
 YUKGA gogi house
-Dirt Dog
-Monarca Pasta & Grill
-Alcove Café & Bakery
-Yuk Dae Jang
-The Hart and the Hunter
-Kobawoo House
-Jon & Vinny’s
-Prank
-Il Capriccio on Vermont
-Home Restaurant - Los Feliz
-Barton G Los Angeles
-Market Provisions
-Plan Check Fairfax
-Philippe the Original
-La Boucherie
-Joe’s Falafel
-FARMHOUSE
-Michelangelo Ristorante
-Blacksmiths
-Taste on Melrose
-Bludso’s Bar & Que
-MESSHALL
+Pink’s Hot Dogs
+Star Night
+Blue Palms Brewhouse
 Yojié Japanese Fondue
-Flavor of India
-Ahgassi Gopchang
+Little Next Door
+The Ivy
+Pa Ord Noodle
+Granny’s Kitchen
+LA Rose Cafe
+Hatchet Hall
+Joy
+Tesse
+Elf Café
+Myung Dong Kyoja
 Surawon Tofu House
-Angry Chicken
+Mister Bossam
+Kinjiro
+Lalibela Ethiopian Restaurant
+Carlitos Gardel Argentine Steakhouse
 Honeybird
+TOMGEORGE Restaurant
+Ahgassi Gopchang
+Angry Chicken
 BAR Ama
+Rich’s BBQ
+Flavor of India
+Casa Sanchez
 Joe’s Falafel
+Peking Tavern
 BaoHaus
 LASA
-Fogo de Chão Brazilian Steakhouse
-Testa
-Rich’s BBQ
-TOMGEORGE Restaurant
-Le Petit Greek
-Taste of Tehran
-PYT
-ROC Beverly Grove
 Rutt’s Hawaiian Cafe
-Jeong Yuk Jeom
-BROKEN MOUTH | Lee’s Homestyle
-District
 Bacaro LA
-Plato
-La Cevicheria
-Pink Taco
-Ssam Korean BBQ
-Bavel
-Fat Sal’s
-Plan Check Fairfax
+Fogo de Chão Brazilian Steakhouse
+PYT
+BROKEN MOUTH | Lee’s Homestyle
 Poutine Brothers
+Jeong Yuk Jeom
+Electric Karma
+Taste of Tehran
+District
+Pink Taco
+Plato
+Smorgasburg
+La Cevicheria
+Pizzeria Il Fico
+Plan Check Fairfax
+Fat Sal’s
+Library Bar
+Ssam Korean BBQ
+We Have Noodles
+Bavel
+Animal
+Trejo’s Tacos
+HATCH Yakitori + Bar
 The Kimbap
 Flavor of India
 Casa Nostra Ristorante & Bar
@@ -401,36 +401,36 @@ Blacksmiths
 The Little Easy
 Lala’s Argentine Grill
 Flavor of India
-Stuff’d Dumpling Shop
-Chunju Han-il Kwan
-Pour Haus Wine Bar
-Jin China Bistro
-Yuchun
-Petit Trois
-Blacksmiths
-Rosaline
-The Stocking Frame
-Earle’s On Crenshaw
-Kasih
-KaGaYa
-Michelangelo Ristorante
-Lala’s Argentine Grill
 Harold & Belle’s
+Yuchun
 The Boiling Crab
-LA Paella
-Gracie’s Pizza
 Zzamong
-The Cheesecake Factory
-Soul Restaurant & Bar
-SSAL Teriyaki and BBQ
-Park’s BBQ
-Western Doma Noodles
-SOL Mexican Cocina
-Ca’ Brea
-The Little Easy
-Oi Asian Fusion
-JJUKKU JJUKKU BBQ
+Gracie’s Pizza
+LA Paella
 Birrieria De Don Boni
+Rainbow Bar & Grill
+The Cheesecake Factory
+Oi Asian Fusion
+Western Doma Noodles
+Flores and Sons
+Park’s BBQ
+The Kitchen
+Window 44
+Saint Felix
+Little Fatty
+Estiatorio Louká
+Wood & Vine
+Wat Dong Moon Lek Noodle
+JJUKKU JJUKKU BBQ
+Golden Lake Eatery Cambodian Restaurant
+Tsubaki
+Poppy + Rose
+Westside Tavern
+Jitlada
+Post & Beam
+Inko Nito
+Suehiro Cafe
+Roscoe’s House of Chicken & Waffles
 Flavor of India
 Din Tai Fung
 Shabu Hyang
@@ -494,66 +494,67 @@ Matsuri Bowl
 Sweet Chick
 Shintaro Sushi
 Flavor of India
-Sushi One
+The Detour Bistro Bar
+Superfine Pizza
+ISA Japanese Restaurant
+Noshi Sushi
+Cafe Verona
+Daikokuya Sawtelle
 Cal Mare
-India’s Tandoori
-Jun Won Restaurant
-Oo-Kook Korean BBQ
-Phillips Barbecue
-Pomodoro Trattoria
-Anarkali Indian Restaurant
-Sulga Jinju Gom Tang House of Beef Soup
-Max City BBQ
-Pez Cantina
-The Oinkster
-Blackbird Pizza Shop
-Cafe Verona
-Luv2Eat Thai Bistro
-Hamasaku
-The Chairman
-The Pikey
-Sur Restaurant & Lounge
+Stuff’d Dumpling Shop
+Truffle Brothers
+n/naka
+Kettle Black
+Happy Taco
+Leo’s Tacos Truck
+Inko Nito
+Frogtowns Gourmet Tacos
+TAO Asian Bistro
+Bon Shabu
+Pusan Jobang Nak Gop Sae
+Anzu Japanese Gourmet
+Berlins
+Delphine
+Bukchon
+Triple 8 China Bar & Grill
+Magal BBQ
+Elf Café
+Karayama
+Biergarten
+BongChu
 LA Prime
-Tipsy
-Prado Restaurant
-The Buffalo Spot
-Marouch Restaurant
-Yangji Gamjatang
-Tacos Tumbras a Tomas
-Musso & Frank Grill
-Pizzanista!
-Destroyer
-Kanpai Japanese Sushi Bar & Grill
+Chicharroland
 Flavor of India
-Butcher’s Dog
-Cafe Verona
-Yangji Gamjatang
-Pizzanista!
-Tacos Tumbras a Tomas
-The Chairman
-Marouch Restaurant
-The Pikey
-Toscanova
-Dong II Jang Restaurant
-PUMP Restaurant
-Musso & Frank Grill
-SUGARFISH by sushi nozawa
-Biriyani Kabob House
-King Taco
+Takasan Japanese Bowls
+Whisper Lounge
+Wood & Water
+The Black Cat
+Bulgogi Hut
+Angry Chicken
+Kanpai Japanese Sushi Bar & Grill
+Pampas Grill
+Tandoori Eats
+Red Herring
+ixlb DimSum Eats
+Earle’s On Crenshaw
+Nick + Stef’s Steakhouse
+The Edmon
+Same Same
+Firefly
+Hollywood Pies
+Fukurou Ramen
+Guerrilla Tacos
+The Venue
 Alimento
-Casa Bianca Pizza Pie
-Spitz - Little Tokyo
-Young King
-The Woodman
-Tipsy
-Albert’s Mexican Grill
-Tasty Grill
-Healthy Zone Jook Hyang
-Sur Restaurant & Lounge
-Ostrich Farm
-Versailles
-Pita Bar & Grill
-Kabayo Cham Bada
+Toe Bang Cafe
+Sqirl
+The Faculty
+Gwen Butcher Shop
+Meatology Mediterranean Grill
+Carnitas Michoacan
+Chin’s Hawaiian Teriyaki Bbq Chicken
+Wah’s Golden Hen
+Pho Saigon Pearl
 Flavor of India
 Madera Kitchen
 Choe Gang Jip
@@ -648,253 +649,252 @@ The Griffin
 Sushi Zo
 Chips N’ Chicks
 Flavor of India
-The NoMad Restaurant
-Wood
-Matteo’s
-Terra
-Myung In Dumplings
-Birds Rotisserie Chicken Cafe & Bar
-Skylight Gardens
-The Mermaid
-Lawry’s The Prime Rib, Beverly Hills
-Cleo - Temp. CLOSED
-CaCao Mexicatessen
-Asian Box
-California Bowl
-Sushi Hon
-Izakaya Gazen
-Holy Crab
-Lucky Bird
-Koreatown Pizza Company
-Pokémolé
-Katsuya Hollywood
-Kabayo Cham Bada
-Angry Pig Taco
+El Huarachito
+Alaska Seafood
+Spago
 Mitsuru Cafe
-Larchmont Village Wine Spirits & Cheese
-sushi-litos cafe
-Crying Tiger
-Hungry Crowd
-Smorgasburg
-Son of a Butcher Craft Fire
-Hollywood Burger
-Flavor of India
-Jeon Ju Restaurant
-El Caserio
-Carrera Cafe
-Eve American Bistro
-Thai Deli
-Wolf
-2nd Floor Restaurant Bar & Grill
-Palm Grove Ethiopian Restaurant
-Seorae Village Pork BBQ
-Gulp Restaurant & Brew Pub
-Emporium Thai
-Red Lion Tavern
-Shibumi
-Farfalla Trattoria
-Little Vitaly
-Kotoya Ramen
-HEU
-La Chuperia
-CUP’S
-Melody
-Torigoya
-Matsumoto
-Tam O’Shanter
-Taste on Melrose
-MESSHALL
-Kitchen Story
-Sonoratown
-The Mermaid
-The Edmon
-Nest
-Flavor of India
-El Camaron Pelado
-RiceBar
-El Huero
-Bento Man
-Oaxacan Quesadilla Cart
-Meizhou Dongpo Restaurant
-Sushi Ippo
-Carousel Restaurant
-Dulan’s On Crenshaw
-Community Los Feliz
-Tuning Fork
-Norah
-Mexicano
-La Poubelle Bistro
-Wolfgang Puck Bar & Grill
-Menya Musashi LA
-The Carbon Grill
-Pita Bar & Grill
-La Pupusa Urban Eatery
-Au Lac
-Roscoe’s House of Chicken & Waffles
-Pete’s Louisiana Style Hot Links
-El Paseo Inn
-Paseo San Miguel
-Oomasa
-Thai Deli
-Qin West Noodle
-SUGARFISH by sushi nozawa
-The Hermosillo
-Pour Haus Wine Bar
-Flavor of India
-Froma on Melrose
-JJAN
-Kasih
-Asuka
-South City Fried Chicken
-Blue Ribbon Sushi Bar & Grill - Los Angeles
-Shabu Shabu House
-CAVA
-Yuca’s
-Gulp Restaurant & Brew Pub
-VIVO Italian Kitchen
-Plancha Tacos
-Pho Thai Town
-Tipsy Tails Hollywood
-Inti Restaurant
-Olympic Noodle
-BCD Tofu House
-KyoChon
-Petty Cash Taqueria
-KaGaYa
-Culina
-Golden Mongolian Restaurant
-Red Lion Tavern
-Destroyer
-Ten-Raku
-Casa Bianca Pizza Pie
-Duidough Cafe & Cookie Lab
-Shabu Hyang
-Korean Super
-Joom Bangkok Cafe
-Flavor of India
-Ivory on Sunset
-El Caserio
-Nam Won Gol
-Chunju Han-il Kwan
-Commissary
-Pollo a La Brasa Western
-SOCA
-Employees Only
-Coliseo Pizzeria
-Won Kok Restaurant
-Dune
-The Fat Queso
-Hail Mary Pizza
-Isaan Station Thai Street Food
-Chinese Friends Restaurant
-Honda Ya Izakaya
-Soregashi
-The Sunset Trocadero Lounge
-Cilantro Lime
-Tokyo Hamburg
-Jong Won Paik’s Noodle House
-To Soc Chon
-Oleego By Parks BBQ
-Ramen of York
-The BoardRoom
-Trois Familia
-The Empanada Factory
-The West End: Craft Bar and Neighborhood Kitchen
-IL Bambino Restaurant
-Pita Café
-Flavor of India
-Stefano’s - Two Guys From Italy
-Menya Musashi LA
-Honda Ya Izakaya
-D’s Dubai Sauce
-Cousins Maine Lobster Restaurant
-Cena Vegan
-Wood Ranch BBQ & Grill
-Miceli’s Italian - Hollywood
-Lemonade
-Buca di Beppo Italian Restaurant
-Terroni
-Ohana Superette
-ACA Grill
-Chin’s Hawaiian Teriyaki Bbq Chicken
-Pollo a La Brasa Western
-Belizean Paradise
-Hail Mary Pizza
-Caveman Kitchen
-Trophy Wife Bar
-Slicey’s Pizza
-Jaffa
-The Joint
-Happy Taco
-The Cork
-Hollywood Burger
-Pokémolé
-Umami Burger - The Grove
-Salt’s Cure
-Hama Sushi
-Ay-Do-No Korean BBQ
-Flavor of India
-Sushi Fumi
-TGI Korean BBQ
-Bella Trattoria 25
-Little Dom’s
-Mignon
-Waku Waku Sakebar
-Simplydlicious
-Belizean Paradise
-Okipoki
-The Palm Los Angeles
-Ray’s and Stark Bar
-Estiatorio Louká
-Genki Grill
-bushi by JINYA
-YAZAWA
-Dong Dae Moon Dakhanmari
-Hyde Sunset Kitchen + Cocktails
-Wings ‘N Fish
-Mario’s Pizza
-Rincon OaxaQueno
-Mixto Comida Latina
-Mendocino Farms
-Mari Kimbap Shop
-Mercado Taqueria
-Pacific Dining Car
-Public Kitchen and Bar
-Pitchoun!
+House of The Chigae
 Odumak
-Clementine
-Holbox
+Traxx Restaurant
+Tsurumaru Udon Honpo
+El Zarape
+Eve American Bistro
+Same Same
+El Compadre
+Afghani Kabob House
+Gam Ja Gol
+Best Fish Taco In Ensenada
+Taste on Melrose
+L & E Oyster Bar
+Eastside Market Italian Deli
+Terra
+Butcher’s Dog
+Toscanova
+La Noche Buena Restaurant
+Carrera Cafe
+ShaBuShi
+Wolf
+Farfalla Trattoria
+Carnitas Michoacan
+Little Vitaly
+The Mermaid
+Red Lion Tavern
 Flavor of India
-Jaragua
-Oomasa
-Awash Restaurant
-Won Kok Restaurant
-The Grain Cafe
-It’s Pho hollywood
-Kogi BBQ Truck - Verde
-Choeng Wun Korean BBQ Buffet Restaurant
-Alcove Café & Bakery
-Buca di Beppo Italian Restaurant
-The Hearth & Hound
-STK Los Angeles
-Tres Sheik
+Electric Owl
+Cow
+Ma Dang Gook Soo
+Breva Restaurant
+Local
+Humble Potato
+Cafe Teragram
+Citizen
+Botanica Restaurant & Market
+Antequera De Oaxaca
+Ziran
+Chips N’ Chicks
+Ackee Bamboo Jamaican Cuisine
+Il Pastaio
+Wokcano Asian Restaurant & Bar
+The Stand
+Larchmont Bungalow Cafe
+Younggoo’s Naju Gomtang - Zero Nine
+Mexicali Taco & Co
+Umami Burger - Hollywood
+Men Oh Tokushima Ramen
+Kalbis Grill
+Bluebird Brasserie
+Taste of Tehran
+Totoraku
+Corner Place
+Tacos El Primo
+Eagle Rock Kitchen
+DeSano Pizza Bakery
+Flavor of India
+Vromage
+Della Terra
+Nest
+Ohana BBQ
+Zankou Chicken
+The Counter Downtown LA
+Urth Caffé - Downtown
+Baja California Tacos
+Arashi Sushi
+The Henry
+Aroma Cafe
+Yupdduk Olympic
+Trois Mec
+Tokyo Hamburg
+The Edmon
+The Doughroom
+Côté Est
+Elbow Room
+Boo’s Philly Cheesesteaks - Silverlake
+Barkada
+Seasalt Fish Grill
+Petty Cash Taqueria
+The Pie Hole
+The Wallace
+Tommy’s Original World Famous Hamburgers
+El Coyote Mexican Cafe
+Dong Dae Moon Dakhanmari
+Golden Pouch
+All’ Angolo Pizza & Pasta
+Corner Place
+Flavor of India
+Elbow Room
+Jae Bu Do
+Love Shrimp Thai Thai
+Rappahannock Oyster Bar DTLA
+Petty Cash Taqueria
+Three Borders Brunch
+Traktir
+Mendocino Farms
+Yangmani
+Hot Wings Cafe
+Simply Pho You
+Baja California Tacos
+The Henry
+Wolfdown
+Rock’N Fish
+La Golondrina Mexican Cafe
+Pacific Dining Car
+Cliff’s Edge
+JJAN
+The Front Yard
+Gwen Butcher Shop
+My Vegan Gold
+Ma Dang Gook Soo
+O Jang Dong
+Tracey’s Belizean Restaurant
+Momota Ramen House
+Umeda
+Marinate
+Skylight Gardens
+Burger Lounge
+Flavor of India
+Ma Dang Gook Soo
+Broadway Grill
+Waku Waku Sakebar
+Love Baked Wings
+FIN Asian Tapas - Hollywood
+Momota Ramen House
+Orsa & Winston
+Burger Lounge
+Dan Sung Sa
+sweetgreen
+Sushi Hon
+Delphine
+Spicy BBQ Restaurant
+Ekkamai Thai Restaurant
+ISA Japanese Restaurant
+Crustacean Beverly Hills
+Fish Eight by Jinpachi
+The Lab Gastropub
+Somni
+Get Bbul
+Javier’s Century City
+SUGARFISH by sushi nozawa
+Tagine Beverly Hills
+El Cholo
+Bukchon
+Brownstone Bistro
+Veggie House
+La 27th Restaurante Nicaragüense
+Sushi Fumi
+Bunker Hill Bar & Grill
+Flavor of India
+Gus’s Drive In
+Asian Fusion
+Burgerim
+Spicy BBQ Restaurant
+El Flamin’ Taco
+5 Line Tavern
+The Hungry Cat
+sixth+mill pizzeria and bar
 Umami Burger - Arts District
-Casa La Doña
-Lucky Bird
-Santuari Restaurant
-Yuchun
-Chano’s
+Drago Ristorante
+Benny’s Tacos & Chicken Rotisserie
+XoK
+CUP’S
+Delicious Donuts
+Ondal 2
+Shin Chon Seolnongtang
+Cicada Restaurant
+Poke Me
+Tom Tom
+Trejo’s Cantina - Hollywood
+Lotus
+Kashira Japanese Restaurant
+Shibumi
+Winsome
 Kiku Sushi
+Sonoratown
+Yolk & Flour
+LA Paella
+Ave 26 Taco Stand
+Umeda
+Flavor of India
+Mex Perú Gipsy
+The Exchange Restaurant
+Sweet Chick
+Eagle Rock Kitchen
+Taste of The Caribbean LA at Cellar Hollywood
+Tipsy Tails Hollywood
+Triple 8 China Bar & Grill
+Dollar Hits
+The Detour Bistro Bar
+Thirteen XIII Soju Bar
+Plum Tree Inn
+Kopan Ramen - Los Angeles
+El Caserio
+Whisper Lounge
+ROC - Sawtelle
+Da Pasquale Restaurant
+Oomasa
+Alcove Café & Bakery
+Won Kok Restaurant
+Larchmont Village Wine Spirits & Cheese
+Lucky Bird
+Thai Original BBQ Restaurant
+Emporium Thai
+Hock+Hoof
+Torigoya
+KyoChon
+Jaragua
+The Lobos Truck
+Sage Plant Based Bistro
+Choeng Wun Korean BBQ Buffet Restaurant
+Flavor of India
+The Grain Cafe
+Awash Restaurant
+Tres Sheik
+Il Cielo
+The Hearth & Hound
+Ebaes
+Spear Steak & Seafood House
+Kogi BBQ Truck - Verde
+OMSB
+Thank You For Coming
+Takasan Japanese Bowls
+Umami Burger - Arts District
+Cafe Creole
 Tara’s Himalayan Cuisine
+It’s Pho hollywood
+Yuchun
+Casa La Doña
+The Nice Guy
+Chano’s
+Calle Tacos
+Culina
+Mario’s Pizza
+Kiku Sushi
 Meizhou Dongpo Restaurant
+Oaxacan Quesadilla Cart
+FIN
+Bamboo Restaurant
+Tere’s Mexican Grill
 Orleans & York Deli
 Tengoku Ramen Bar
-Cafe Creole
-Culina
-OMSB
-Whisper Lounge
-Thank You For Coming
-Feng Mao Lamb Kebab
 Flavor of India
 Takasan Japanese Bowls
 El Flamin’ Taco
@@ -927,95 +927,95 @@ Hwal Uh Kwang Jang
 Spice Affair Beverly Hills Indian Restaurant
 Diamond Buffet & Grill
 Flavor of India
-The NoMad Restaurant
-Broken Shaker Los Angeles
-ChiMac Star
-Tandoori Eats
-Sarita’s Pupuseria
-Kimukatsu
-Anzu Japanese Gourmet
-Mario’s Pizza
-Il Cielo
+Wafflejack
+Curry House
+Tres Sheik
+Boda Restaurant
+Elbow Room
+Goldie’s Los Angeles
+Montrésor
+Bayleaf
+Trencher
 Uncle John’s Cafe
-Juanita’s Café
-Bon Juk
-KKINI
-Atlacatl Restaurant
-Okipoki
-Singapore’s Banana Leaf
-Khong Ten
-Dune
-Burgerim
-Pomegranate
-Seafood Express
-Hey Hey
-Pho 24
-Asian Box
-Tacos Tu Madre
-The Nice Guy
-Haché LA
-Empanada’s Place
-Mesa Thai Cuisine
-The Green Olive
-Flavor of India
-El Patroncito Mexican Cuisine
-Burgerlords
-Kuishimbo
-Fat Dragon
-Wako Donkasu
-Buil Samgye Tang
-El Carmen
-Original Pantry Cafe
-Jaffa
-Hayato
-Kai Ramen At Joseph’s Cafe
-Lemonade
-Franklin & Company Tavern
-Tart Restaurant
-Pann’s Restaurant
-Taco Window
-Lucques
-Zinc Cafe & Market
-Pink’s Hot Dogs
-The Grain Cafe
-Sapp Coffee Shop
-Kabuki Japanese Restaurant
-Bang Na Thai Fusion
-Malbec Argentinean Cuisine
-Ohana Superette
-The Rustiq Table
-Tasty Noodle House
-Tengoku Ramen Bar
-El Cholo
-Good Measure
-Flavor of India
-The Parlor
-Good Greek Grill
-Wiki Poki
-The Bellwether
-Olga’s Naturally: Mexican + Vegan
-La Cocinita
-Joan’s on Third
-Fogo de Chão Brazilian Steakhouse
-Fish Eight by Jinpachi
-Full Moon House
-Umami Burger - Broadway
-Ay-Do-No Korean BBQ
+El Amoroso
+The Magic Castle
+Hakata Ikkousha
+Mel’s Fish Shack
+Blair’s
+Pinches Tacos
+Ariyoshi Sushi Cafe Izakaya
+Beverly Soon Tofu Restaurant
+Dante’s Cafe
+Angry Chef Grill
+Mike’s Deli
+Brooklyn Deli & Mini Market
+Indimex Eats
+it’s Mpanada
+Gala Thai
+Gamja Bawi
+Plum Tree Inn
+Nong La Cafe
+Urth Caffé - Downtown
 Yuchun
-LiOrient Asian Bar & Restaurant
-Tolosa
-Mr. Sate
-Tres By José Andrés
-The 3rd Stop
-Emporium Thai
-Sonoritas Prime Tacos
-Bar Verde
-Sky LA Tacos
-Pailin Thai Cuisine
-Osher Bar & Grill
-Hunter & Charlie’s
-Louise’s Trattoria
-Jang Ga Ne
-AhiPoki Bowl
-The Rustic Spoon
-Rays Texas BBQ
+Flavor of India
+Shake Shack
+Truffle Brothers
+Chicharroland
+Hakata Ikkousha
+Jong Won Paik’s Noodle House
+Founders Ale House
+Han Mi Jung
+Sea Dragon Chinese Restaurant
+Azla
+Next Door Lounge
+Orochon Ramen
+Roku
+The Izaka-Ya by Katsu-Ya West Hollywood
+El Huero
+Poke Me
+Al & Bea’s Mexican Food
+New York Famous Deli
+Prizon Bar
+California Chicken Cafe
+Hollywood Thai
+La Cocinita
+Natalie Peruvian Seafood Restaurant
+Dont Skip Breakfast
+Sunnin Lebanese Cafe
+Cleo - Temp. CLOSED
+FIN
+Buca di Beppo Italian Restaurant
+Genwa Korean BBQ
+Mignon
+Doomie’s Home Cookin’
+Flavor of India
+Sun Ha Jang
+Robert’s Russian Cuisine
+Shin Chon Seolnongtang
+Pasta Sisters - Culver City
+Ant
+Katsuya Hollywood
+EP & LP
+Good Greek Grill
+Mel’s Fish Shack
+The Faculty
+Shake Shack
+Tropicalia Brazilian Grill
+Far Bar
+Saved By the Max
+La Scala
+Moun Of Tunis Restaurant
+JINYA Ramen Bar
+Carolyn’s Kitchen
+Louisiana Pico Seafood
+Gol Tong Chicken
+Terroni Downtown
+Yuko Kitchen
+PIPS On La Brea
+Young Dong Restaurant
+El Amoroso
+El Carmen
+Grub
+Tart Restaurant
+Araya’s Place - Thai Vegan Restaurant
+Umami Burger - Hollywood
