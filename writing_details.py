@@ -14,7 +14,7 @@ while start < 990:
 	soup = BeautifulSoup(response.text, 'html.parser')
 	businesses = soup.findAll('div', {'class': 'biz-listing-large'})
 
-	with open(file_path, 'w') as textFile:
+	with open(file_path, 'a') as textFile:
 		count = 0
 		for biz in businesses:
 			try:
