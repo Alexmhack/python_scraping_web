@@ -5,7 +5,7 @@ base_url = "https://www.yelp.com/search?find_desc=Restaurants&find_loc={}&start=
 city = "los angeles"
 
 
-with open('los_angeles_restaurants.txt', 'w') as file:
+with open('los_angeles_restaurants.txt', 'a') as file:
 	start = 0
 	for i in range(100):
 		url = base_url.format(city, start)
@@ -19,9 +19,12 @@ with open('los_angeles_restaurants.txt', 'w') as file:
 
 		count = 0
 		for info in names:
-			title = info.text.encode("utf-8")
-			print(title)
-			count += 1
-			file.write(title + '\n')
-		print(f"{count} RESTAURANTS FOUND...")
+			try:
+				title = info.text
+				print(title)
+				file.write(title + '\n')
+				count += 1
+			except Exception as e:
+				print(e)
+		print(f"{count} RESTAURANTS EXTRACTED...")
 		print(start)
