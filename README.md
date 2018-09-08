@@ -293,6 +293,39 @@ On printing the ```text``` of the html tag we get the title of the restaurant, t
 not all the title cause some block don't have ```biz-name``` class but we have what we 
 need.
 
+We can also write the names of restaurants onto a file but we have to use a try except 
+block while performing the file writing operation since the title names of restaurants 
+contains some non str characters which could cause error.
+
+```
+with open('los_angeles_restaurants.txt', 'a') as file:
+    start = 0
+    for i in range(100):
+        url = base_url.format(city, start)
+        response = requests.get(url)
+        start += 30
+        print(f"STATUS CODE: {response.status_code} FOR {response.url}")
+        soup = BeautifulSoup(response.text, 'html.parser')
+        names = soup.findAll('a', {'class': 'biz-name'})
+
+        count = 0
+        for info in names:
+            try:
+                title = info.text
+                print(title)
+                file.write(title + '\n')
+                count += 1
+            except Exception as e:
+                print(e)
+        print(f"{count} RESTAURANTS EXTRACTED...")
+        print(start)
+        if start == 990:
+            break
+
+```
+
+For any questions regarding what we have done so far contact me at [CodeMentor](http://codementor.tk)
+
 # Advanced Extraction
 In this section we will be go a little more further and extract the name, address, 
 phone-number of the restaurant.
