@@ -1,0 +1,368 @@
+A La Carte Thai Bistro
+['\n            12404 W Washington Blvd\n        ']
+
+            (310) 390-9905
+        
+
+Bestia
+['\n            2121 E 7th Pl\n        ']
+
+            (213) 514-5724
+        
+
+République
+['\n            624 S La Brea Ave\n        ']
+
+            (310) 362-6115
+        
+
+The Morrison
+['\n            3179 Los Feliz Blvd\n        ']
+
+            (323) 667-1839
+        
+
+A Food Affair
+['\n            1513 S Robertson Blvd\n        ']
+
+            (310) 557-9795
+        
+
+Running Goose
+['\n            1620 N Cahuenga Blvd\n        ']
+
+            (323) 469-1080
+        
+
+Perch
+['\n            448 S Hill St\n        ']
+
+            (213) 802-1770
+        
+
+Faith & Flower
+['\n            705 W 9th St\n        ']
+
+            (213) 239-0642
+        
+
+Howlin’ Ray’s
+None
+None
+
+Providence
+['\n            5955 Melrose Ave\n        ']
+
+            (323) 460-4170
+        
+
+Preux & Proper
+['\n            840 S Spring St\n        ']
+
+            (213) 896-0090
+        
+
+Beer Belly
+['\n            532 S Western Ave\n        ']
+
+            (213) 387-2337
+        
+
+Slurpin’ Ramen Bar
+['\n            3500 W 8th St\n        ']
+
+            (213) 388-8607
+        
+
+The Parker Room
+['\n            1358 Vine St\n        ']
+
+            (323) 745-0041
+        
+
+Bottega Louie
+['\n            700 S Grand Ave\n        ']
+
+            (213) 802-1470
+        
+
+Rascal
+['\n            801 S La Brea Ave\n        ']
+
+            (323) 933-3229
+        
+
+Pasta Sisters
+['\n            3343 W Pico Blvd\n        ']
+
+            (323) 870-5271
+        
+
+Pine & Crane
+['\n            1521 Griffith Park Blvd\n        ']
+
+            (323) 668-1128
+        
+
+Bao Dim Sum House
+['\n            8256 Beverly Blvd\n        ']
+
+            (323) 655-6556
+        
+
+Yup Dduk La
+['\n            3603 W 6th St\n        ']
+
+            (213) 263-2355
+        
+
+Franco on Melrose
+['\n            6919 Melrose Ave\n        ']
+
+            (323) 934-3390
+        
+
+Mee and Greet
+['\n            3500 Overland Ave\n        ']
+
+            (310) 876-0838
+        
+
+Otium
+['\n            222 S Hope St\n        ']
+
+            (213) 935-8500
+        
+
+Broken Spanish
+['\n            1050 S Flower St\n        ']
+
+            (213) 749-1460
+        
+
+Komodo
+['\n            8809 W Pico Blvd\n        ']
+
+            (310) 246-5153
+        
+
+Little Sister
+['\n            523 W 7th St\n        ']
+
+            (213) 628-3146
+        
+
+Angelini Osteria
+['\n            7313 Beverly Blvd\n        ']
+
+            (323) 297-0070
+        
+
+Kang Ho-dong Baekjeong
+['\n            3465 W 6th St\n        ']
+
+            (213) 384-9678
+        
+
+Marugame Monzo
+['\n            329 E 1st St\n        ']
+
+            (213) 346-9762
+        
+
+Craft
+['\n            10100 Constellation Blvd\n        ']
+
+            (310) 279-4180
+        
+
+Maccheroni Republic
+['\n            332 S Broadway\n        ']
+
+            (213) 346-9725
+        
+
+A La Carte Thai Bistro
+['\n            12404 W Washington Blvd\n        ']
+
+            (310) 390-9905
+        
+
+Bestia
+['\n            2121 E 7th Pl\n        ']
+
+            (213) 514-5724
+        
+
+Running Goose
+['\n            1620 N Cahuenga Blvd\n        ']
+
+            (323) 469-1080
+        
+
+The Morrison
+['\n            3179 Los Feliz Blvd\n        ']
+
+            (323) 667-1839
+        
+
+Eataly
+['\n            10250 Santa Monica Blvd\n        ']
+
+            (213) 310-8000
+        
+
+Howlin’ Ray’s
+None
+None
+
+Bao Dim Sum House
+['\n            8256 Beverly Blvd\n        ']
+
+            (323) 655-6556
+        
+
+République
+['\n            624 S La Brea Ave\n        ']
+
+            (310) 362-6115
+        
+
+DAMA
+['\n            612 E 11th St\n        ']
+
+            (213) 741-0612
+        
+
+Daikokuya Little Tokyo
+['\n            327 E 1st St\n        ']
+
+            (213) 626-1680
+        
+
+Slurpin’ Ramen Bar
+['\n            3500 W 8th St\n        ']
+
+            (213) 388-8607
+        
+
+A Food Affair
+['\n            1513 S Robertson Blvd\n        ']
+
+            (310) 557-9795
+        
+
+Genwa Korean BBQ
+['\n            5115 Wilshire Blvd\n        ']
+
+            (323) 549-0760
+        
+
+Franco on Melrose
+['\n            6919 Melrose Ave\n        ']
+
+            (323) 934-3390
+        
+
+Perch
+['\n            448 S Hill St\n        ']
+
+            (213) 802-1770
+        
+
+Dirt Dog
+['\n            2528 S Figueroa St\n        ']
+
+            (213) 749-1813
+        
+
+Kang Ho-dong Baekjeong
+['\n            3465 W 6th St\n        ']
+
+            (213) 384-9678
+        
+
+Marugame Monzo
+['\n            329 E 1st St\n        ']
+
+            (213) 346-9762
+        
+
+L’Assiette Steak Frites
+['\n            7166 Melrose Ave\n        ']
+
+            (323) 274-2319
+        
+
+Bottega Louie
+['\n            700 S Grand Ave\n        ']
+
+            (213) 802-1470
+        
+
+The Little Door
+['\n            8164 W 3rd St\n        ']
+
+            (323) 951-1210
+        
+
+Pasta Sisters
+['\n            3343 W Pico Blvd\n        ']
+
+            (323) 870-5271
+        
+
+Wurstküche
+['\n            800 E 3rd St\n        ']
+
+            (213) 687-4444
+        
+
+Rascal
+['\n            801 S La Brea Ave\n        ']
+
+            (323) 933-3229
+        
+
+Faith & Flower
+['\n            705 W 9th St\n        ']
+
+            (213) 239-0642
+        
+
+Osteria Mamma
+['\n            5732 Melrose Ave\n        ']
+
+            (323) 284-7060
+        
+
+Beer Belly
+['\n            532 S Western Ave\n        ']
+
+            (213) 387-2337
+        
+
+Okiboru House of Tsukemen
+['\n            635 N Broadway\n        ']
+
+            (213) 988-7212
+        
+
+Yup Dduk La
+['\n            3603 W 6th St\n        ']
+
+            (213) 263-2355
+        
+
+Hangari Bajirak Kalguksu
+['\n            3470 W 6th St\n        ']
+
+            (213) 388-2326
+        
+
+Maccheroni Republic
+['\n            332 S Broadway\n        ']
+
+            (213) 346-9725
+        
+
