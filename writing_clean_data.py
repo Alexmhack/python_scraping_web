@@ -20,8 +20,9 @@ while start < 60:
 			try:
 				title = biz.find('a', {'class': 'biz-name'}).text
 				address = biz.find('address').contents
-				print(address)
+				# print(address)
 				phone = biz.find('span', {'class': 'biz-phone'}).text
+				region = soup.find('span', {'class': 'neighborhood-str-list'}).contents
 				count += 1
 			except Exception as e:
 				print(e)
@@ -32,7 +33,8 @@ while start < 60:
 				phone = None
 
 			detail = f"{title}\n{address}\n{phone}"
-			print(detail)
+			print(region)
+			# print(detail)
 
 			try:
 				textFile.write(str(detail) + '\n\n')
