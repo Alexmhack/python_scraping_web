@@ -22,7 +22,7 @@ while start < 60:
 				address = biz.find('address').contents
 				# print(address)
 				phone = biz.find('span', {'class': 'biz-phone'}).text
-				region = soup.find('span', {'class': 'neighborhood-str-list'}).contents
+				region = biz.find('span', {'class': 'neighborhood-str-list'}).contents
 				count += 1
 			except Exception as e:
 				print(e)
@@ -31,9 +31,9 @@ while start < 60:
 				logs.close()
 				address = None
 				phone = None
+				region = None
 
-			detail = f"{title}\n{address}\n{phone}"
-			print(region)
+			detail = f"{title}\n{address}\n{phone}\n{region}"
 			# print(detail)
 
 			try:
