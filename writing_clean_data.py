@@ -20,37 +20,53 @@ while start < 990:
 			first_line = ""
 			second_line = ""
 			phone_number = ""
+
+			title = biz.find('a', {'class': 'biz-name'}).text
+			# print(address)
+			count += 1
+			
 			try:
-				title = biz.find('a', {'class': 'biz-name'}).text
 				address = biz.find('address').contents
-				# print(address)
-				phone = biz.find('span', {'class': 'biz-phone'}).contents
-				region = biz.find('span', {'class': 'neighborhood-str-list'}).contents
-				count += 1
 				for item in address:
 					if "br" in item:
 						first_line += item.getText() + " "
 					else:
 						second_line += item.strip(" \n\r\t") + " "
+			except Exception as e:
+				print(e)
+				address = None
+				logs = open('errors.log', 'a')
+				logs.write(str(e) + '\n')
+				logs.close()
+
+			try:
+				region = biz.find('span', {'class': 'neighborhood-str-list'}).contents
 				for item in region:
 					if "br" in item:
 						first_line += item.getText() + " "
 					else:
 						second_line += item.strip(" \n\t\r") + " "
+			except Exception as e:
+				print(e)
+				first_line = None
+				second_line = None
+				logs = open('errors.log', 'a')
+				logs.write(str(e) + '\n')
+				logs.close()
+
+			try:
+				phone = biz.find('span', {'class': 'biz-phone'}).contents
 				for item in phone:
 					if "br" in item:
 						phone_number += item.getText() + " "
 					else:
 						phone_number += item.strip(" \n\t\r") + " "
-
 			except Exception as e:
 				print(e)
+				phone_number = None
 				logs = open('errors.log', 'a')
 				logs.write(str(e) + '\n')
 				logs.close()
-				address = None
-				phone_number = None
-				region = None
 
 			detail = f"{title}\n{second_line}\n{phone_number}\n"
 			print(detail)
