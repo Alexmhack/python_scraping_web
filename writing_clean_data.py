@@ -49,7 +49,7 @@ while start < 990:
 				logs.write(str(e) + '\n')
 				logs.close()
 				address = None
-				phone = None
+				phone_number = None
 				region = None
 
 			detail = f"{title}\n{second_line}\n{phone_number}\n"
