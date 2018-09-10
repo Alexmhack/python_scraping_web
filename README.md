@@ -388,3 +388,194 @@ Home Restaurant - Los Feliz
         
     ...
 ```
+
+# Writing Clean Data
+Once we have extracted the data we want to make our data look good i.e. not without 
+any spaces and newlines so for that we will use a simple logic 
+
+**writing_clean_data.py**
+```
+    ...
+    with open(file_path, 'a') as textFile:
+        count = 0
+        for biz in businesses:
+            try:
+                title = biz.find('a', {'class': 'biz-name'}).text
+                address = biz.find('address').contents
+                # print(address)
+                phone = biz.find('span', {'class': 'biz-phone'}).text
+                region = biz.find('span', {'class': 'neighborhood-str-list'}).contents
+                count += 1
+                for item in address:
+                    if "br" in item:
+                        print(item.getText())
+                    else:
+                        print('\n' + item.strip(" \n\r\t"))
+                for item in region:
+                    if "br" in item:
+                        print(item.getText())
+                    else:
+                        print(item.strip(" \n\t\r") + '\n')
+...                        
+```
+
+We simply get the text of the item if there are any **br** tags else we strip the
+newlines, return lines, tabs and spaces / space from the text, On running the file
+
+```
+800 W Sunset Blvd
+Echo Park
+
+
+4156 Santa Monica Blvd
+Silver Lake
+
+
+8500 Beverly Blvd
+Beverly Grove
+
+
+5484 Wilshire Blvd
+Mid-Wilshire
+
+
+5115 Wilshire Blvd
+Hancock Park
+
+
+126 E 6th St
+Downtown
+
+
+8164 W 3rd St
+Beverly Grove
+
+
+7910 W 3rd St
+Beverly Grove
+
+
+4163 W 5th St
+Koreatown
+
+
+435 N Fairfax Ave
+Beverly Grove
+
+
+1267 W Temple St
+Echo Park
+
+
+429 W 8th St
+Downtown
+
+
+724 S Spring St
+Downtown
+
+
+8450 W 3rd St
+Beverly Grove
+
+
+2308 S Union Ave
+University Park
+
+
+5583 W Pico Blvd
+Mid-Wilshire
+
+'NoneType' object has no attribute 'contents'
+
+3413 Cahuenga Blvd W
+Hollywood Hills
+
+
+727 N Broadway
+Chinatown
+
+
+6602 Melrose Ave
+Hancock Park
+
+
+612 E 11th St
+Downtown
+...
+```
+
+The same way we have to clean the phone number 
+
+```
+                ...
+                for item in phone:
+                    if "br" in item:
+                        phone_number += item.getText() + " "
+                    else:
+                        phone_number += item.strip(" \n\t\r") + " "
+                    ...
+
+            except Exception as e:
+                print(e)
+                logs = open('errors.log', 'a')
+                logs.write(str(e) + '\n')
+                logs.close()
+                address = None
+                phone_number = None
+                region = None
+```
+
+Again run the file and change the ```start = 990``` delete all content in 
+```yelp-{city}-clean.txt``` run the file again. All details of the restaurant will
+be written to the file 
+
+**yelp-{city}-clean.txt**
+```
+Tea Station Express
+
+
+
+
+Bestia
+2121 E 7th Pl Downtown 
+(213) 514-5724 
+
+
+République
+624 S La Brea Ave Hancock Park 
+(310) 362-6115 
+
+
+The Morrison
+3179 Los Feliz Blvd Atwater Village 
+(323) 667-1839 
+
+
+A Food Affair
+1513 S Robertson Blvd Pico-Robertson 
+(310) 557-9795 
+
+
+Running Goose
+1620 N Cahuenga Blvd Hollywood 
+(323) 469-1080 
+
+
+Howlin’ Ray’s
+
+
+
+
+Perch
+448 S Hill St Downtown 
+(213) 802-1770 
+
+
+Faith & Flower
+705 W 9th St Downtown 
+(213) 239-0642 
+```
+
+Notice that we some of the data is missing because due to some error we reduce the risk
+of code crashing by setting the values to ```None```
