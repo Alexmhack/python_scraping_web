@@ -6,7 +6,7 @@ city = "los+angeles"
 start = 0
 file_path = f'yelp-{city}-clean.txt'
 
-while start < 60:
+while start < 990:
 	print(start)
 	url = base_url.format(city, start)
 	response = requests.get(url)
@@ -19,11 +19,12 @@ while start < 60:
 		for biz in businesses:
 			first_line = ""
 			second_line = ""
+			phone_number = ""
 			try:
 				title = biz.find('a', {'class': 'biz-name'}).text
 				address = biz.find('address').contents
 				# print(address)
-				phone = biz.find('span', {'class': 'biz-phone'}).text
+				phone = biz.find('span', {'class': 'biz-phone'}).contents
 				region = biz.find('span', {'class': 'neighborhood-str-list'}).contents
 				count += 1
 				for item in address:
@@ -36,6 +37,11 @@ while start < 60:
 						first_line += item.getText() + " "
 					else:
 						second_line += item.strip(" \n\t\r") + " "
+				for item in phone:
+					if "br" in item:
+						phone_number += item.getText() + " "
+					else:
+						phone_number += item.strip(" \n\t\r") + " "
 
 			except Exception as e:
 				print(e)
@@ -46,7 +52,7 @@ while start < 60:
 				phone = None
 				region = None
 
-			detail = f"{title}\n{second_line}\n{phone}\n"
+			detail = f"{title}\n{second_line}\n{phone_number}\n"
 			print(detail)
 
 			try:
@@ -57,4 +63,3 @@ while start < 60:
 				logs.close()
 
 	start += 30
-
