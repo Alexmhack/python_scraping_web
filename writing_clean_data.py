@@ -17,6 +17,8 @@ while start < 60:
 	with open(file_path, 'a') as textFile:
 		count = 0
 		for biz in businesses:
+			first_line = ""
+			second_line = ""
 			try:
 				title = biz.find('a', {'class': 'biz-name'}).text
 				address = biz.find('address').contents
@@ -24,8 +26,6 @@ while start < 60:
 				phone = biz.find('span', {'class': 'biz-phone'}).text
 				region = biz.find('span', {'class': 'neighborhood-str-list'}).contents
 				count += 1
-				first_line = ""
-				second_line = ""
 				for item in address:
 					if "br" in item:
 						first_line += item.getText() + " "
@@ -46,8 +46,8 @@ while start < 60:
 				phone = None
 				region = None
 
-			detail = f"{title}\n{address}\n{phone}\n{region}"
-			# print(detail)
+			detail = f"{title}\n{second_line}\n{phone}\n"
+			print(detail)
 
 			try:
 				textFile.write(str(detail) + '\n\n')
