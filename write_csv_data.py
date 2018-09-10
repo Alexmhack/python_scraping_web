@@ -1,12 +1,20 @@
 import requests
+import csv
 from bs4 import BeautifulSoup
 
 base_url = "https://www.yelp.com/search?find_desc=Restaurants&find_loc={}&start={}"
 city = "los+angeles"
 start = 0
-file_path = f'yelp-{city}-clean.txt'
+file_path = f'yelp-{city}-clean.csv'
 
-while start < 990:
+def get_length(file_path):
+	with open(file_path) as csvfile:
+		reader = csv.reader(csvfile)
+		reader_list = list(reader)
+	return len(reader_list)
+
+
+while start < 60:
 		print(start)
 		url = base_url.format(city, start)
 		response = requests.get(url)
@@ -14,8 +22,13 @@ while start < 990:
 		soup = BeautifulSoup(response.text, 'html.parser')
 		businesses = soup.findAll('div', {'class': 'biz-listing-large'})
 
-		with open(file_path, 'a') as textFile:
+		with open(file_path, 'a', newline='') as csvfile:
+			fieldnames = ['id', 'title', 'address', 'phone']
+			reader = csv.DictReader(csvfile, fieldnames=fieldnames)
+			writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 			count = 0
+			if start == 0:
+				writer.writeheader()
 			for biz in businesses:
 				first_line = ""
 				second_line = ""
@@ -36,7 +49,9 @@ while start < 990:
 					print(e)
 					address = None
 					logs = open('errors.log', 'a')
+					logs.write(str(__file__) + '-- STARTS' + '\n')
 					logs.write(str(e) + '\n')
+					logs.write(str(__file__) + '-- ENDS' + '\n\n')
 					logs.close()
 
 				try:
@@ -51,7 +66,9 @@ while start < 990:
 					first_line = None
 					second_line = None
 					logs = open('errors.log', 'a')
+					logs.write(str(__file__) + '-- STARTS' + '\n')
 					logs.write(str(e) + '\n')
+					logs.write(str(__file__) + '-- ENDS' + '\n\n')
 					logs.close()
 
 				try:
@@ -65,17 +82,28 @@ while start < 990:
 					print(e)
 					phone_number = None
 					logs = open('errors.log', 'a')
+					logs.write(str(__file__) + '-- STARTS' + '\n')
 					logs.write(str(e) + '\n')
+					logs.write(str(__file__) + '-- ENDS' + '\n\n')
 					logs.close()
 
 				detail = f"{title}\n{second_line}\n{phone_number}\n"
 				print(detail)
 
+				next_id = get_length(file_path)
+
 				try:
-					textFile.write(str(detail) + '\n\n')
+					writer.writerow({
+						'id': next_id,
+						'title': title,
+						'address': second_line,
+						'phone': phone_number
+					})
 				except Exception as e:
 					logs = open('errors.log', 'a')
+					logs.write(str(__file__) + '-- STARTS' + '\n')
 					logs.write(str(e) + '\n')
+					logs.write(str(__file__) + '-- ENDS' + '\n\n')
 					logs.close()
 
 		start += 30
