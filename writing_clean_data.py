@@ -24,16 +24,18 @@ while start < 60:
 				phone = biz.find('span', {'class': 'biz-phone'}).text
 				region = biz.find('span', {'class': 'neighborhood-str-list'}).contents
 				count += 1
+				first_line = ""
+				second_line = ""
 				for item in address:
 					if "br" in item:
-						print(item.getText())
+						first_line += item.getText() + " "
 					else:
-						print('\n' + item.strip(" \n\r\t"))
+						second_line += item.strip(" \n\r\t") + " "
 				for item in region:
 					if "br" in item:
-						print(item.getText())
+						first_line += item.getText() + " "
 					else:
-						print(item.strip(" \n\t\r") + '\n')
+						second_line += item.strip(" \n\t\r") + " "
 
 			except Exception as e:
 				print(e)
