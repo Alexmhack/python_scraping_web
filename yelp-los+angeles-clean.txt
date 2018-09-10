@@ -1,3300 +1,5100 @@
-A La Carte Thai Bistro
-['\n            12404 W Washington Blvd\n        ']
+Tea Station Express
 
-            (310) 390-9905
-        
+
+
 
 Bestia
-['\n            2121 E 7th Pl\n        ']
+2121 E 7th Pl Downtown 
+(213) 514-5724 
 
-            (213) 514-5724
-        
 
 République
-['\n            624 S La Brea Ave\n        ']
+624 S La Brea Ave Hancock Park 
+(310) 362-6115 
 
-            (310) 362-6115
-        
 
 The Morrison
-['\n            3179 Los Feliz Blvd\n        ']
+3179 Los Feliz Blvd Atwater Village 
+(323) 667-1839 
 
-            (323) 667-1839
-        
 
 A Food Affair
-['\n            1513 S Robertson Blvd\n        ']
+1513 S Robertson Blvd Pico-Robertson 
+(310) 557-9795 
 
-            (310) 557-9795
-        
 
 Running Goose
-['\n            1620 N Cahuenga Blvd\n        ']
+1620 N Cahuenga Blvd Hollywood 
+(323) 469-1080 
 
-            (323) 469-1080
-        
+
+Howlin’ Ray’s
+
+
+
 
 Perch
-['\n            448 S Hill St\n        ']
+448 S Hill St Downtown 
+(213) 802-1770 
 
-            (213) 802-1770
-        
 
 Faith & Flower
-['\n            705 W 9th St\n        ']
+705 W 9th St Downtown 
+(213) 239-0642 
 
-            (213) 239-0642
-        
-
-Howlin’ Ray’s
-None
-None
 
 Providence
-['\n            5955 Melrose Ave\n        ']
+5955 Melrose Ave Hollywood 
+(323) 460-4170 
 
-            (323) 460-4170
-        
 
 Preux & Proper
-['\n            840 S Spring St\n        ']
+840 S Spring St Downtown 
+(213) 896-0090 
 
-            (213) 896-0090
-        
-
-Beer Belly
-['\n            532 S Western Ave\n        ']
-
-            (213) 387-2337
-        
-
-Slurpin’ Ramen Bar
-['\n            3500 W 8th St\n        ']
-
-            (213) 388-8607
-        
 
 The Parker Room
-['\n            1358 Vine St\n        ']
+1358 Vine St Hollywood 
+(323) 745-0041 
 
-            (323) 745-0041
-        
-
-Bottega Louie
-['\n            700 S Grand Ave\n        ']
-
-            (213) 802-1470
-        
-
-Rascal
-['\n            801 S La Brea Ave\n        ']
-
-            (323) 933-3229
-        
-
-Pasta Sisters
-['\n            3343 W Pico Blvd\n        ']
-
-            (323) 870-5271
-        
-
-Pine & Crane
-['\n            1521 Griffith Park Blvd\n        ']
-
-            (323) 668-1128
-        
-
-Bao Dim Sum House
-['\n            8256 Beverly Blvd\n        ']
-
-            (323) 655-6556
-        
-
-Yup Dduk La
-['\n            3603 W 6th St\n        ']
-
-            (213) 263-2355
-        
-
-Franco on Melrose
-['\n            6919 Melrose Ave\n        ']
-
-            (323) 934-3390
-        
-
-Mee and Greet
-['\n            3500 Overland Ave\n        ']
-
-            (310) 876-0838
-        
-
-Otium
-['\n            222 S Hope St\n        ']
-
-            (213) 935-8500
-        
-
-Broken Spanish
-['\n            1050 S Flower St\n        ']
-
-            (213) 749-1460
-        
-
-Komodo
-['\n            8809 W Pico Blvd\n        ']
-
-            (310) 246-5153
-        
-
-Little Sister
-['\n            523 W 7th St\n        ']
-
-            (213) 628-3146
-        
-
-Angelini Osteria
-['\n            7313 Beverly Blvd\n        ']
-
-            (323) 297-0070
-        
-
-Kang Ho-dong Baekjeong
-['\n            3465 W 6th St\n        ']
-
-            (213) 384-9678
-        
-
-Marugame Monzo
-['\n            329 E 1st St\n        ']
-
-            (213) 346-9762
-        
-
-Craft
-['\n            10100 Constellation Blvd\n        ']
-
-            (310) 279-4180
-        
-
-Maccheroni Republic
-['\n            332 S Broadway\n        ']
-
-            (213) 346-9725
-        
-
-A La Carte Thai Bistro
-['\n            12404 W Washington Blvd\n        ']
-
-            (310) 390-9905
-        
-
-Bestia
-['\n            2121 E 7th Pl\n        ']
-
-            (213) 514-5724
-        
-
-Running Goose
-['\n            1620 N Cahuenga Blvd\n        ']
-
-            (323) 469-1080
-        
-
-The Morrison
-['\n            3179 Los Feliz Blvd\n        ']
-
-            (323) 667-1839
-        
-
-Eataly
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (213) 310-8000
-        
-
-Howlin’ Ray’s
-None
-None
-
-Bao Dim Sum House
-['\n            8256 Beverly Blvd\n        ']
-
-            (323) 655-6556
-        
-
-République
-['\n            624 S La Brea Ave\n        ']
-
-            (310) 362-6115
-        
-
-DAMA
-['\n            612 E 11th St\n        ']
-
-            (213) 741-0612
-        
-
-Daikokuya Little Tokyo
-['\n            327 E 1st St\n        ']
-
-            (213) 626-1680
-        
 
 Slurpin’ Ramen Bar
-['\n            3500 W 8th St\n        ']
+3500 W 8th St Koreatown 
+(213) 388-8607 
 
-            (213) 388-8607
-        
 
-A Food Affair
-['\n            1513 S Robertson Blvd\n        ']
+Bottega Louie
+700 S Grand Ave Downtown 
+(213) 802-1470 
 
-            (310) 557-9795
-        
 
-Genwa Korean BBQ
-['\n            5115 Wilshire Blvd\n        ']
+Pine & Crane
+1521 Griffith Park Blvd Silver Lake 
+(323) 668-1128 
 
-            (323) 549-0760
-        
+
+Pasta Sisters
+3343 W Pico Blvd Arlington Heights 
+(323) 870-5271 
+
+
+Beer Belly
+532 S Western Ave Koreatown 
+(213) 387-2337 
+
+
+Mee and Greet
+3500 Overland Ave Palms 
+(310) 876-0838 
+
+
+Yup Dduk La
+3603 W 6th St Wilshire Center 
+(213) 263-2355 
+
+
+Bao Dim Sum House
+8256 Beverly Blvd Beverly Grove 
+(323) 655-6556 
+
+
+Angelini Osteria
+7313 Beverly Blvd Fairfax 
+(323) 297-0070 
+
+
+Otium
+222 S Hope St Downtown 
+(213) 935-8500 
+
 
 Franco on Melrose
-['\n            6919 Melrose Ave\n        ']
+6919 Melrose Ave Hollywood 
+(323) 934-3390 
 
-            (323) 934-3390
-        
 
-Perch
-['\n            448 S Hill St\n        ']
+Broken Spanish
+1050 S Flower St Downtown 
+(213) 749-1460 
 
-            (213) 802-1770
-        
-
-Dirt Dog
-['\n            2528 S Figueroa St\n        ']
-
-            (213) 749-1813
-        
 
 Kang Ho-dong Baekjeong
-['\n            3465 W 6th St\n        ']
+3465 W 6th St Wilshire Center 
+(213) 384-9678 
 
-            (213) 384-9678
-        
+
+Daikokuya Little Tokyo
+327 E 1st St Little Tokyo 
+(213) 626-1680 
+
 
 Marugame Monzo
-['\n            329 E 1st St\n        ']
+329 E 1st St Little Tokyo 
+(213) 346-9762 
 
-            (213) 346-9762
-        
+
+Komodo
+8809 W Pico Blvd Pico-Robertson 
+(310) 246-5153 
+
+
+Little Sister
+523 W 7th St Downtown 
+(213) 628-3146 
+
+
+Rascal
+801 S La Brea Ave Mid-Wilshire 
+(323) 933-3229 
+
+
+Maccheroni Republic
+332 S Broadway Downtown 
+(213) 346-9725 
+
+
+Tea Station Express
+
+
+
+
+Osteria Mamma
+5732 Melrose Ave Larchmont 
+(323) 284-7060 
+
+
+Hinoki & The Bird
+10 W Century Dr Century City 
+(310) 552-1200 
+
+
+Providence
+5955 Melrose Ave Hollywood 
+(323) 460-4170 
+
+
+RockSugar Southeast Asian Kitchen
+10250 Santa Monica Blvd Century City 
+(310) 552-9988 
+
+
+Barton G Los Angeles
+
+
+
+
+The Thai Thing
+6015 W 3rd St Fairfax 
+(323) 954-8424 
+
+
+Jon & Vinny’s
+412 N Fairfax Ave Fairfax 
+(323) 334-3369 
+
+
+Grand Central Market
+317 S Broadway Downtown 
+(213) 624-2378 
+
+
+Rascal
+801 S La Brea Ave Mid-Wilshire 
+(323) 933-3229 
+
+
+Hae Jang Chon Korean BBQ Restaurant
+3821 W 6th St Koreatown 
+(213) 389-8777 
+
+
+Din Tai Fung
+10250 Santa Monica Blvd Century City 
+(424) 382-1118 
+
+
+Han Bat Shul Lung Tang
+4163 W 5th St Koreatown 
+(213) 383-9499 
+
+
+Beer Belly
+532 S Western Ave Koreatown 
+(213) 387-2337 
+
+
+Hoy-Ka Thai Restaurant
+5908 Sunset Blvd Hollywood 
+(323) 463-2979 
+
+
+Portobanco’s Restaurant
+1225 Venice Blvd Pico-Union 
+(213) 908-5565 
+
+
+71 Above
+633 W 5th St Downtown 
+(213) 712-2683 
+
+
+Dave’s Hot Chicken
+970 N Western Ave East Hollywood 
+(323) 536-9711 
+
+
+Open Sesame
+7458 Beverly Blvd Fairfax 
+(323) 525-1698 
+
+
+Sage Plant Based Bistro and Brewery
+1700 Sunset Blvd Echo Park 
+(213) 989-1718 
+
+
+Komodo
+8809 W Pico Blvd Pico-Robertson 
+(310) 246-5153 
+
+
+Chinchikurin-Sawtelle
+2119 Sawtelle Blvd Sawtelle 
+(310) 478-0521 
+
+
+Clayton’s Public House
+541 S Spring St Downtown 
+(213) 863-4327 
+
+
+Hokkaido Ramen Santouka
+3760 S Centinela Ave Mar Vista 
+(310) 391-1101 
+
+
+Sun Nong Dan
+3470 W 6th St Wilshire Center 
+(213) 365-0303 
+
+
+The Park’s Finest
+1267 W Temple St Echo Park 
+(213) 481-2800 
+
+
+Craft
+10100 Constellation Blvd Century City 
+(310) 279-4180 
+
+
+Yang Chow
+819 N Broadway Chinatown 
+(213) 625-0811 
+
+
+Preux & Proper
+840 S Spring St Downtown 
+(213) 896-0090 
+
+
+Pizzeria Mozza
+641 N Highland Ave Hancock Park 
+(323) 297-0101 
+
+
+Izakaya Fu-ga
+111 S San Pedro St Little Tokyo 
+(213) 625-1722 
+
+
+Tea Station Express
+
+
+
+
+Gogobop Korean Rice Bar
+3456 Wilshire Blvd Wilshire Center 
+(213) 385-1089 
+
+
+The Hungry Pig
+2920 W Temple St Westlake 
+(213) 387-7787 
+
+
+PAPA’S CHICKEN
+3003 W Olympic Blvd Koreatown 
+(213) 674-7490 
+
+
+Pizzeria Mozza
+641 N Highland Ave Hancock Park 
+(323) 297-0101 
+
+
+Cattle & Claw
+
+
+
+
+Hatchet Hall
+
+
+
+
+Osteria La Buca
+5210 Melrose Ave Larchmont 
+(323) 462-1900 
+
+
+Eggslut
+317 S Broadway Downtown 
+(213) 625-0292 
+
+
+Manuela
+907 E 3rd St Arts District 
+(323) 849-0480 
+
+
+COD Restaurant
+8408 W 3rd St Beverly Grove 
+(323) 658-9188 
+
+
+Full House Barbeque
+3909 Beverly Blvd East Hollywood 
+(323) 250-0550 
+
+
+Maggiano’s Little Italy
+189 The Grove Dr Fairfax 
+(323) 965-9665 
+
+
+The Wallace
+
+
+
 
 L’Assiette Steak Frites
-['\n            7166 Melrose Ave\n        ']
+7166 Melrose Ave Fairfax 
+(323) 274-2319 
 
-            (323) 274-2319
-        
-
-Bottega Louie
-['\n            700 S Grand Ave\n        ']
-
-            (213) 802-1470
-        
-
-The Little Door
-['\n            8164 W 3rd St\n        ']
-
-            (323) 951-1210
-        
-
-Pasta Sisters
-['\n            3343 W Pico Blvd\n        ']
-
-            (323) 870-5271
-        
 
 Wurstküche
-['\n            800 E 3rd St\n        ']
+800 E 3rd St Arts District 
+(213) 687-4444 
 
-            (213) 687-4444
-        
 
-Rascal
-['\n            801 S La Brea Ave\n        ']
+Mild Sauce
+8500 W Olympic Blvd Pico-Robertson 
+(310) 652-3310 
 
-            (323) 933-3229
-        
 
-Faith & Flower
-['\n            705 W 9th St\n        ']
+Blue Cow Kitchen & Bar
+350 S Grand Ave Downtown 
+(213) 621-2249 
 
-            (213) 239-0642
-        
 
-Osteria Mamma
-['\n            5732 Melrose Ave\n        ']
+Odys and Penelope
+127 S La Brea Fairfax 
+(323) 433-1057 
 
-            (323) 284-7060
-        
 
-Beer Belly
-['\n            532 S Western Ave\n        ']
+Bäco Mercat
+408 S Main St Downtown 
+(213) 687-8808 
 
-            (213) 387-2337
-        
 
-Okiboru House of Tsukemen
-['\n            635 N Broadway\n        ']
+Son of a Gun
+8370 W 3rd St Beverly Grove 
+(323) 782-9033 
 
-            (213) 988-7212
-        
 
-Yup Dduk La
-['\n            3603 W 6th St\n        ']
+Monty’s Good Burger
+516 S Western Ave Koreatown 
+(213) 915-0257 
 
-            (213) 263-2355
-        
 
-Hangari Bajirak Kalguksu
-['\n            3470 W 6th St\n        ']
+Redbird
+114 E 2nd St Downtown 
+(213) 788-1191 
 
-            (213) 388-2326
-        
 
-Maccheroni Republic
-['\n            332 S Broadway\n        ']
+Kali Restaurant
+5722 Melrose Ave Larchmont 
+(323) 871-4160 
 
-            (213) 346-9725
-        
+
+Little Next Door
+8142 W 3rd St Beverly Grove 
+(323) 951-1010 
+
+
+Honeybird
+3201 S Hoover St University Park 
+(213) 536-5790 
+
+
+EMC Seafood & Raw Bar
+3500 W 6th St Wilshire Center 
+(213) 351-9988 
+
+
+Dumpling House
+3525 W 3rd St Koreatown 
+(213) 389-3899 
+
+
+La Pergoletta
+1802 Hillhurst Ave Los Feliz 
+(323) 664-8259 
+
+
+Little Jewel of New Orleans
+207 Ord St Chinatown 
+(213) 620-0461 
+
+
+Water Grill- Los Angeles
+544 S Grand Ave Downtown 
+(213) 891-0900 
+
 
 Tea Station Express
-['\n            5700 Rosemead Blvd\n        ']
 
-            (626) 427-8081
-        
 
-Bestia
-['\n            2121 E 7th Pl\n        ']
 
-            (213) 514-5724
-        
-
-République
-['\n            624 S La Brea Ave\n        ']
-
-            (310) 362-6115
-        
-
-The Morrison
-['\n            3179 Los Feliz Blvd\n        ']
-
-            (323) 667-1839
-        
-
-A Food Affair
-['\n            1513 S Robertson Blvd\n        ']
-
-            (310) 557-9795
-        
-
-Running Goose
-['\n            1620 N Cahuenga Blvd\n        ']
-
-            (323) 469-1080
-        
-
-Howlin’ Ray’s
-None
-None
-
-Perch
-['\n            448 S Hill St\n        ']
-
-            (213) 802-1770
-        
-
-Faith & Flower
-['\n            705 W 9th St\n        ']
-
-            (213) 239-0642
-        
-
-Providence
-['\n            5955 Melrose Ave\n        ']
-
-            (323) 460-4170
-        
-
-Preux & Proper
-['\n            840 S Spring St\n        ']
-
-            (213) 896-0090
-        
-
-The Parker Room
-['\n            1358 Vine St\n        ']
-
-            (323) 745-0041
-        
-
-Slurpin’ Ramen Bar
-['\n            3500 W 8th St\n        ']
-
-            (213) 388-8607
-        
-
-Bottega Louie
-['\n            700 S Grand Ave\n        ']
-
-            (213) 802-1470
-        
-
-Pine & Crane
-['\n            1521 Griffith Park Blvd\n        ']
-
-            (323) 668-1128
-        
-
-Pasta Sisters
-['\n            3343 W Pico Blvd\n        ']
-
-            (323) 870-5271
-        
-
-Beer Belly
-['\n            532 S Western Ave\n        ']
-
-            (213) 387-2337
-        
-
-Mee and Greet
-['\n            3500 Overland Ave\n        ']
-
-            (310) 876-0838
-        
-
-Yup Dduk La
-['\n            3603 W 6th St\n        ']
-
-            (213) 263-2355
-        
-
-Bao Dim Sum House
-['\n            8256 Beverly Blvd\n        ']
-
-            (323) 655-6556
-        
-
-Angelini Osteria
-['\n            7313 Beverly Blvd\n        ']
-
-            (323) 297-0070
-        
-
-Otium
-['\n            222 S Hope St\n        ']
-
-            (213) 935-8500
-        
-
-Franco on Melrose
-['\n            6919 Melrose Ave\n        ']
-
-            (323) 934-3390
-        
 
 Broken Spanish
-['\n            1050 S Flower St\n        ']
+1050 S Flower St Downtown 
+(213) 749-1460 
 
-            (213) 749-1460
-        
 
-Kang Ho-dong Baekjeong
-['\n            3465 W 6th St\n        ']
+Gusto
+8022 W 3rd St Beverly Grove 
+(323) 951-9800 
 
-            (213) 384-9678
-        
 
-Daikokuya Little Tokyo
-['\n            327 E 1st St\n        ']
+Palms Thai Restaurant
+5900 Hollywood Blvd Hollywood 
+(323) 462-5073 
 
-            (213) 626-1680
-        
 
-Marugame Monzo
-['\n            329 E 1st St\n        ']
+KazuNori | The Original Hand Roll Bar
+421 S Main St Downtown 
+(213) 493-6956 
 
-            (213) 346-9762
-        
 
-Komodo
-['\n            8809 W Pico Blvd\n        ']
+Cafe Beaujolais
+1712 Colorado Blvd Eagle Rock 
+(323) 255-5111 
 
-            (310) 246-5153
-        
 
-Little Sister
-['\n            523 W 7th St\n        ']
+Stout Burgers & Beers
+1544 N Cahuenga Blvd Hollywood 
+(323) 469-3801 
 
-            (213) 628-3146
-        
-
-Rascal
-['\n            801 S La Brea Ave\n        ']
-
-            (323) 933-3229
-        
-
-Maccheroni Republic
-['\n            332 S Broadway\n        ']
-
-            (213) 346-9725
-        
-
-Tea Station Express
-['\n            5700 Rosemead Blvd\n        ']
-
-            (626) 427-8081
-        
-
-Osteria Mamma
-['\n            5732 Melrose Ave\n        ']
-
-            (323) 284-7060
-        
-
-Hinoki & The Bird
-['\n            10 W Century Dr\n        ']
-
-            (310) 552-1200
-        
-
-Providence
-['\n            5955 Melrose Ave\n        ']
-
-            (323) 460-4170
-        
-
-RockSugar Southeast Asian Kitchen
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (310) 552-9988
-        
-
-Barton G Los Angeles
-['\n            861 N La Cienega Blvd\n        ']
-
-            (310) 388-1888
-        
-
-The Thai Thing
-['\n            6015 W 3rd St\n        ']
-
-            (323) 954-8424
-        
-
-Jon & Vinny’s
-['\n            412 N Fairfax Ave\n        ']
-
-            (323) 334-3369
-        
-
-Grand Central Market
-['\n            317 S Broadway\n        ']
-
-            (213) 624-2378
-        
-
-Rascal
-['\n            801 S La Brea Ave\n        ']
-
-            (323) 933-3229
-        
-
-Hae Jang Chon Korean BBQ Restaurant
-['\n            3821 W 6th St\n        ']
-
-            (213) 389-8777
-        
-
-Din Tai Fung
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (424) 382-1118
-        
-
-Han Bat Shul Lung Tang
-['\n            4163 W 5th St\n        ']
-
-            (213) 383-9499
-        
-
-Beer Belly
-['\n            532 S Western Ave\n        ']
-
-            (213) 387-2337
-        
-
-Hoy-Ka Thai Restaurant
-['\n            5908 Sunset Blvd\n        ']
-
-            (323) 463-2979
-        
-
-Portobanco’s Restaurant
-['\n            1225 Venice Blvd\n        ']
-
-            (213) 908-5565
-        
-
-71 Above
-['\n            633 W 5th St\n        ']
-
-            (213) 712-2683
-        
-
-Dave’s Hot Chicken
-['\n            970 N Western Ave\n        ']
-
-            (323) 536-9711
-        
-
-Open Sesame
-['\n            7458 Beverly Blvd\n        ']
-
-            (323) 525-1698
-        
-
-Sage Plant Based Bistro and Brewery
-['\n            1700 Sunset Blvd\n        ']
-
-            (213) 989-1718
-        
-
-Komodo
-['\n            8809 W Pico Blvd\n        ']
-
-            (310) 246-5153
-        
-
-Chinchikurin-Sawtelle
-['\n            2119 Sawtelle Blvd\n        ']
-
-            (310) 478-0521
-        
-
-Clayton’s Public House
-['\n            541 S Spring St\n        ']
-
-            (213) 863-4327
-        
-
-Hokkaido Ramen Santouka
-['\n            3760 S Centinela Ave\n        ']
-
-            (310) 391-1101
-        
-
-Sun Nong Dan
-['\n            3470 W 6th St\n        ']
-
-            (213) 365-0303
-        
-
-The Park’s Finest
-['\n            1267 W Temple St\n        ']
-
-            (213) 481-2800
-        
-
-Craft
-['\n            10100 Constellation Blvd\n        ']
-
-            (310) 279-4180
-        
-
-Preux & Proper
-['\n            840 S Spring St\n        ']
-
-            (213) 896-0090
-        
-
-Yang Chow
-['\n            819 N Broadway\n        ']
-
-            (213) 625-0811
-        
-
-Pizzeria Mozza
-['\n            641 N Highland Ave\n        ']
-
-            (323) 297-0101
-        
-
-Izakaya Fu-ga
-['\n            111 S San Pedro St\n        ']
-
-            (213) 625-1722
-        
-
-Tea Station Express
-['\n            5700 Rosemead Blvd\n        ']
-
-            (626) 427-8081
-        
-['\n            Downtown\n        ']
-
-Bestia
-['\n            2121 E 7th Pl\n        ']
-
-            (213) 514-5724
-        
-['\n            Downtown\n        ']
-
-The Morrison
-['\n            3179 Los Feliz Blvd\n        ']
-
-            (323) 667-1839
-        
-['\n            Downtown\n        ']
-
-Howlin’ Ray’s
-None
-None
-['\n            Downtown\n        ']
-
-Eataly
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (213) 310-8000
-        
-['\n            Downtown\n        ']
-
-Running Goose
-['\n            1620 N Cahuenga Blvd\n        ']
-
-            (323) 469-1080
-        
-['\n            Downtown\n        ']
-
-DAMA
-['\n            612 E 11th St\n        ']
-
-            (213) 741-0612
-        
-['\n            Downtown\n        ']
-
-République
-['\n            624 S La Brea Ave\n        ']
-
-            (310) 362-6115
-        
-['\n            Downtown\n        ']
-
-Daikokuya Little Tokyo
-['\n            327 E 1st St\n        ']
-
-            (213) 626-1680
-        
-['\n            Downtown\n        ']
-
-Bao Dim Sum House
-['\n            8256 Beverly Blvd\n        ']
-
-            (323) 655-6556
-        
-['\n            Downtown\n        ']
-
-Perch
-['\n            448 S Hill St\n        ']
-
-            (213) 802-1770
-        
-['\n            Downtown\n        ']
-
-Bottega Louie
-['\n            700 S Grand Ave\n        ']
-
-            (213) 802-1470
-        
-['\n            Downtown\n        ']
-
-Slurpin’ Ramen Bar
-['\n            3500 W 8th St\n        ']
-
-            (213) 388-8607
-        
-['\n            Downtown\n        ']
-
-Marugame Monzo
-['\n            329 E 1st St\n        ']
-
-            (213) 346-9762
-        
-['\n            Downtown\n        ']
-
-A Food Affair
-['\n            1513 S Robertson Blvd\n        ']
-
-            (310) 557-9795
-        
-['\n            Downtown\n        ']
-
-Dirt Dog
-['\n            2528 S Figueroa St\n        ']
-
-            (213) 749-1813
-        
-['\n            Downtown\n        ']
-
-Wurstküche
-['\n            800 E 3rd St\n        ']
-
-            (213) 687-4444
-        
-['\n            Downtown\n        ']
-
-Kang Ho-dong Baekjeong
-['\n            3465 W 6th St\n        ']
-
-            (213) 384-9678
-        
-['\n            Downtown\n        ']
-
-Okiboru House of Tsukemen
-['\n            635 N Broadway\n        ']
-
-            (213) 988-7212
-        
-['\n            Downtown\n        ']
-
-The Parker Room
-['\n            1358 Vine St\n        ']
-
-            (323) 745-0041
-        
-['\n            Downtown\n        ']
-
-Maccheroni Republic
-['\n            332 S Broadway\n        ']
-
-            (213) 346-9725
-        
-['\n            Downtown\n        ']
-
-Faith & Flower
-['\n            705 W 9th St\n        ']
-
-            (213) 239-0642
-        
-['\n            Downtown\n        ']
-
-Genwa Korean BBQ
-['\n            5115 Wilshire Blvd\n        ']
-
-            (323) 549-0760
-        
-['\n            Downtown\n        ']
-
-The Little Door
-['\n            8164 W 3rd St\n        ']
-
-            (323) 951-1210
-        
-['\n            Downtown\n        ']
-
-Pine & Crane
-['\n            1521 Griffith Park Blvd\n        ']
-
-            (323) 668-1128
-        
-['\n            Downtown\n        ']
-
-Tsujita LA Artisan Noodle
-['\n            2057 Sawtelle Blvd\n        ']
-
-            (310) 231-7373
-        
-['\n            Downtown\n        ']
-
-Franco on Melrose
-['\n            6919 Melrose Ave\n        ']
-
-            (323) 934-3390
-        
-['\n            Downtown\n        ']
-
-Hangari Bajirak Kalguksu
-['\n            3470 W 6th St\n        ']
-
-            (213) 388-2326
-        
-['\n            Downtown\n        ']
-
-Pasta Sisters
-['\n            3343 W Pico Blvd\n        ']
-
-            (323) 870-5271
-        
-['\n            Downtown\n        ']
-
-Yup Dduk La
-['\n            3603 W 6th St\n        ']
-
-            (213) 263-2355
-        
-['\n            Downtown\n        ']
-
-Providence
-['\n            5955 Melrose Ave\n        ']
-
-            (323) 460-4170
-        
-['\n            Downtown\n        ']
-
-Tea Station Express
-['\n            5700 Rosemead Blvd\n        ']
-
-            (626) 427-8081
-        
-['\n            Larchmont\n        ']
-
-Osteria Mamma
-['\n            5732 Melrose Ave\n        ']
-
-            (323) 284-7060
-        
-['\n            Larchmont\n        ']
-
-Hinoki & The Bird
-['\n            10 W Century Dr\n        ']
-
-            (310) 552-1200
-        
-['\n            Larchmont\n        ']
-
-Providence
-['\n            5955 Melrose Ave\n        ']
-
-            (323) 460-4170
-        
-['\n            Larchmont\n        ']
-
-RockSugar Southeast Asian Kitchen
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (310) 552-9988
-        
-['\n            Larchmont\n        ']
-
-Barton G Los Angeles
-['\n            861 N La Cienega Blvd\n        ']
-
-            (310) 388-1888
-        
-['\n            Larchmont\n        ']
-
-The Thai Thing
-['\n            6015 W 3rd St\n        ']
-
-            (323) 954-8424
-        
-['\n            Larchmont\n        ']
-
-Jon & Vinny’s
-['\n            412 N Fairfax Ave\n        ']
-
-            (323) 334-3369
-        
-['\n            Larchmont\n        ']
-
-Grand Central Market
-['\n            317 S Broadway\n        ']
-
-            (213) 624-2378
-        
-['\n            Larchmont\n        ']
-
-Rascal
-['\n            801 S La Brea Ave\n        ']
-
-            (323) 933-3229
-        
-['\n            Larchmont\n        ']
-
-Hae Jang Chon Korean BBQ Restaurant
-['\n            3821 W 6th St\n        ']
-
-            (213) 389-8777
-        
-['\n            Larchmont\n        ']
-
-Din Tai Fung
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (424) 382-1118
-        
-['\n            Larchmont\n        ']
-
-Han Bat Shul Lung Tang
-['\n            4163 W 5th St\n        ']
-
-            (213) 383-9499
-        
-['\n            Larchmont\n        ']
-
-Beer Belly
-['\n            532 S Western Ave\n        ']
-
-            (213) 387-2337
-        
-['\n            Larchmont\n        ']
-
-Hoy-Ka Thai Restaurant
-['\n            5908 Sunset Blvd\n        ']
-
-            (323) 463-2979
-        
-['\n            Larchmont\n        ']
-
-Portobanco’s Restaurant
-['\n            1225 Venice Blvd\n        ']
-
-            (213) 908-5565
-        
-['\n            Larchmont\n        ']
-
-71 Above
-['\n            633 W 5th St\n        ']
-
-            (213) 712-2683
-        
-['\n            Larchmont\n        ']
-
-Dave’s Hot Chicken
-['\n            970 N Western Ave\n        ']
-
-            (323) 536-9711
-        
-['\n            Larchmont\n        ']
-
-Open Sesame
-['\n            7458 Beverly Blvd\n        ']
-
-            (323) 525-1698
-        
-['\n            Larchmont\n        ']
-
-Sage Plant Based Bistro and Brewery
-['\n            1700 Sunset Blvd\n        ']
-
-            (213) 989-1718
-        
-['\n            Larchmont\n        ']
-
-Komodo
-['\n            8809 W Pico Blvd\n        ']
-
-            (310) 246-5153
-        
-['\n            Larchmont\n        ']
-
-Chinchikurin-Sawtelle
-['\n            2119 Sawtelle Blvd\n        ']
-
-            (310) 478-0521
-        
-['\n            Larchmont\n        ']
-
-Clayton’s Public House
-['\n            541 S Spring St\n        ']
-
-            (213) 863-4327
-        
-['\n            Larchmont\n        ']
-
-Hokkaido Ramen Santouka
-['\n            3760 S Centinela Ave\n        ']
-
-            (310) 391-1101
-        
-['\n            Larchmont\n        ']
-
-Sun Nong Dan
-['\n            3470 W 6th St\n        ']
-
-            (213) 365-0303
-        
-['\n            Larchmont\n        ']
-
-The Park’s Finest
-['\n            1267 W Temple St\n        ']
-
-            (213) 481-2800
-        
-['\n            Larchmont\n        ']
-
-Craft
-['\n            10100 Constellation Blvd\n        ']
-
-            (310) 279-4180
-        
-['\n            Larchmont\n        ']
-
-Preux & Proper
-['\n            840 S Spring St\n        ']
-
-            (213) 896-0090
-        
-['\n            Larchmont\n        ']
-
-Yang Chow
-['\n            819 N Broadway\n        ']
-
-            (213) 625-0811
-        
-['\n            Larchmont\n        ']
-
-Pizzeria Mozza
-['\n            641 N Highland Ave\n        ']
-
-            (323) 297-0101
-        
-['\n            Larchmont\n        ']
-
-Izakaya Fu-ga
-['\n            111 S San Pedro St\n        ']
-
-            (213) 625-1722
-        
-['\n            Larchmont\n        ']
-
-Tea Station Express
-None
-None
-None
-
-Bestia
-['\n            2121 E 7th Pl\n        ']
-
-            (213) 514-5724
-        
-['\n            Downtown\n        ']
-
-The Morrison
-['\n            3179 Los Feliz Blvd\n        ']
-
-            (323) 667-1839
-        
-['\n            Atwater Village\n        ']
-
-Howlin’ Ray’s
-None
-None
-None
-
-Eataly
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (213) 310-8000
-        
-['\n            Century City\n        ']
-
-Running Goose
-['\n            1620 N Cahuenga Blvd\n        ']
-
-            (323) 469-1080
-        
-['\n            Hollywood\n        ']
-
-DAMA
-['\n            612 E 11th St\n        ']
-
-            (213) 741-0612
-        
-['\n            Downtown\n        ']
-
-République
-['\n            624 S La Brea Ave\n        ']
-
-            (310) 362-6115
-        
-['\n            Hancock Park\n        ']
-
-Daikokuya Little Tokyo
-['\n            327 E 1st St\n        ']
-
-            (213) 626-1680
-        
-['\n            Little Tokyo\n        ']
-
-Bao Dim Sum House
-['\n            8256 Beverly Blvd\n        ']
-
-            (323) 655-6556
-        
-['\n            Beverly Grove\n        ']
-
-Perch
-['\n            448 S Hill St\n        ']
-
-            (213) 802-1770
-        
-['\n            Downtown\n        ']
-
-Bottega Louie
-['\n            700 S Grand Ave\n        ']
-
-            (213) 802-1470
-        
-['\n            Downtown\n        ']
-
-Slurpin’ Ramen Bar
-['\n            3500 W 8th St\n        ']
-
-            (213) 388-8607
-        
-['\n            Koreatown\n        ']
-
-Marugame Monzo
-['\n            329 E 1st St\n        ']
-
-            (213) 346-9762
-        
-['\n            Little Tokyo\n        ']
-
-A Food Affair
-['\n            1513 S Robertson Blvd\n        ']
-
-            (310) 557-9795
-        
-['\n            Pico-Robertson\n        ']
-
-Dirt Dog
-['\n            2528 S Figueroa St\n        ']
-
-            (213) 749-1813
-        
-['\n            University Park\n        ']
-
-Wurstküche
-['\n            800 E 3rd St\n        ']
-
-            (213) 687-4444
-        
-['\n            Arts District\n        ']
-
-Kang Ho-dong Baekjeong
-['\n            3465 W 6th St\n        ']
-
-            (213) 384-9678
-        
-['\n            Wilshire Center\n        ']
-
-Okiboru House of Tsukemen
-['\n            635 N Broadway\n        ']
-
-            (213) 988-7212
-        
-['\n            Chinatown\n        ']
-
-The Parker Room
-['\n            1358 Vine St\n        ']
-
-            (323) 745-0041
-        
-['\n            Hollywood\n        ']
-
-Maccheroni Republic
-['\n            332 S Broadway\n        ']
-
-            (213) 346-9725
-        
-['\n            Downtown\n        ']
-
-Faith & Flower
-['\n            705 W 9th St\n        ']
-
-            (213) 239-0642
-        
-['\n            Downtown\n        ']
-
-Genwa Korean BBQ
-['\n            5115 Wilshire Blvd\n        ']
-
-            (323) 549-0760
-        
-['\n            Hancock Park\n        ']
-
-The Little Door
-['\n            8164 W 3rd St\n        ']
-
-            (323) 951-1210
-        
-['\n            Beverly Grove\n        ']
-
-Pine & Crane
-['\n            1521 Griffith Park Blvd\n        ']
-
-            (323) 668-1128
-        
-['\n            Silver Lake\n        ']
-
-Tsujita LA Artisan Noodle
-['\n            2057 Sawtelle Blvd\n        ']
-
-            (310) 231-7373
-        
-['\n            Sawtelle\n        ']
-
-Franco on Melrose
-['\n            6919 Melrose Ave\n        ']
-
-            (323) 934-3390
-        
-['\n            Hollywood\n        ']
-
-Hangari Bajirak Kalguksu
-['\n            3470 W 6th St\n        ']
-
-            (213) 388-2326
-        
-['\n            Wilshire Center\n        ']
-
-Pasta Sisters
-['\n            3343 W Pico Blvd\n        ']
-
-            (323) 870-5271
-        
-['\n            Arlington Heights\n        ']
-
-Yup Dduk La
-['\n            3603 W 6th St\n        ']
-
-            (213) 263-2355
-        
-['\n            Wilshire Center\n        ']
-
-Providence
-['\n            5955 Melrose Ave\n        ']
-
-            (323) 460-4170
-        
-['\n            Hollywood\n        ']
-
-Tea Station Express
-None
-None
-None
-
-Okiboru House of Tsukemen
-['\n            635 N Broadway\n        ']
-
-            (213) 988-7212
-        
-['\n            Chinatown\n        ']
-
-fundamental LA
-['\n            1303 Westwood Blvd\n        ']
-
-            (310) 444-7581
-        
-['\n            Westwood\n        ']
-
-Craft
-['\n            10100 Constellation Blvd\n        ']
-
-            (310) 279-4180
-        
-['\n            Century City\n        ']
-
-Hinoki & The Bird
-['\n            10 W Century Dr\n        ']
-
-            (310) 552-1200
-        
-['\n            Century City\n        ']
-
-AOC
-['\n            8700 W 3rd St\n        ']
-
-            (310) 859-9859
-        
-['\n            Beverly Grove\n        ']
-
-The Factory Kitchen
-['\n            1300 Factory Pl\n        ']
-
-            (213) 996-6000
-        
-['\n            Arts District\n        ']
-
-Mohawk Bend
-['\n            2141 W Sunset Blvd\n        ']
-
-            (213) 483-2337
-        
-['\n            Echo Park\n        ']
-
-Osteria Mamma
-['\n            5732 Melrose Ave\n        ']
-
-            (323) 284-7060
-        
-['\n            Larchmont\n        ']
-
-71 Above
-['\n            633 W 5th St\n        ']
-
-            (213) 712-2683
-        
-['\n            Downtown\n        ']
-
-Masa of Echo Park
-['\n            1800 W Sunset Blvd\n        ']
-
-            (213) 989-1558
-        
-['\n            Echo Park\n        ']
-
-Bowery Bungalow
-['\n            4156 Santa Monica Blvd\n        ']
-
-            (323) 663-1500
-        
-['\n            Silver Lake\n        ']
-
-Yardbird Southern Table & Bar
-['\n            8500 Beverly Blvd\n        ']
-
-            (323) 250-8034
-        
-['\n            Beverly Grove\n        ']
-
-Yuko Kitchen
-['\n            5484 Wilshire Blvd\n        ']
-
-            (323) 933-4020
-        
-['\n            Mid-Wilshire\n        ']
-
-Genwa Korean BBQ
-['\n            5115 Wilshire Blvd\n        ']
-
-            (323) 549-0760
-        
-['\n            Hancock Park\n        ']
-
-The Black Sheep
-['\n            126 E 6th St\n        ']
-
-            (213) 689-5022
-        
-['\n            Downtown\n        ']
-
-The Little Door
-['\n            8164 W 3rd St\n        ']
-
-            (323) 951-1210
-        
-['\n            Beverly Grove\n        ']
-
-Mercado Los Angeles
-['\n            7910 W 3rd St\n        ']
-
-            (323) 944-0947
-        
-['\n            Beverly Grove\n        ']
-
-Han Bat Shul Lung Tang
-['\n            4163 W 5th St\n        ']
-
-            (213) 383-9499
-        
-['\n            Koreatown\n        ']
-
-Animal
-['\n            435 N Fairfax Ave\n        ']
-
-            (323) 782-9225
-        
-['\n            Beverly Grove\n        ']
-
-The Park’s Finest
-['\n            1267 W Temple St\n        ']
-
-            (213) 481-2800
-        
-['\n            Echo Park\n        ']
-
-Colori Kitchen
-['\n            429 W 8th St\n        ']
-
-            (213) 622-5950
-        
-['\n            Downtown\n        ']
-
-Chiquitita
-['\n            724 S Spring St\n        ']
-
-            (213) 878-9019
-        
-['\n            Downtown\n        ']
 
 Toca Madera
-['\n            8450 W 3rd St\n        ']
+8450 W 3rd St Beverly Grove 
+(323) 852-9400 
 
-            (323) 852-9400
-        
-['\n            Beverly Grove\n        ']
 
-Bacaro LA
-['\n            2308 S Union Ave\n        ']
+Corn Man
+2338 Workman St Lincoln Heights 
+(213) 290-6114 
 
-            (213) 748-7205
-        
-['\n            University Park\n        ']
 
-My Two Cents
-['\n            5583 W Pico Blvd\n        ']
+Guisados
+1261 W Sunset Blvd Echo Park 
+(213) 250-7600 
 
-            (323) 879-9881
-        
-['\n            Mid-Wilshire\n        ']
 
-Escala
-None
-None
-None
+Crossroads
+8284 Melrose Ave Beverly Grove 
+(323) 782-9245 
 
-Mercado Hollywood
-['\n            3413 Cahuenga Blvd W\n        ']
 
-            (323) 512-2500
-        
-['\n            Hollywood Hills\n        ']
+Dumpling House
+3525 W 3rd St Koreatown 
+(213) 389-3899 
 
-Chego!
-['\n            727 N Broadway\n        ']
 
-            (323) 380-8680
-        
-['\n            Chinatown\n        ']
+Papa Cristo’s
+2771 W Pico Blvd Pico-Union 
+(323) 737-2970 
 
-Osteria Mozza
-['\n            6602 Melrose Ave\n        ']
 
-            (323) 297-0100
-        
-['\n            Hancock Park\n        ']
+Soowon Galbi KBBQ Restaurant
+856 S Vermont Ave Koreatown 
+(213) 365-9292 
 
-DAMA
-['\n            612 E 11th St\n        ']
 
-            (213) 741-0612
-        
-['\n            Downtown\n        ']
+The Black Sheep
+126 E 6th St Downtown 
+(213) 689-5022 
 
-Tea Station Express
-None
-None
-None
 
-Bestia
-['\n            2121 E 7th Pl\n        ']
+Little Jewel of New Orleans
+207 Ord St Chinatown 
+(213) 620-0461 
 
-            (213) 514-5724
-        
-['\n            Downtown\n        ']
 
-République
-['\n            624 S La Brea Ave\n        ']
+Gus’s World Famous Fried Chicken
+1262 Crenshaw Blvd Arlington Heights 
+(323) 402-0232 
 
-            (310) 362-6115
-        
-['\n            Hancock Park\n        ']
 
-The Morrison
-['\n            3179 Los Feliz Blvd\n        ']
+Gracias Madre
 
-            (323) 667-1839
-        
-['\n            Atwater Village\n        ']
 
-A Food Affair
-['\n            1513 S Robertson Blvd\n        ']
 
-            (310) 557-9795
-        
-['\n            Pico-Robertson\n        ']
 
-Running Goose
-['\n            1620 N Cahuenga Blvd\n        ']
+M Grill
+3832 Wilshire Blvd Koreatown 
+(213) 389-2770 
 
-            (323) 469-1080
-        
-['\n            Hollywood\n        ']
 
-Howlin’ Ray’s
-None
-None
-None
+Guisados DTLA
+541 S Spring St Downtown 
+(213) 627-7656 
 
-Perch
-['\n            448 S Hill St\n        ']
 
-            (213) 802-1770
-        
-['\n            Downtown\n        ']
+Badmaash
+108 W 2nd St Downtown 
+(213) 221-7466 
 
-Faith & Flower
-['\n            705 W 9th St\n        ']
 
-            (213) 239-0642
-        
-['\n            Downtown\n        ']
+Mild Sauce
+8500 W Olympic Blvd Pico-Robertson 
+(310) 652-3310 
 
-Providence
-['\n            5955 Melrose Ave\n        ']
-
-            (323) 460-4170
-        
-['\n            Hollywood\n        ']
-
-Preux & Proper
-['\n            840 S Spring St\n        ']
-
-            (213) 896-0090
-        
-['\n            Downtown\n        ']
-
-The Parker Room
-['\n            1358 Vine St\n        ']
-
-            (323) 745-0041
-        
-['\n            Hollywood\n        ']
-
-Slurpin’ Ramen Bar
-['\n            3500 W 8th St\n        ']
-
-            (213) 388-8607
-        
-['\n            Koreatown\n        ']
-
-Bottega Louie
-['\n            700 S Grand Ave\n        ']
-
-            (213) 802-1470
-        
-['\n            Downtown\n        ']
-
-Pine & Crane
-['\n            1521 Griffith Park Blvd\n        ']
-
-            (323) 668-1128
-        
-['\n            Silver Lake\n        ']
-
-Pasta Sisters
-['\n            3343 W Pico Blvd\n        ']
-
-            (323) 870-5271
-        
-['\n            Arlington Heights\n        ']
-
-Beer Belly
-['\n            532 S Western Ave\n        ']
-
-            (213) 387-2337
-        
-['\n            Koreatown\n        ']
-
-Mee and Greet
-['\n            3500 Overland Ave\n        ']
-
-            (310) 876-0838
-        
-['\n            Palms\n        ']
-
-Yup Dduk La
-['\n            3603 W 6th St\n        ']
-
-            (213) 263-2355
-        
-['\n            Wilshire Center\n        ']
-
-Bao Dim Sum House
-['\n            8256 Beverly Blvd\n        ']
-
-            (323) 655-6556
-        
-['\n            Beverly Grove\n        ']
-
-Angelini Osteria
-['\n            7313 Beverly Blvd\n        ']
-
-            (323) 297-0070
-        
-['\n            Fairfax\n        ']
 
 Otium
-['\n            222 S Hope St\n        ']
+222 S Hope St Downtown 
+(213) 935-8500 
 
-            (213) 935-8500
-        
-['\n            Downtown\n        ']
 
-Franco on Melrose
-['\n            6919 Melrose Ave\n        ']
+Eggslut
+317 S Broadway Downtown 
+(213) 625-0292 
 
-            (323) 934-3390
-        
-['\n            Hollywood\n        ']
-
-Broken Spanish
-['\n            1050 S Flower St\n        ']
-
-            (213) 749-1460
-        
-['\n            Downtown\n        ']
-
-Kang Ho-dong Baekjeong
-['\n            3465 W 6th St\n        ']
-
-            (213) 384-9678
-        
-['\n            Wilshire Center\n        ']
-
-Daikokuya Little Tokyo
-['\n            327 E 1st St\n        ']
-
-            (213) 626-1680
-        
-['\n            Little Tokyo\n        ']
-
-Marugame Monzo
-['\n            329 E 1st St\n        ']
-
-            (213) 346-9762
-        
-['\n            Little Tokyo\n        ']
-
-Komodo
-['\n            8809 W Pico Blvd\n        ']
-
-            (310) 246-5153
-        
-['\n            Pico-Robertson\n        ']
-
-Little Sister
-['\n            523 W 7th St\n        ']
-
-            (213) 628-3146
-        
-['\n            Downtown\n        ']
-
-Rascal
-['\n            801 S La Brea Ave\n        ']
-
-            (323) 933-3229
-        
-['\n            Mid-Wilshire\n        ']
-
-Maccheroni Republic
-['\n            332 S Broadway\n        ']
-
-            (213) 346-9725
-        
-['\n            Downtown\n        ']
-
-Tea Station Express
-None
-None
-None
-
-Osteria Mamma
-['\n            5732 Melrose Ave\n        ']
-
-            (323) 284-7060
-        
-['\n            Larchmont\n        ']
-
-Hinoki & The Bird
-['\n            10 W Century Dr\n        ']
-
-            (310) 552-1200
-        
-['\n            Century City\n        ']
-
-Providence
-['\n            5955 Melrose Ave\n        ']
-
-            (323) 460-4170
-        
-['\n            Hollywood\n        ']
-
-RockSugar Southeast Asian Kitchen
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (310) 552-9988
-        
-['\n            Century City\n        ']
-
-Barton G Los Angeles
-None
-None
-None
-
-The Thai Thing
-['\n            6015 W 3rd St\n        ']
-
-            (323) 954-8424
-        
-['\n            Fairfax\n        ']
-
-Jon & Vinny’s
-['\n            412 N Fairfax Ave\n        ']
-
-            (323) 334-3369
-        
-['\n            Fairfax\n        ']
-
-Grand Central Market
-['\n            317 S Broadway\n        ']
-
-            (213) 624-2378
-        
-['\n            Downtown\n        ']
-
-Rascal
-['\n            801 S La Brea Ave\n        ']
-
-            (323) 933-3229
-        
-['\n            Mid-Wilshire\n        ']
-
-Hae Jang Chon Korean BBQ Restaurant
-['\n            3821 W 6th St\n        ']
-
-            (213) 389-8777
-        
-['\n            Koreatown\n        ']
-
-Din Tai Fung
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (424) 382-1118
-        
-['\n            Century City\n        ']
-
-Han Bat Shul Lung Tang
-['\n            4163 W 5th St\n        ']
-
-            (213) 383-9499
-        
-['\n            Koreatown\n        ']
-
-Beer Belly
-['\n            532 S Western Ave\n        ']
-
-            (213) 387-2337
-        
-['\n            Koreatown\n        ']
-
-Hoy-Ka Thai Restaurant
-['\n            5908 Sunset Blvd\n        ']
-
-            (323) 463-2979
-        
-['\n            Hollywood\n        ']
-
-Portobanco’s Restaurant
-['\n            1225 Venice Blvd\n        ']
-
-            (213) 908-5565
-        
-['\n            Pico-Union\n        ']
-
-71 Above
-['\n            633 W 5th St\n        ']
-
-            (213) 712-2683
-        
-['\n            Downtown\n        ']
-
-Dave’s Hot Chicken
-['\n            970 N Western Ave\n        ']
-
-            (323) 536-9711
-        
-['\n            East Hollywood\n        ']
-
-Open Sesame
-['\n            7458 Beverly Blvd\n        ']
-
-            (323) 525-1698
-        
-['\n            Fairfax\n        ']
-
-Sage Plant Based Bistro and Brewery
-['\n            1700 Sunset Blvd\n        ']
-
-            (213) 989-1718
-        
-['\n            Echo Park\n        ']
-
-Komodo
-['\n            8809 W Pico Blvd\n        ']
-
-            (310) 246-5153
-        
-['\n            Pico-Robertson\n        ']
-
-Chinchikurin-Sawtelle
-['\n            2119 Sawtelle Blvd\n        ']
-
-            (310) 478-0521
-        
-['\n            Sawtelle\n        ']
-
-Clayton’s Public House
-['\n            541 S Spring St\n        ']
-
-            (213) 863-4327
-        
-['\n            Downtown\n        ']
-
-Hokkaido Ramen Santouka
-['\n            3760 S Centinela Ave\n        ']
-
-            (310) 391-1101
-        
-['\n            Mar Vista\n        ']
-
-Sun Nong Dan
-['\n            3470 W 6th St\n        ']
-
-            (213) 365-0303
-        
-['\n            Wilshire Center\n        ']
-
-The Park’s Finest
-['\n            1267 W Temple St\n        ']
-
-            (213) 481-2800
-        
-['\n            Echo Park\n        ']
-
-Craft
-['\n            10100 Constellation Blvd\n        ']
-
-            (310) 279-4180
-        
-['\n            Century City\n        ']
-
-Preux & Proper
-['\n            840 S Spring St\n        ']
-
-            (213) 896-0090
-        
-['\n            Downtown\n        ']
-
-Yang Chow
-['\n            819 N Broadway\n        ']
-
-            (213) 625-0811
-        
-['\n            Chinatown\n        ']
-
-Pizzeria Mozza
-['\n            641 N Highland Ave\n        ']
-
-            (323) 297-0101
-        
-['\n            Hancock Park\n        ']
-
-Izakaya Fu-ga
-['\n            111 S San Pedro St\n        ']
-
-            (213) 625-1722
-        
-['\n            Little Tokyo\n        ']
-
-Tea Station Express
-None
-None
-None
-
-Bestia
-['\n            2121 E 7th Pl\n        ']
-
-            (213) 514-5724
-        
-['\n            Downtown\n        ']
-
-The Morrison
-['\n            3179 Los Feliz Blvd\n        ']
-
-            (323) 667-1839
-        
-['\n            Atwater Village\n        ']
-
-Running Goose
-['\n            1620 N Cahuenga Blvd\n        ']
-
-            (323) 469-1080
-        
-['\n            Hollywood\n        ']
-
-Howlin’ Ray’s
-None
-None
-None
-
-Eataly
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (213) 310-8000
-        
-['\n            Century City\n        ']
-
-Bao Dim Sum House
-['\n            8256 Beverly Blvd\n        ']
-
-            (323) 655-6556
-        
-['\n            Beverly Grove\n        ']
-
-République
-['\n            624 S La Brea Ave\n        ']
-
-            (310) 362-6115
-        
-['\n            Hancock Park\n        ']
-
-Daikokuya Little Tokyo
-['\n            327 E 1st St\n        ']
-
-            (213) 626-1680
-        
-['\n            Little Tokyo\n        ']
-
-DAMA
-['\n            612 E 11th St\n        ']
-
-            (213) 741-0612
-        
-['\n            Downtown\n        ']
-
-Perch
-['\n            448 S Hill St\n        ']
-
-            (213) 802-1770
-        
-['\n            Downtown\n        ']
-
-Slurpin’ Ramen Bar
-['\n            3500 W 8th St\n        ']
-
-            (213) 388-8607
-        
-['\n            Koreatown\n        ']
-
-Marugame Monzo
-['\n            329 E 1st St\n        ']
-
-            (213) 346-9762
-        
-['\n            Little Tokyo\n        ']
-
-Bottega Louie
-['\n            700 S Grand Ave\n        ']
-
-            (213) 802-1470
-        
-['\n            Downtown\n        ']
-
-A Food Affair
-['\n            1513 S Robertson Blvd\n        ']
-
-            (310) 557-9795
-        
-['\n            Pico-Robertson\n        ']
-
-Wurstküche
-['\n            800 E 3rd St\n        ']
-
-            (213) 687-4444
-        
-['\n            Arts District\n        ']
-
-Dirt Dog
-['\n            2528 S Figueroa St\n        ']
-
-            (213) 749-1813
-        
-['\n            University Park\n        ']
-
-Kang Ho-dong Baekjeong
-['\n            3465 W 6th St\n        ']
-
-            (213) 384-9678
-        
-['\n            Wilshire Center\n        ']
-
-Genwa Korean BBQ
-['\n            5115 Wilshire Blvd\n        ']
-
-            (323) 549-0760
-        
-['\n            Hancock Park\n        ']
-
-The Little Door
-['\n            8164 W 3rd St\n        ']
-
-            (323) 951-1210
-        
-['\n            Beverly Grove\n        ']
-
-Franco on Melrose
-['\n            6919 Melrose Ave\n        ']
-
-            (323) 934-3390
-        
-['\n            Hollywood\n        ']
-
-Okiboru House of Tsukemen
-['\n            635 N Broadway\n        ']
-
-            (213) 988-7212
-        
-['\n            Chinatown\n        ']
-
-The Parker Room
-['\n            1358 Vine St\n        ']
-
-            (323) 745-0041
-        
-['\n            Hollywood\n        ']
-
-Faith & Flower
-['\n            705 W 9th St\n        ']
-
-            (213) 239-0642
-        
-['\n            Downtown\n        ']
-
-Maccheroni Republic
-['\n            332 S Broadway\n        ']
-
-            (213) 346-9725
-        
-['\n            Downtown\n        ']
-
-L’Assiette Steak Frites
-['\n            7166 Melrose Ave\n        ']
-
-            (323) 274-2319
-        
-['\n            Fairfax\n        ']
-
-Tsujita LA Artisan Noodle
-['\n            2057 Sawtelle Blvd\n        ']
-
-            (310) 231-7373
-        
-['\n            Sawtelle\n        ']
-
-Pine & Crane
-['\n            1521 Griffith Park Blvd\n        ']
-
-            (323) 668-1128
-        
-['\n            Silver Lake\n        ']
-
-Hangari Bajirak Kalguksu
-['\n            3470 W 6th St\n        ']
-
-            (213) 388-2326
-        
-['\n            Wilshire Center\n        ']
-
-Pasta Sisters
-['\n            3343 W Pico Blvd\n        ']
-
-            (323) 870-5271
-        
-['\n            Arlington Heights\n        ']
-
-Yup Dduk La
-['\n            3603 W 6th St\n        ']
-
-            (213) 263-2355
-        
-['\n            Wilshire Center\n        ']
-
-Tea Station Express
-None
-None
-None
-
-Okiboru House of Tsukemen
-['\n            635 N Broadway\n        ']
-
-            (213) 988-7212
-        
-['\n            Chinatown\n        ']
-
-fundamental LA
-['\n            1303 Westwood Blvd\n        ']
-
-            (310) 444-7581
-        
-['\n            Westwood\n        ']
-
-Craft
-['\n            10100 Constellation Blvd\n        ']
-
-            (310) 279-4180
-        
-['\n            Century City\n        ']
-
-Hinoki & The Bird
-['\n            10 W Century Dr\n        ']
-
-            (310) 552-1200
-        
-['\n            Century City\n        ']
-
-AOC
-['\n            8700 W 3rd St\n        ']
-
-            (310) 859-9859
-        
-['\n            Beverly Grove\n        ']
-
-The Factory Kitchen
-['\n            1300 Factory Pl\n        ']
-
-            (213) 996-6000
-        
-['\n            Arts District\n        ']
-
-Mohawk Bend
-['\n            2141 W Sunset Blvd\n        ']
-
-            (213) 483-2337
-        
-['\n            Echo Park\n        ']
-
-Osteria Mamma
-['\n            5732 Melrose Ave\n        ']
-
-            (323) 284-7060
-        
-['\n            Larchmont\n        ']
-
-71 Above
-['\n            633 W 5th St\n        ']
-
-            (213) 712-2683
-        
-['\n            Downtown\n        ']
-
-Masa of Echo Park
-['\n            1800 W Sunset Blvd\n        ']
-
-            (213) 989-1558
-        
-['\n            Echo Park\n        ']
-
-Bowery Bungalow
-['\n            4156 Santa Monica Blvd\n        ']
-
-            (323) 663-1500
-        
-['\n            Silver Lake\n        ']
-
-Yardbird Southern Table & Bar
-['\n            8500 Beverly Blvd\n        ']
-
-            (323) 250-8034
-        
-['\n            Beverly Grove\n        ']
-
-Yuko Kitchen
-['\n            5484 Wilshire Blvd\n        ']
-
-            (323) 933-4020
-        
-['\n            Mid-Wilshire\n        ']
-
-Genwa Korean BBQ
-['\n            5115 Wilshire Blvd\n        ']
-
-            (323) 549-0760
-        
-['\n            Hancock Park\n        ']
-
-The Black Sheep
-['\n            126 E 6th St\n        ']
-
-            (213) 689-5022
-        
-['\n            Downtown\n        ']
-
-The Little Door
-['\n            8164 W 3rd St\n        ']
-
-            (323) 951-1210
-        
-['\n            Beverly Grove\n        ']
-
-Mercado Los Angeles
-['\n            7910 W 3rd St\n        ']
-
-            (323) 944-0947
-        
-['\n            Beverly Grove\n        ']
-
-Han Bat Shul Lung Tang
-['\n            4163 W 5th St\n        ']
-
-            (213) 383-9499
-        
-['\n            Koreatown\n        ']
-
-Animal
-['\n            435 N Fairfax Ave\n        ']
-
-            (323) 782-9225
-        
-['\n            Beverly Grove\n        ']
-
-The Park’s Finest
-['\n            1267 W Temple St\n        ']
-
-            (213) 481-2800
-        
-['\n            Echo Park\n        ']
-
-Colori Kitchen
-['\n            429 W 8th St\n        ']
-
-            (213) 622-5950
-        
-['\n            Downtown\n        ']
-
-Chiquitita
-['\n            724 S Spring St\n        ']
-
-            (213) 878-9019
-        
-['\n            Downtown\n        ']
-
-Toca Madera
-['\n            8450 W 3rd St\n        ']
-
-            (323) 852-9400
-        
-['\n            Beverly Grove\n        ']
-
-Bacaro LA
-['\n            2308 S Union Ave\n        ']
-
-            (213) 748-7205
-        
-['\n            University Park\n        ']
-
-My Two Cents
-['\n            5583 W Pico Blvd\n        ']
-
-            (323) 879-9881
-        
-['\n            Mid-Wilshire\n        ']
-
-Escala
-None
-None
-None
-
-Mercado Hollywood
-['\n            3413 Cahuenga Blvd W\n        ']
-
-            (323) 512-2500
-        
-['\n            Hollywood Hills\n        ']
-
-Chego!
-['\n            727 N Broadway\n        ']
-
-            (323) 380-8680
-        
-['\n            Chinatown\n        ']
-
-Osteria Mozza
-['\n            6602 Melrose Ave\n        ']
-
-            (323) 297-0100
-        
-['\n            Hancock Park\n        ']
-
-DAMA
-['\n            612 E 11th St\n        ']
-
-            (213) 741-0612
-        
-['\n            Downtown\n        ']
-
-Tea Station Express
-None
-None
-None
-
-Bestia
-['\n            2121 E 7th Pl\n        ']
-
-            (213) 514-5724
-        
-['\n            Downtown\n        ']
-
-The Morrison
-['\n            3179 Los Feliz Blvd\n        ']
-
-            (323) 667-1839
-        
-['\n            Atwater Village\n        ']
-
-Running Goose
-['\n            1620 N Cahuenga Blvd\n        ']
-
-            (323) 469-1080
-        
-['\n            Hollywood\n        ']
-
-Howlin’ Ray’s
-None
-None
-None
-
-Eataly
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (213) 310-8000
-        
-['\n            Century City\n        ']
-
-Bao Dim Sum House
-['\n            8256 Beverly Blvd\n        ']
-
-            (323) 655-6556
-        
-['\n            Beverly Grove\n        ']
-
-République
-['\n            624 S La Brea Ave\n        ']
-
-            (310) 362-6115
-        
-['\n            Hancock Park\n        ']
-
-Daikokuya Little Tokyo
-['\n            327 E 1st St\n        ']
-
-            (213) 626-1680
-        
-['\n            Little Tokyo\n        ']
-
-DAMA
-['\n            612 E 11th St\n        ']
-
-            (213) 741-0612
-        
-['\n            Downtown\n        ']
-
-Perch
-['\n            448 S Hill St\n        ']
-
-            (213) 802-1770
-        
-['\n            Downtown\n        ']
-
-Slurpin’ Ramen Bar
-['\n            3500 W 8th St\n        ']
-
-            (213) 388-8607
-        
-['\n            Koreatown\n        ']
-
-Marugame Monzo
-['\n            329 E 1st St\n        ']
-
-            (213) 346-9762
-        
-['\n            Little Tokyo\n        ']
-
-Bottega Louie
-['\n            700 S Grand Ave\n        ']
-
-            (213) 802-1470
-        
-['\n            Downtown\n        ']
-
-A Food Affair
-['\n            1513 S Robertson Blvd\n        ']
-
-            (310) 557-9795
-        
-['\n            Pico-Robertson\n        ']
-
-Wurstküche
-['\n            800 E 3rd St\n        ']
-
-            (213) 687-4444
-        
-['\n            Arts District\n        ']
-
-Dirt Dog
-['\n            2528 S Figueroa St\n        ']
-
-            (213) 749-1813
-        
-['\n            University Park\n        ']
-
-Kang Ho-dong Baekjeong
-['\n            3465 W 6th St\n        ']
-
-            (213) 384-9678
-        
-['\n            Wilshire Center\n        ']
-
-Genwa Korean BBQ
-['\n            5115 Wilshire Blvd\n        ']
-
-            (323) 549-0760
-        
-['\n            Hancock Park\n        ']
-
-The Little Door
-['\n            8164 W 3rd St\n        ']
-
-            (323) 951-1210
-        
-['\n            Beverly Grove\n        ']
-
-Franco on Melrose
-['\n            6919 Melrose Ave\n        ']
-
-            (323) 934-3390
-        
-['\n            Hollywood\n        ']
-
-Okiboru House of Tsukemen
-['\n            635 N Broadway\n        ']
-
-            (213) 988-7212
-        
-['\n            Chinatown\n        ']
-
-The Parker Room
-['\n            1358 Vine St\n        ']
-
-            (323) 745-0041
-        
-['\n            Hollywood\n        ']
-
-Faith & Flower
-['\n            705 W 9th St\n        ']
-
-            (213) 239-0642
-        
-['\n            Downtown\n        ']
-
-Maccheroni Republic
-['\n            332 S Broadway\n        ']
-
-            (213) 346-9725
-        
-['\n            Downtown\n        ']
-
-L’Assiette Steak Frites
-['\n            7166 Melrose Ave\n        ']
-
-            (323) 274-2319
-        
-['\n            Fairfax\n        ']
-
-Tsujita LA Artisan Noodle
-['\n            2057 Sawtelle Blvd\n        ']
-
-            (310) 231-7373
-        
-['\n            Sawtelle\n        ']
-
-Pine & Crane
-['\n            1521 Griffith Park Blvd\n        ']
-
-            (323) 668-1128
-        
-['\n            Silver Lake\n        ']
-
-Hangari Bajirak Kalguksu
-['\n            3470 W 6th St\n        ']
-
-            (213) 388-2326
-        
-['\n            Wilshire Center\n        ']
-
-Pasta Sisters
-['\n            3343 W Pico Blvd\n        ']
-
-            (323) 870-5271
-        
-['\n            Arlington Heights\n        ']
-
-Yup Dduk La
-['\n            3603 W 6th St\n        ']
-
-            (213) 263-2355
-        
-['\n            Wilshire Center\n        ']
-
-Tea Station Express
-None
-None
-None
-
-Osteria Mamma
-['\n            5732 Melrose Ave\n        ']
-
-            (323) 284-7060
-        
-['\n            Larchmont\n        ']
-
-Hinoki & The Bird
-['\n            10 W Century Dr\n        ']
-
-            (310) 552-1200
-        
-['\n            Century City\n        ']
-
-Providence
-['\n            5955 Melrose Ave\n        ']
-
-            (323) 460-4170
-        
-['\n            Hollywood\n        ']
-
-RockSugar Southeast Asian Kitchen
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (310) 552-9988
-        
-['\n            Century City\n        ']
-
-Barton G Los Angeles
-None
-None
-None
-
-The Thai Thing
-['\n            6015 W 3rd St\n        ']
-
-            (323) 954-8424
-        
-['\n            Fairfax\n        ']
-
-Jon & Vinny’s
-['\n            412 N Fairfax Ave\n        ']
-
-            (323) 334-3369
-        
-['\n            Fairfax\n        ']
-
-Grand Central Market
-['\n            317 S Broadway\n        ']
-
-            (213) 624-2378
-        
-['\n            Downtown\n        ']
-
-Rascal
-['\n            801 S La Brea Ave\n        ']
-
-            (323) 933-3229
-        
-['\n            Mid-Wilshire\n        ']
-
-Hae Jang Chon Korean BBQ Restaurant
-['\n            3821 W 6th St\n        ']
-
-            (213) 389-8777
-        
-['\n            Koreatown\n        ']
-
-Din Tai Fung
-['\n            10250 Santa Monica Blvd\n        ']
-
-            (424) 382-1118
-        
-['\n            Century City\n        ']
-
-Han Bat Shul Lung Tang
-['\n            4163 W 5th St\n        ']
-
-            (213) 383-9499
-        
-['\n            Koreatown\n        ']
-
-Beer Belly
-['\n            532 S Western Ave\n        ']
-
-            (213) 387-2337
-        
-['\n            Koreatown\n        ']
-
-Hoy-Ka Thai Restaurant
-['\n            5908 Sunset Blvd\n        ']
-
-            (323) 463-2979
-        
-['\n            Hollywood\n        ']
-
-Portobanco’s Restaurant
-['\n            1225 Venice Blvd\n        ']
-
-            (213) 908-5565
-        
-['\n            Pico-Union\n        ']
-
-71 Above
-['\n            633 W 5th St\n        ']
-
-            (213) 712-2683
-        
-['\n            Downtown\n        ']
-
-Dave’s Hot Chicken
-['\n            970 N Western Ave\n        ']
-
-            (323) 536-9711
-        
-['\n            East Hollywood\n        ']
-
-Open Sesame
-['\n            7458 Beverly Blvd\n        ']
-
-            (323) 525-1698
-        
-['\n            Fairfax\n        ']
-
-Sage Plant Based Bistro and Brewery
-['\n            1700 Sunset Blvd\n        ']
-
-            (213) 989-1718
-        
-['\n            Echo Park\n        ']
-
-Komodo
-['\n            8809 W Pico Blvd\n        ']
-
-            (310) 246-5153
-        
-['\n            Pico-Robertson\n        ']
-
-Chinchikurin-Sawtelle
-['\n            2119 Sawtelle Blvd\n        ']
-
-            (310) 478-0521
-        
-['\n            Sawtelle\n        ']
-
-Clayton’s Public House
-['\n            541 S Spring St\n        ']
-
-            (213) 863-4327
-        
-['\n            Downtown\n        ']
-
-Hokkaido Ramen Santouka
-['\n            3760 S Centinela Ave\n        ']
-
-            (310) 391-1101
-        
-['\n            Mar Vista\n        ']
-
-Sun Nong Dan
-['\n            3470 W 6th St\n        ']
-
-            (213) 365-0303
-        
-['\n            Wilshire Center\n        ']
-
-The Park’s Finest
-['\n            1267 W Temple St\n        ']
-
-            (213) 481-2800
-        
-['\n            Echo Park\n        ']
-
-Craft
-['\n            10100 Constellation Blvd\n        ']
-
-            (310) 279-4180
-        
-['\n            Century City\n        ']
-
-Preux & Proper
-['\n            840 S Spring St\n        ']
-
-            (213) 896-0090
-        
-['\n            Downtown\n        ']
-
-Yang Chow
-['\n            819 N Broadway\n        ']
-
-            (213) 625-0811
-        
-['\n            Chinatown\n        ']
-
-Pizzeria Mozza
-['\n            641 N Highland Ave\n        ']
-
-            (323) 297-0101
-        
-['\n            Hancock Park\n        ']
-
-Izakaya Fu-ga
-['\n            111 S San Pedro St\n        ']
-
-            (213) 625-1722
-        
-['\n            Little Tokyo\n        ']
-
-Tea Station Express
-None
-None
-None
-
-Bestia
-['\n            2121 E 7th Pl\n        ']
-
-            (213) 514-5724
-        
-['\n            Downtown\n        ']
-
-République
-['\n            624 S La Brea Ave\n        ']
-
-            (310) 362-6115
-        
-['\n            Hancock Park\n        ']
-
-The Morrison
-['\n            3179 Los Feliz Blvd\n        ']
-
-            (323) 667-1839
-        
-['\n            Atwater Village\n        ']
-
-A Food Affair
-['\n            1513 S Robertson Blvd\n        ']
-
-            (310) 557-9795
-        
-['\n            Pico-Robertson\n        ']
-
-Running Goose
-['\n            1620 N Cahuenga Blvd\n        ']
-
-            (323) 469-1080
-        
-['\n            Hollywood\n        ']
-
-Howlin’ Ray’s
-None
-None
-None
-
-Perch
-['\n            448 S Hill St\n        ']
-
-            (213) 802-1770
-        
-['\n            Downtown\n        ']
-
-Faith & Flower
-['\n            705 W 9th St\n        ']
-
-            (213) 239-0642
-        
-['\n            Downtown\n        ']
-
-Providence
-['\n            5955 Melrose Ave\n        ']
-
-            (323) 460-4170
-        
-['\n            Hollywood\n        ']
-
-Preux & Proper
-['\n            840 S Spring St\n        ']
-
-            (213) 896-0090
-        
-['\n            Downtown\n        ']
-
-The Parker Room
-['\n            1358 Vine St\n        ']
-
-            (323) 745-0041
-        
-['\n            Hollywood\n        ']
-
-Slurpin’ Ramen Bar
-['\n            3500 W 8th St\n        ']
-
-            (213) 388-8607
-        
-['\n            Koreatown\n        ']
-
-Bottega Louie
-['\n            700 S Grand Ave\n        ']
-
-            (213) 802-1470
-        
-['\n            Downtown\n        ']
-
-Pine & Crane
-['\n            1521 Griffith Park Blvd\n        ']
-
-            (323) 668-1128
-        
-['\n            Silver Lake\n        ']
-
-Pasta Sisters
-['\n            3343 W Pico Blvd\n        ']
-
-            (323) 870-5271
-        
-['\n            Arlington Heights\n        ']
-
-Beer Belly
-['\n            532 S Western Ave\n        ']
-
-            (213) 387-2337
-        
-['\n            Koreatown\n        ']
 
 Mee and Greet
-['\n            3500 Overland Ave\n        ']
+3500 Overland Ave Palms 
+(310) 876-0838 
 
-            (310) 876-0838
-        
-['\n            Palms\n        ']
 
-Yup Dduk La
-['\n            3603 W 6th St\n        ']
+Charcoal Grill & Bar
+7563 Beverly Blvd Fairfax 
+(323) 433-4787 
 
-            (213) 263-2355
-        
-['\n            Wilshire Center\n        ']
-
-Bao Dim Sum House
-['\n            8256 Beverly Blvd\n        ']
-
-            (323) 655-6556
-        
-['\n            Beverly Grove\n        ']
-
-Angelini Osteria
-['\n            7313 Beverly Blvd\n        ']
-
-            (323) 297-0070
-        
-['\n            Fairfax\n        ']
-
-Otium
-['\n            222 S Hope St\n        ']
-
-            (213) 935-8500
-        
-['\n            Downtown\n        ']
-
-Franco on Melrose
-['\n            6919 Melrose Ave\n        ']
-
-            (323) 934-3390
-        
-['\n            Hollywood\n        ']
-
-Broken Spanish
-['\n            1050 S Flower St\n        ']
-
-            (213) 749-1460
-        
-['\n            Downtown\n        ']
-
-Kang Ho-dong Baekjeong
-['\n            3465 W 6th St\n        ']
-
-            (213) 384-9678
-        
-['\n            Wilshire Center\n        ']
-
-Daikokuya Little Tokyo
-['\n            327 E 1st St\n        ']
-
-            (213) 626-1680
-        
-['\n            Little Tokyo\n        ']
-
-Marugame Monzo
-['\n            329 E 1st St\n        ']
-
-            (213) 346-9762
-        
-['\n            Little Tokyo\n        ']
-
-Komodo
-['\n            8809 W Pico Blvd\n        ']
-
-            (310) 246-5153
-        
-['\n            Pico-Robertson\n        ']
-
-Little Sister
-['\n            523 W 7th St\n        ']
-
-            (213) 628-3146
-        
-['\n            Downtown\n        ']
-
-Rascal
-['\n            801 S La Brea Ave\n        ']
-
-            (323) 933-3229
-        
-['\n            Mid-Wilshire\n        ']
-
-Maccheroni Republic
-['\n            332 S Broadway\n        ']
-
-            (213) 346-9725
-        
-['\n            Downtown\n        ']
-
-Tea Station Express
-None
-None
-None
-
-Okiboru House of Tsukemen
-['\n            635 N Broadway\n        ']
-
-            (213) 988-7212
-        
-['\n            Chinatown\n        ']
-
-fundamental LA
-['\n            1303 Westwood Blvd\n        ']
-
-            (310) 444-7581
-        
-['\n            Westwood\n        ']
-
-Craft
-['\n            10100 Constellation Blvd\n        ']
-
-            (310) 279-4180
-        
-['\n            Century City\n        ']
-
-Hinoki & The Bird
-['\n            10 W Century Dr\n        ']
-
-            (310) 552-1200
-        
-['\n            Century City\n        ']
-
-AOC
-['\n            8700 W 3rd St\n        ']
-
-            (310) 859-9859
-        
-['\n            Beverly Grove\n        ']
-
-The Factory Kitchen
-['\n            1300 Factory Pl\n        ']
-
-            (213) 996-6000
-        
-['\n            Arts District\n        ']
 
 Mohawk Bend
-['\n            2141 W Sunset Blvd\n        ']
+2141 W Sunset Blvd Echo Park 
+(213) 483-2337 
 
-            (213) 483-2337
-        
-['\n            Echo Park\n        ']
 
-Osteria Mamma
-['\n            5732 Melrose Ave\n        ']
+AOC
+8700 W 3rd St Beverly Grove 
+(310) 859-9859 
 
-            (323) 284-7060
-        
-['\n            Larchmont\n        ']
 
-71 Above
-['\n            633 W 5th St\n        ']
+Ave 26 Taco Stand
 
-            (213) 712-2683
-        
-['\n            Downtown\n        ']
 
-Masa of Echo Park
-['\n            1800 W Sunset Blvd\n        ']
 
-            (213) 989-1558
-        
-['\n            Echo Park\n        ']
+
+Water Grill- Los Angeles
+544 S Grand Ave Downtown 
+(213) 891-0900 
+
+
+Tea Station Express
+
+
+
+
+Westside Tavern
+
+
+
+
+Here’s Looking At You
+3901 W 6th St Koreatown 
+(213) 568-3573 
+
+
+The Bun Shop
+151 N Western Ave Koreatown 
+(323) 468-1031 
+
+
+The Stinking Rose
+
+
+
+
+BROKEN MOUTH | Lee’s Homestyle
+231 E 9th St Downtown 
+(213) 418-9588 
+
+
+Wolfdown
+2764 Rowena Ave Silver Lake 
+(323) 522-6381 
+
+
+Sawyer
+3709 W Sunset Blvd Silver Lake 
+(323) 641-3709 
+
+
+Concerto
+610 S Serrano Ave Koreatown 
+(213) 738-0909 
+
+
+Street Food Of Seoul
+3500 W 6th St Wilshire Center 
+(213) 381-5600 
+
+
+Mimimyunga
+450 S Western Ave Koreatown 
+(213) 545-4696 
+
+
+Ruen Pair
+5257 Hollywood Blvd Los Feliz 
+(323) 466-0153 
+
+
+Pace
+2100 Laurel Canyon Blvd Hollywood Hills West 
+(323) 654-8583 
+
+
+Miro
+888 Wilshire Blvd Downtown 
+(213) 988-8880 
+
+
+Wings and Tails
+3785 Wilshire Blvd Koreatown 
+(213) 814-8989 
+
+
+Corn Man
+2338 Workman St Lincoln Heights 
+(213) 290-6114 
+
+
+Le Petit Paris
+418 /420 S Spring St Downtown 
+(213) 217-4445 
+
+
+Charcoal Grill & Bar
+7563 Beverly Blvd Fairfax 
+(323) 433-4787 
+
+
+Gusto
+8022 W 3rd St Beverly Grove 
+(323) 951-9800 
+
+
+Langer’s
+704 S Alvarado St Westlake 
+(213) 483-8050 
+
+
+Mario’s Peruvian & Seafood
+5786 Melrose Ave Hancock Park 
+(323) 466-4181 
+
+
+Clayton’s Public House
+541 S Spring St Downtown 
+(213) 863-4327 
+
+
+La Carmencita
+1156 N Highland Ave Hollywood 
+(323) 701-2063 
+
+
+6th & La Brea Brewery & Restaurant
+600 S La Brea Ave Hancock Park 
+(323) 998-8565 
+
+
+Casa Nostra Ristorante & Bar
+825 W 9th St Downtown 
+(213) 362-3311 
+
+
+Figueroa Philly Cheese Steak
+3850 S Figueroa St Exposition Park 
+(213) 748-9073 
+
+
+Cafe Beaujolais
+1712 Colorado Blvd Eagle Rock 
+(323) 255-5111 
+
+
+The Park
+1400 Sunset Blvd Echo Park 
+(213) 482-9209 
+
+
+Plan Check Kitchen & Bar
+1111 Wilshire Blvd Westlake 
+(213) 403-1616 
+
+
+Chibiscus Asian Cafe
+7361 W Sunset Blvd Hollywood 
+(323) 977-9877 
+
+
+Tea Station Express
+
+
+
+
+Casa Sanchez
+4500 S Centinela Ave Del Rey 
+(310) 397-9999 
+
+
+Tsuri
+7015 Melrose Ave Hollywood 
+(323) 935-1517 
+
+
+Seongbukdong
+3303 W 6th St Wilshire Center 
+(213) 738-8977 
+
+
+Wirtshaus
+345 N La Brea Ave Fairfax 
+(323) 931-9291 
+
+
+Chinchikurin-Little Tokyo
+350 E 1st St Little Tokyo 
+(213) 626-0480 
+
+
+fundamental LA
+1303 Westwood Blvd Westwood 
+(310) 444-7581 
+
+
+Redbird
+114 E 2nd St Downtown 
+(213) 788-1191 
+
+
+Kobawoo House
+698 S Vermont Ave Wilshire Center 
+(213) 389-7300 
+
+
+Daw Yee Myanmar Corner
+2837 Sunset Blvd Silver Lake 
+(213) 413-0568 
+
+
+The Roof on Wilshire
+6317 Wilshire Blvd Beverly Grove 
+(323) 852-6002 
+
+
+Chibiscus Asian Cafe
+7361 W Sunset Blvd Hollywood 
+(323) 977-9877 
+
+
+Osteria La Buca
+5210 Melrose Ave Larchmont 
+(323) 462-1900 
+
+
+LONO Hollywood
+6611 Hollywood Blvd Hollywood 
+(323) 848-4475 
+
+
+Chichen Itza Restaurant
+3655 S Grand Ave Historic South Central 
+(213) 741-1075 
+
+
+Odys and Penelope
+127 S La Brea Fairfax 
+(323) 433-1057 
+
+
+Silverlake Ramen
+2927 W Sunset Blvd Silver Lake 
+(323) 660-8100 
+
+
+Catch 56
+5615 Hollywood Blvd Hollywood 
+(323) 667-2777 
+
+
+Father’s Office
+3229 Helms Ave Mid-City 
+(310) 736-2224 
+
+
+The Hungry Pig
+2920 W Temple St Westlake 
+(213) 387-7787 
+
+
+Guisados
+2100 East Cesar E Chavez Ave Boyle Heights 
+(323) 264-7201 
+
 
 Bowery Bungalow
-['\n            4156 Santa Monica Blvd\n        ']
+4156 Santa Monica Blvd Silver Lake 
+(323) 663-1500 
 
-            (323) 663-1500
-        
-['\n            Silver Lake\n        ']
 
-Yardbird Southern Table & Bar
-['\n            8500 Beverly Blvd\n        ']
+Monty’s Good Burger
+516 S Western Ave Koreatown 
+(213) 915-0257 
 
-            (323) 250-8034
-        
-['\n            Beverly Grove\n        ']
 
-Yuko Kitchen
-['\n            5484 Wilshire Blvd\n        ']
+Mastro’s Penthouse
 
-            (323) 933-4020
-        
-['\n            Mid-Wilshire\n        ']
 
-Genwa Korean BBQ
-['\n            5115 Wilshire Blvd\n        ']
 
-            (323) 549-0760
-        
-['\n            Hancock Park\n        ']
 
-The Black Sheep
-['\n            126 E 6th St\n        ']
+EMC Seafood & Raw Bar
+3500 W 6th St Wilshire Center 
+(213) 351-9988 
 
-            (213) 689-5022
-        
-['\n            Downtown\n        ']
 
-The Little Door
-['\n            8164 W 3rd St\n        ']
+Manuela
+907 E 3rd St Arts District 
+(323) 849-0480 
 
-            (323) 951-1210
-        
-['\n            Beverly Grove\n        ']
 
-Mercado Los Angeles
-['\n            7910 W 3rd St\n        ']
+MARUGAME UDON
+2029 Sawtelle Blvd Sawtelle 
+(424) 317-2222 
 
-            (323) 944-0947
-        
-['\n            Beverly Grove\n        ']
 
-Han Bat Shul Lung Tang
-['\n            4163 W 5th St\n        ']
+Guelaguetza Restaurante
+3014 W Olympic Blvd Harvard Heights 
+(213) 427-0608 
 
-            (213) 383-9499
-        
-['\n            Koreatown\n        ']
 
-Animal
-['\n            435 N Fairfax Ave\n        ']
+Road To Seoul
+1230 S Western Ave Harvard Heights 
+(323) 731-9292 
 
-            (323) 782-9225
-        
-['\n            Beverly Grove\n        ']
 
-The Park’s Finest
-['\n            1267 W Temple St\n        ']
+The Bun Shop
+151 N Western Ave Koreatown 
+(323) 468-1031 
 
-            (213) 481-2800
-        
-['\n            Echo Park\n        ']
 
-Colori Kitchen
-['\n            429 W 8th St\n        ']
+DeSano Pizza Bakery
+4959 Santa Monica Blvd East Hollywood 
+(323) 913-7000 
 
-            (213) 622-5950
-        
-['\n            Downtown\n        ']
 
-Chiquitita
-['\n            724 S Spring St\n        ']
+Tea Station Express
 
-            (213) 878-9019
-        
-['\n            Downtown\n        ']
 
-Toca Madera
-['\n            8450 W 3rd St\n        ']
 
-            (323) 852-9400
-        
-['\n            Beverly Grove\n        ']
 
-Bacaro LA
-['\n            2308 S Union Ave\n        ']
+Carousel Restaurant
+5112 Hollywood Blvd East Hollywood 
+(323) 660-8060 
 
-            (213) 748-7205
-        
-['\n            University Park\n        ']
 
-My Two Cents
-['\n            5583 W Pico Blvd\n        ']
+Taste of Tehran
+1915 Westwood Blvd West Los Angeles 
+(310) 470-0022 
 
-            (323) 879-9881
-        
-['\n            Mid-Wilshire\n        ']
 
-Escala
-None
-None
-None
+The Stinking Rose
 
-Mercado Hollywood
-['\n            3413 Cahuenga Blvd W\n        ']
 
-            (323) 512-2500
-        
-['\n            Hollywood Hills\n        ']
+
+
+Pizzeria Il Fico
+310 S Robertson Blvd Beverly Grove 
+(310) 271-3426 
+
+
+Trattoria Bella Roma
+1509 S Robertson Blvd Pico-Robertson 
+(310) 277-7662 
+
+
+Tlayuda LA
+5450 Santa Monica Blvd East Hollywood 
+(213) 261-4667 
+
+
+Figueroa Philly Cheese Steak
+3850 S Figueroa St Exposition Park 
+(213) 748-9073 
+
+
+Calavera Burrito Co.
+541 S Spring St Downtown 
+(213) 628-3094 
+
+
+Wood Spoon
+107 W 9th St Downtown 
+(213) 629-1765 
+
+
+Button Mash
+1391 Sunset Blvd Echo Park 
+(213) 250-9903 
+
+
+Hasiba
+8532 Pico Blvd Pico-Robertson 
+(424) 302-0225 
+
+
+Catch LA
+
+
+
+
+Peking Tavern
+806 S Spring St Downtown 
+(213) 988-8308 
+
+
+Robata JINYA
+8050 West 3rd St Beverly Grove 
+(323) 653-8877 
+
+
+Cattle & Claw
+
+
+
+
+Leo’s Tacos Truck
+1515 S La Brea Ave Mid-City 
+(323) 346-2001 
+
+
+Ta-eem Grill
+7422 Melrose Ave Fairfax 
+(323) 944-0013 
+
+
+Joy
+5100 York Blvd Highland Park 
+(323) 999-7642 
+
+
+Son of a Gun
+8370 W 3rd St Beverly Grove 
+(323) 782-9033 
+
+
+Bäco Mercat
+408 S Main St Downtown 
+(213) 687-8808 
+
+
+Electric Karma
+8222 1/2 W 3rd St Beverly Grove 
+(323) 653-2121 
+
+
+Officine Brera
+1331 E 6th St Arts District 
+(213) 553-8006 
+
+
+Langer’s
+704 S Alvarado St Westlake 
+(213) 483-8050 
+
+
+Yakitori Ten
+3470 W 6th St Wilshire Center 
+(213) 378-0392 
+
+
+Vespaio
+225 S Grand Ave Downtown 
+(213) 221-7244 
+
+
+Rutt’s Hawaiian Cafe
+11707 Washington Pl Mar Vista 
+(310) 398-6326 
+
+
+Ma’am Sir
+4330 Sunset Blvd Silver Lake 
+(323) 741-8371 
+
+
+Yuk Dae Jang
+3033 W 6th St Wilshire Center 
+(213) 352-1331 
+
+
+Mimimyunga
+450 S Western Ave Koreatown 
+(213) 545-4696 
+
+
+Urban Skillet
+5060 Lankershim Blvd North Hollywood 
+(818) 579-4000 
+
+
+Tea Station Express
+
+
+
+
+Pink’s Hot Dogs
+709 N La Brea Ave Fairfax 
+(323) 931-4223 
+
+
+Blue Palms Brewhouse
+6124 Hollywood Blvd Hollywood 
+(323) 464-2337 
+
+
+Hatchet Hall
+
+
+
+
+Stella Barra Pizzeria
+6372 W Sunset Blvd Hollywood 
+(323) 301-4001 
+
+
+Little Next Door
+8142 W 3rd St Beverly Grove 
+(323) 951-1010 
+
+
+Street Food Of Seoul
+3500 W 6th St Wilshire Center 
+(213) 381-5600 
+
+
+Granny’s Kitchen
+5440 S Central Ave Central Alameda 
+(323) 231-2141 
+
+
+Elf Café
+2135 W Sunset Blvd Echo Park 
+(213) 484-6829 
+
+
+Oasis Mediterranean Cuisine
+1663 South La Cienega Blvd Pico-Robertson 
+(310) 276-2747 
+
+
+The Venue
+3470 Wilshire Blvd Wilshire Center 
+(213) 221-1251 
+
+
+BAR Ama
+118 W 4th St Downtown 
+(213) 687-8002 
+
+
+Daikokuya Sawtelle
+2208 Sawtelle Blvd Sawtelle 
+(310) 575-4999 
+
+
+Chi Spacca
+6610 Melrose Ave Hancock Park 
+(323) 297-1133 
+
+
+Bavel
+500 Mateo St Arts District 
+(213) 232-4966 
+
 
 Chego!
-['\n            727 N Broadway\n        ']
+727 N Broadway Chinatown 
+(323) 380-8680 
 
-            (323) 380-8680
-        
-['\n            Chinatown\n        ']
 
-Osteria Mozza
-['\n            6602 Melrose Ave\n        ']
+LA Rose Cafe
+4749 Fountain Ave East Hollywood 
+(323) 662-4024 
 
-            (323) 297-0100
-        
-['\n            Hancock Park\n        ']
 
-DAMA
-['\n            612 E 11th St\n        ']
+Joe’s Falafel
+3535 Cahuenga Blvd W Studio City 
+(323) 512-4447 
 
-            (213) 741-0612
-        
-['\n            Downtown\n        ']
+
+Himalayan House
+1277 W Jefferson Blvd Adams Normandie 
+(323) 766-9775 
+
+
+Pura Vita
+
+
+
+
+Birdies
+314 W Olympic Blvd Downtown 
+(213) 536-5720 
+
+
+Baroo
+5706 Santa Monica Blvd Hollywood 
+(323) 645-7041 
+
+
+Salazar
+
+
+
+
+Carlitos Gardel Argentine Steakhouse
+7963 Melrose Ave Beverly Grove 
+(323) 655-0891 
+
+
+Smorgasburg
+785 Bay St Downtown 
+(718) 928-6603 
+
+
+Hae Ha Heng Thai Bistro
+301 S Western Ave Koreatown 
+(213) 388-2407 
+
+
+Hollywood Pies
+6116 1/2 W Pico Blvd Mid-City 
+(323) 337-3212 
+
+
+Men Oh Tokushima Ramen
+456 E 2nd St Little Tokyo 
+(213) 687-8485 
+
+
+The Park
+1400 Sunset Blvd Echo Park 
+(213) 482-9209 
+
+
+Lalibela Ethiopian Restaurant
+1025 S Fairfax Ave Carthay 
+(323) 965-1025 
+
+
+Villains Tavern
+1356 Palmetto St Arts District 
+(213) 709-5544 
+
+
+Tea Station Express
+
+
+
+
+Ahgassi Gopchang
+3744 W 6th St Koreatown 
+(213) 249-9678 
+
+
+Bludso’s Bar & Que
+609 N La Brea Ave Fairfax 
+(323) 931-2583 
+
+
+Versailles Restaurant
+10319 Venice Blvd Palms 
+(310) 558-3168 
+
+
+Farfalla Trattoria
+1978 Hillhurst Ave Los Feliz 
+(323) 661-7365 
+
+
+Chinchikurin-Sawtelle
+2119 Sawtelle Blvd Sawtelle 
+(310) 478-0521 
+
+
+10e
+811 W 7th St Downtown 
+(213) 488-1096 
+
+
+Rao’s - Los Angeles
+1006 Seward St Hollywood 
+(323) 962-7267 
+
+
+FARMHOUSE
+8500 Beverly Blvd Beverly Grove 
+(310) 818-4925 
+
+
+BaoHaus
+727 N Broadway Chinatown 
+(213) 935-8740 
+
+
+Market Provisions
+8009 Beverly Blvd Beverly Grove 
+(323) 653-8009 
+
+
+Alcove Café & Bakery
+1929 Hillhurst Ave Los Feliz 
+(323) 644-0100 
+
+
+Eataly
+10250 Santa Monica Blvd Century City 
+(213) 310-8000 
+
+
+Chinchikurin-Little Tokyo
+350 E 1st St Little Tokyo 
+(213) 626-0480 
+
+
+The Kitchen At Westwood
+1510 Westwood Blvd Westwood 
+(310) 474-8444 
+
+
+The Front Yard
+4222 Vineland Ave Studio City 
+(818) 255-7290 
+
+
+Dino’s Chicken and Burgers
+2575 W Pico Blvd Pico-Union 
+(213) 380-3554 
+
+
+Oi Asian Fusion
+4734 Hollywood Blvd East Hollywood 
+(213) 458-1945 
+
+
+Haché LA
+3319 W Sunset Blvd Silver Lake 
+(323) 928-2963 
+
+
+Joy
+5100 York Blvd Highland Park 
+(323) 999-7642 
+
+
+Sushi by H
+480 S San Vicente Blvd Beverly Grove 
+(323) 782-0547 
+
+
+Gracias Madre
+
+
+
+
+Papa Cristo’s
+2771 W Pico Blvd Pico-Union 
+(323) 737-2970 
+
+
+The Hart and the Hunter
+7950 Melrose Ave Beverly Grove 
+(323) 424-3055 
+
+
+SOL Mexican Cocina
+12775 W Millennium Dr Playa Vista 
+(424) 289-0066 
+
+
+The Pikey
+7617 W Sunset Blvd Hollywood 
+(323) 850-5400 
+
+
+Ong Ga Nae Korean BBQ
+936 South Vermont Ave Koreatown 
+(213) 386-9292 
+
+
+District
+700 West 7th St Downtown 
+(213) 612-3185 
+
+
+PYT
+400 S Main St Downtown 
+(213) 687-7015 
+
+
+Rustic Kitchen Market & Cafe
+3523 S Centinela Ave Mar Vista 
+(310) 390-1500 
+
+
+Home Restaurant - Los Feliz
+1760 Hillhurst Ave Los Feliz 
+(323) 669-0211 
+
+
+Tea Station Express
+
+
+
+
+Stella Barra Pizzeria
+6372 W Sunset Blvd Hollywood 
+(323) 301-4001 
+
+
+Ebaes
+2314 S Union Ave University Park 
+(213) 747-6888 
+
+
+Peking Tavern
+806 S Spring St Downtown 
+(213) 988-8308 
+
+
+All’Acqua
+3280 Glendale Blvd Atwater Village 
+(323) 663-3280 
+
+
+Yuk Dae Jang
+3033 W 6th St Wilshire Center 
+(213) 352-1331 
+
+
+Fat Sal’s
+1300 N Highland Ave Hollywood 
+(855) 682-4373 
+
+
+The Bazaar by José Andrés
+465 South La Cienega Blvd Beverly Grove 
+(310) 246-5555 
+
+
+The Dresden Restaurant
+1760 N Vermont Ave Los Feliz 
+(323) 665-4294 
+
+
+Ma’am Sir
+4330 Sunset Blvd Silver Lake 
+(323) 741-8371 
+
+
+MESSHALL
+4500 Los Feliz Blvd Los Feliz 
+(323) 660-6377 
+
+
+Yxta Cocina Mexicana
+601 S Central Ave Downtown 
+(213) 596-5579 
+
+
+Barkada
+1253 Vine St Hollywood 
+(323) 825-9033 
+
+
+Mh Zh
+
+
+
+
+Izakaya Fu-ga
+111 S San Pedro St Little Tokyo 
+(213) 625-1722 
+
+
+Stevie’s Creole Cafe
+5545 W Pico Blvd Mid-Wilshire 
+(323) 413-2494 
+
+
+Taste on Melrose
+
+
+
+
+Momed Atwater Village
+3245 Casitas Ave Atwater Village 
+(323) 522-3488 
+
+
+Giulia
+701 West 7th St Downtown 
+(213) 279-5025 
+
+
+La Cevicheria
+3809 W Pico Blvd Arlington Heights 
+(323) 732-1253 
+
+
+Shin-Sen-Gumi Hakata Ramen - Little Tokyo
+132 S Central Ave Little Tokyo 
+(213) 687-7108 
+
+
+Tatsu Ramen
+2123 Sawtelle Blvd Sawtelle 
+(310) 684-2889 
+
+
+Spoonfed
+959 Seward St Hollywood 
+(323) 347-7000 
+
+
+Orsa & Winston
+122 W 4th St Downtown 
+(213) 687-0300 
+
+
+Boogie McGee’s Bayou Smokehouse BBQ
+3377 Wilshire Blvd Wilshire Center 
+(213) 201-1070 
+
+
+Crawford’s
+2616 Beverly Blvd Westlake 
+(213) 568-3133 
+
+
+Ta-eem Grill
+7422 Melrose Ave Fairfax 
+(323) 944-0013 
+
+
+Mezcalero
+510 S Broadway Downtown 
+(213) 628-3337 
+
+
+The Backhouse
+10915 W Pico Blvd West Los Angeles 
+(310) 481-6800 
+
+
+The Griffin
+3000 Los Feliz Blvd Atwater Village 
+(323) 644-0444 
+
+
+Nest
+
+
+
+
+Tea Station Express
+
+
+
+
+Rock House Sliders
+7950 W Sunset Blvd Hollywood Hills West 
+(323) 952-6016 
+
+
+LASA
+727 N Broadway Chinatown 
+(213) 443-6163 
+
+
+BS Taqueria
+514 W 7th St Downtown 
+(213) 622-3744 
+
+
+Rutt’s Hawaiian Cafe
+11707 Washington Pl Mar Vista 
+(310) 398-6326 
+
+
+La Boucherie
+900 Wilshire Blvd Downtown 
+(213) 688-7777 
+
+
+Catch 56
+5615 Hollywood Blvd Hollywood 
+(323) 667-2777 
+
+
+Annie’s Edibles Soul
+1066 S Farifax Ave Mid-Wilshire 
+(323) 424-7402 
+
+
+Cafe Creole
+3650 W Martin Luther King Jr Blvd Baldwin Hills/Crenshaw 
+(323) 389-8355 
+
+
+Himalayan House
+1277 W Jefferson Blvd Adams Normandie 
+(323) 766-9775 
+
+
+Plato
+3474 W 8th St Koreatown 
+(213) 383-1984 
+
+
+Granny’s Kitchen
+5440 S Central Ave Central Alameda 
+(323) 231-2141 
+
+
+Orleans & York Deli
+4454 W Slauson Ave View Park/Windsor Hills 
+(323) 291-8800 
+
+
+The District by Hannah An
+8722 W 3rd St Beverly Grove 
+(310) 278-2345 
+
+
+Officine Brera
+1331 E 6th St Arts District 
+(213) 553-8006 
+
+
+Wings & Pot
+2108 W Manchester Ave Gramercy Park 
+(323) 920-7575 
+
+
+Lala’s Argentine Grill
+7229 Melrose Ave Fairfax 
+(323) 934-6838 
+
+
+We Have Noodles
+3827 Sunset Blvd Silver Lake 
+(323) 284-8726 
+
+
+Inko Nito
+8338 W 3rd St Beverly Grove 
+(310) 439-3076 
+
+
+Fig & Olive
+8490 Melrose Pl Beverly Grove 
+(310) 360-9100 
+
+
+Industriel
+609 S Grand Ave Downtown 
+(213) 488-8020 
+
+
+Marugame Udon
+8500 Beverly Blvd Beverly Grove 
+(310) 734-0243 
+
+
+The Roof on Wilshire
+6317 Wilshire Blvd Beverly Grove 
+(323) 852-6002 
+
+
+Cafe Gratitude
+639 N Larchmont Blvd Larchmont 
+(323) 580-6383 
+
+
+The Buffalo Spot
+3286 W Slauson Ave Hyde Park 
+(323) 299-9885 
+
+
+Kismet
+4648 Hollywood Blvd East Hollywood 
+(323) 409-0404 
+
+
+Bunker Hill Bar & Grill
+601 W 5th St Downtown 
+(213) 688-2988 
+
+
+Revolutionario: North African Tacos
+1436 W Jefferson Blvd Exposition Park 
+(424) 223-3526 
+
+
+Candela
+831 S La Brea Ave Mid-Wilshire 
+(323) 936-0533 
+
+
+Simpang Asia
+10433 National Blvd Palms 
+(310) 815-9075 
+
+
+Soul Restaurant & Bar
+7046 Hollywood Blvd Hollywood 
+(323) 962-7685 
+
+
+Tea Station Express
+
+
+
+
+Pampas Grill
+6333 W 3rd St Fairfax 
+(323) 931-1928 
+
+
+Cafe Gratitude
+639 N Larchmont Blvd Larchmont 
+(323) 580-6383 
+
+
+Shrimp Daddy
+785 Bay St Downtown 
+(323) 825-8882 
+
+
+Osen Izakaya
+2903 Sunset Blvd Silver Lake 
+(323) 928-2220 
+
+
+Estiatorio Louká
+
+
+
+
+Birrieria De Don Boni
+1845 E 1st St Boyle Heights 
+(323) 262-4552 
+
+
+FARMHOUSE
+8500 Beverly Blvd Beverly Grove 
+(310) 818-4925 
+
+
+Din Tai Fung
+
+
+
+
+OB Bear
+3002 W 7th St Wilshire Center 
+(213) 480-4910 
+
+
+Velvet Margarita
+1612 N Cahuenga Blvd Hollywood 
+(323) 469-2000 
+
+
+Super Tortas DF
+1098 E 41st St Historic South Central 
+(323) 351-8379 
+
+
+Le Petit Greek
+127 N Larchmont Blvd Windsor Square 
+(323) 464-5160 
+
+
+Max City BBQ
+4729 Eagle Rock Blvd Eagle Rock 
+(323) 254-4227 
+
+
+Angry Chicken
+1275 S Bronson Ave Arlington Heights 
+(213) 344-9555 
+
+
+Pearl’s BBQ
+
+
+
+
+The Pollo L.A.
+3183 Wilshire Blvd Wilshire Center 
+(213) 529-4188 
+
+
+Dino’s Chicken and Burgers
+2575 W Pico Blvd Pico-Union 
+(213) 380-3554 
+
+
+Mezcalero
+510 S Broadway Downtown 
+(213) 628-3337 
+
+
+Roscoe’s House of Chicken & Waffles
+1514 N Gower St Hollywood 
+(323) 466-7453 
+
+
+Candela
+831 S La Brea Ave Mid-Wilshire 
+(323) 936-0533 
+
+
+Pez Cantina
+401 S Grand Ave Downtown 
+(213) 258-2280 
+
+
+Jin China Bistro
+123 Astronaut E S Onizuka St Little Tokyo 
+(213) 620-1717 
+
+
+HaSunSaeng - MasterHA
+1147 S Western Ave Harvard Heights 
+(323) 998-0427 
+
+
+The Parlor
+7250 Melrose Ave Fairfax 
+(323) 930-2100 
+
+
+Jinsol Gukbap
+4253 3rd St Koreatown 
+(213) 908-5636 
+
+
+Comfort Kitchen
+5700 Wilshire Blvd Mid-Wilshire 
+(310) 384-8901 
+
+
+Revolutionario: North African Tacos
+1436 W Jefferson Blvd Exposition Park 
+(424) 223-3526 
+
+
+Sanamluang Cafe
+5176 Hollywood Blvd East Hollywood 
+(323) 660-8006 
+
+
+Arts District Brewing Company
+828 Traction Ave Arts District 
+(213) 519-5887 
+
+
+Rao’s - Los Angeles
+1006 Seward St Hollywood 
+(323) 962-7267 
+
+
+Tea Station Express
+
+
+
+
+Izakaya Gazen
+362 E 1st St Little Tokyo 
+(213) 613-1415 
+
+
+HoHo Chicken
+2625 W 6th St Westlake 
+(213) 384-9595 
+
+
+Magal BBQ
+3460 W 8th St Koreatown 
+(213) 383-1909 
+
+
+Dulan’s On Crenshaw
+4859 Crenshaw Blvd Hyde Park 
+(323) 296-3034 
+
+
+Casa Bianca Pizza Pie
+1650 Colorado Blvd Eagle Rock 
+(323) 256-9617 
+
+
+Truxton’s American Bistro
+8611 Truxton Ave Westchester 
+(310) 417-8789 
+
+
+Seoul Garden Restaurant
+1833 W Olympic Blvd Westlake 
+(213) 386-8477 
+
+
+Delancey
+5936 W Sunset Blvd Hollywood 
+(323) 469-2100 
+
+
+Pour Haus Wine Bar
+1820 Industrial St Arts District 
+(213) 327-0304 
+
+
+The Woodman
+13615 Ventura Blvd Sherman Oaks 
+(818) 386-9401 
+
+
+Annie’s Edibles Soul
+1066 S Farifax Ave Mid-Wilshire 
+(323) 424-7402 
+
+
+Rainbow Bar & Grill
+
+
+
+
+Lao Tao
+727 N Broadway Chinatown 
+(213) 372-5318 
+
+
+Kanpai Japanese Sushi Bar & Grill
+8325 Lincoln Blvd Westchester 
+(310) 338-7223 
+
+
+Mariscos Jalisco
+3040 E Olympic Blvd Boyle Heights 
+(323) 528-6701 
+
+
+The Little Easy
+216 W 5th St Downtown 
+(213) 628-3113 
+
+
+Earle’s On Crenshaw
+3864 Crenshaw Blvd Leimert Park 
+(323) 299-2867 
+
+
+The Kitchen
+4348 Fountain Ave Silver Lake 
+(323) 664-3663 
+
+
+Little Fatty
+3809 Grand View Blvd Mar Vista 
+(310) 574-7610 
+
+
+The Backhouse
+10915 W Pico Blvd West Los Angeles 
+(310) 481-6800 
+
+
+The Rooftop at The Standard, Downtown LA
+550 S Flower St Downtown 
+(213) 892-8080 
+
+
+Bulgogi Hut
+3600 Wilshire Blvd Koreatown 
+(213) 388-1988 
+
+
+Stevie’s Creole Cafe
+5545 W Pico Blvd Mid-Wilshire 
+(323) 413-2494 
+
+
+The Kimbap
+400 S Western Ave Koreatown 
+(213) 380-2174 
+
+
+Post & Beam
+3767 Santa Rosalia Dr Baldwin Hills/Crenshaw 
+(323) 299-5599 
+
+
+Rosa Mexicano
+
+
+
+
+Kismet
+4648 Hollywood Blvd East Hollywood 
+(323) 409-0404 
+
+
+Pomodoro Trattoria
+1393 Westwood Blvd Westwood 
+(310) 445-9998 
+
+
+FryMadness
+555 S Spring St Downtown 
+(213) 797-2847 
+
+
+Blu Jam Café
+7371 Melrose Ave Fairfax 
+(323) 951-9191 
+
+
+Tea Station Express
+
+
+
+
+Vernetti
+225 N Larchmont Blvd Windsor Square 
+(323) 798-5886 
+
+
+Westside Tavern
+
+
+
+
+KaGaYa
+418 E 2nd St Little Tokyo 
+(213) 617-1016 
+
+
+Jeong Yuk Jeom
+621 S Western Ave Koreatown 
+(213) 384-2244 
+
+
+PUMP Restaurant
+
+
+
+
+Sawyer
+3709 W Sunset Blvd Silver Lake 
+(323) 641-3709 
+
+
+El Chato Taco Truck
+
+
+
+
+Eighth Street Soondae
+2703 W 8th St Westlake 
+(213) 487-0038 
+
+
+Cielito Lindo
+E-23 Olvera St Downtown 
+(213) 687-4391 
+
+
+Tipsy
+217 E 8th St Downtown 
+(213) 947-3339 
+
+
+Testa
+1111 S Hope St Downtown 
+(213) 973-5013 
+
+
+La Fonda Antioquena
+5125 Melrose Ave Hollywood 
+(323) 957-5164 
+
+
+Pastina
+2260 Westwood Blvd West Los Angeles 
+(310) 441-4655 
+
+
+Cardamom
+7233 Beverly Blvd Fairfax 
+(323) 936-1000 
+
+
+The Boiling Crab
+3377 Wilshire Blvd Wilshire Center 
+(213) 389-2722 
+
+
+Inko Nito
+225-227 S Garey St Arts District 
+(310) 999-0476 
+
+
+Pier 69
+3377 Wilshire Blvd Wilshire Center 
+(213) 263-2182 
+
+
+Window 44
+1644 N Cahuenga Blvd Hollywood 
+(323) 546-4504 
+
+
+Ackee Bamboo Jamaican Cuisine
+4305 Degnan Blvd Leimert Park 
+(323) 295-7275 
+
+
+Harold & Belle’s
+2920 W Jefferson Blvd Jefferson Park 
+(323) 735-9918 
+
+
+Halaloglu
+3742 S Figueroa St Exposition Park 
+(213) 748-1529 
+
+
+Wood
+2861 Sunset Blvd Silver Lake 
+(323) 667-9940 
+
+
+The Stocking Frame
+911 S Hill St Downtown 
+(213) 488-0373 
+
+
+Terra Cotta
+3760 Wilshire Blvd Koreatown 
+(213) 365-1077 
+
+
+Tom’s Urban - LA Live
+
+
+
+
+House of Curry
+1888 S Western Ave Harvard Heights 
+(323) 732-2222 
+
+
+Commerson
+788 S La Brea Ave Mid-Wilshire 
+(323) 813-3000 
+
+
+YAZAWA
+
+
+
+
+Nick + Stef’s Steakhouse
+330 S Hope St Downtown 
+(213) 680-0330 
+
+
+Anarkali Indian Restaurant
+7013 Melrose Ave Hollywood 
+(323) 934-6488 
+
+
+Tea Station Express
+
+
+
+
+Harold & Belle’s
+2920 W Jefferson Blvd Jefferson Park 
+(323) 735-9918 
+
+
+Tom’s Urban - LA Live
+
+
+
+
+Terra Cotta
+3760 Wilshire Blvd Koreatown 
+(213) 365-1077 
+
+
+Wood
+2861 Sunset Blvd Silver Lake 
+(323) 667-9940 
+
+
+The Stocking Frame
+911 S Hill St Downtown 
+(213) 488-0373 
+
+
+Window 44
+1644 N Cahuenga Blvd Hollywood 
+(323) 546-4504 
+
+
+House of Curry
+1888 S Western Ave Harvard Heights 
+(323) 732-2222 
+
+
+Crumbs & Whiskers
+7924 Melrose Ave Beverly Grove 
+(323) 879-9389 
+
+
+Anarkali Indian Restaurant
+7013 Melrose Ave Hollywood 
+(323) 934-6488 
+
+
+Tipsy
+217 E 8th St Downtown 
+(213) 947-3339 
+
+
+Chunju Han-il Kwan
+3450 W 6th St Wilshire Center 
+(213) 480-1799 
+
+
+Pizzanista!
+2019 E 7th St Arts District 
+(213) 627-1430 
+
+
+Gracie’s Pizza
+4330 Melrose Ave East Hollywood 
+(323) 663-1219 
+
+
+Orleans & York Deli
+4454 W Slauson Ave View Park/Windsor Hills 
+(323) 291-8800 
+
+
+Au Lac
+710 W 1st St Downtown 
+(213) 617-2533 
+
+
+Hamasaku
+11043 Santa Monica Blvd Westwood 
+(310) 479-7636 
+
+
+Halaloglu
+3742 S Figueroa St Exposition Park 
+(213) 748-1529 
+
+
+Commerson
+788 S La Brea Ave Mid-Wilshire 
+(323) 813-3000 
+
+
+Rustic Kitchen Market & Cafe
+3523 S Centinela Ave Mar Vista 
+(310) 390-1500 
+
+
+LA Prime
+404 S Figueroa St Downtown 
+(213) 612-4743 
+
+
+Beetle House LA
+6356 Hollywood Blvd Hollywood 
+(929) 291-0337 
+
+
+LA Paella
+476 S San Vicente Blvd Beverly Grove 
+(323) 951-0745 
+
+
+PUMP Restaurant
+
+
+
+
+Taix French Restaurant
+1911 W Sunset Blvd Echo Park 
+(213) 484-1265 
+
+
+BS Taqueria
+514 W 7th St Downtown 
+(213) 622-3744 
+
+
+Wah’s Golden Hen
+709 N Virgil Ave East Hollywood 
+(323) 661-0093 
+
+
+Spitz - Little Tokyo
+371 E 2nd St Little Tokyo 
+(213) 613-0101 
+
+
+Karl Strauss Brewing Company
+600 Wilshire Blvd Downtown 
+(213) 228-2739 
+
+
+Beverly Soon Tofu Restaurant
+2717 W Olympic Blvd Koreatown 
+(213) 380-1113 
+
+
+Meals by Genet
+1053 S Fairfax Ave Carthay 
+(323) 938-9304 
+
+
+Tea Station Express
+
+
+
+
+Bon Shabu
+601 S Ardmore Ave Wilshire Center 
+(213) 318-5004 
+
+
+Yuchun
+3185 W Olympic Blvd Koreatown 
+(213) 382-3815 
+
+
+The Cheesecake Factory
+
+
+
+
+Golden Lake Eatery Cambodian Restaurant
+424 W College St Chinatown 
+(562) 883-5880 
+
+
+Soul Restaurant & Bar
+7046 Hollywood Blvd Hollywood 
+(323) 962-7685 
+
+
+Superfine Pizza
+1101 S San Pedro St Downtown 
+(213) 880-7790 
+
+
+Olsons Scandinavian Delicatessen
+5660 W Pico Blvd Mid-City 
+(323) 938-0742 
+
+
+YAZAWA
+
+
+
+
+La Brea Ramen Bar
+850 S La Brea Ave Mid-Wilshire 
+(323) 549-9486 
+
+
+La Barca Restaurant
+2414 S Vermont Ave University Park 
+(323) 735-6567 
+
+
+Inko Nito
+8338 W 3rd St Beverly Grove 
+(310) 439-3076 
+
+
+Wildcraft
+
+
+
+
+The Chairman
+1200 East 5th St Arts District 
+(213) 289-9808 
+
+
+Fisherman’s Outlet
+529 S Central Ave Downtown 
+(213) 627-7231 
+
+
+Boogie McGee’s Bayou Smokehouse BBQ
+3377 Wilshire Blvd Wilshire Center 
+(213) 201-1070 
+
+
+The Buffalo Spot
+3286 W Slauson Ave Hyde Park 
+(323) 299-9885 
+
+
+The Pikey
+7617 W Sunset Blvd Hollywood 
+(323) 850-5400 
+
+
+JJUKKU JJUKKU BBQ
+3377 Wilshire Blvd Wilshire Center 
+(213) 674-7228 
+
+
+Larchmont Bungalow Cafe
+2110 Sunset Blvd Echo Park 
+(213) 908-5301 
+
+
+Wood & Vine
+6280 Hollywood Blvd Hollywood 
+(323) 334-3360 
+
+
+Shabu Hyang
+3807 Wilshire Blvd Koreatown 
+(213) 384-5464 
+
+
+Blacksmiths
+117 Winston St Downtown 
+(213) 628-3847 
+
+
+Lala’s Argentine Grill
+7229 Melrose Ave Fairfax 
+(323) 934-6838 
+
+
+El Camaron Pelado
+2676 Pasadena Ave Lincoln Heights 
+(323) 505-7544 
+
+
+Palermo Italian Restaurant
+1858 N Vermont Ave Los Feliz 
+(323) 663-1430 
+
+
+Toscanova
+10250 Santa Monica Blvd Century City 
+(310) 551-0499 
+
+
+The Fields LA
+3939 S Figueroa St Exposition Park 
+(213) 419-9465 
+
+
+Biergarten
+206 N Western Ave Koreatown 
+(323) 466-4860 
+
+
+Prime Cutts
+8312 W 3rd St Beverly Grove 
+(323) 852-3496 
+
+
+un solo sol
+1818 E 1st St Boyle Heights 
+(323) 269-8680 
+
+
+Tea Station Express
+
+
+
+
+un solo sol
+1818 E 1st St Boyle Heights 
+(323) 269-8680 
+
+
+Ondal 2
+4566 W Washington Blvd Mid-City 
+(323) 933-3228 
+
+
+by CHLOE. Silver Lake
+2520 Glendale Blvd Silver Lake 
+(424) 675-7617 
+
+
+India’s Restaurant
+4366 Fountain Ave East Hollywood 
+(323) 912-9230 
+
+
+BCD Tofu House
+3575 Wilshire Blvd Koreatown 
+(213) 382-6677 
+
+
+Manpuku Tokyo BBQ
+2125 Sawtelle Blvd Sawtelle 
+(310) 473-0580 
+
+
+Petit Trois
+718 N Highland Ave Hollywood 
+(323) 468-8916 
+
+
+Luv2Eat Thai Bistro
+6660 W Sunset Blvd Hollywood 
+(323) 498-5835 
+
+
+Kanpai Japanese Sushi Bar & Grill
+8325 Lincoln Blvd Westchester 
+(310) 338-7223 
+
+
+Humble Potato
+
+
+
+
+Sqirl
+720 N Virgil Ave East Hollywood 
+(323) 284-8147 
+
+
+Côté Est
+5022 York Blvd Highland Park 
+(323) 739-6762 
+
+
+Toe Bang Cafe
+3465 W 6th St Wilshire Center 
+(213) 387-4905 
+
+
+Sushi Ippo
+3800 Wilshire Blvd Koreatown 
+(213) 381-0110 
+
+
+Fogo de Chão Brazilian Steakhouse
+
+
+
+
+Park’s BBQ
+955 S Vermont Ave Koreatown 
+(213) 380-1717 
+
+
+Cafe Verona
+201 S La Brea Ave Fairfax 
+(323) 934-6188 
+
+
+Western Doma Noodles
+429 N Western Ave Larchmont 
+(323) 871-1955 
+
+
+Sulga Jinju Gom Tang House of Beef Soup
+4451 Beverly Blvd East Hollywood 
+(323) 741-0669 
+
+
+Shintaro Sushi
+1900 N Highland Ave Hollywood Hills 
+(323) 882-6524 
+
+
+Zzamong
+4255 W 3rd St Koreatown 
+(213) 739-2747 
+
+
+Vespertine
+
+
+
+
+Musso & Frank Grill
+6667 Hollywood Blvd Hollywood 
+(323) 467-7788 
+
+
+Here’s Looking At You
+3901 W 6th St Koreatown 
+(213) 568-3573 
+
+
+Saint Felix
+1602 N Cahuenga Blvd Hollywood 
+(323) 469-5001 
+
+
+India’s Tandoori
+5468 Wilshire Blvd Mid-Wilshire 
+(323) 936-2050 
+
+
+Marugame Udon
+8500 Beverly Blvd Beverly Grove 
+(310) 734-0243 
+
+
+Tacos Tumbras a Tomas
+317 S Broadway Downtown 
+(213) 620-1071 
+
+
+Nobu Los Angeles
+
+
+
+
+Nong La Cafe
+145 N La Brea Ave Fairfax 
+(323) 938-1188 
+
+
+Tea Station Express
+
+
+
+
+Yangji Gamjatang
+3470 W 6th St Wilshire Center 
+(213) 388-1105 
+
+
+Forage
+3823 W Sunset Blvd Silver Lake 
+(323) 663-6885 
+
+
+Zankou Chicken
+1716 S Sepulveda Blvd West Los Angeles 
+(310) 444-0550 
+
+
+Stuff’d Dumpling Shop
+6909 Melrose Ave Hollywood 
+(323) 424-7148 
+
+
+Fresh Corn Grill
+1266 Westwood Blvd Westwood 
+(310) 470-0414 
+
+
+Versailles
+1415 S La Cienega Blvd Pico-Robertson 
+(310) 289-0392 
+
+
+Oo-Kook Korean BBQ
+3385 W 8th St Wilshire Center 
+(213) 385-5665 
+
+
+Kasih
+200 S Los Angeles St Little Tokyo 
+(213) 266-8156 
+
+
+Lawry’s The Prime Rib, Beverly Hills
+
+
+
+
+JNJ Burger & BBQ
+5754 W Adams Blvd West Adams 
+(323) 934-5390 
+
+
+Hopdoddy Burger Bar
+12746 Jefferson Blvd Playa Vista 
+(310) 410-2337 
+
+
+TAO Asian Bistro
+6421 Selma Ave Hollywood 
+(323) 593-7888 
+
+
+Sidewalk Grill
+1727 N Vermont Ave Los Feliz 
+(323) 669-3354 
+
+
+Cascabel
+10717 Riverside Dr Toluca Lake 
+(818) 927-4210 
+
+
+BongChu
+3377 Wilshire Blvd Wilshire Center 
+(213) 263-2316 
+
+
+Phillips Barbecue
+2619 Crenshaw Blvd West Adams 
+(323) 731-4772 
+
+
+Pita Bar & Grill
+519 N Fairfax Ave Beverly Grove 
+(323) 653-9024 
+
+
+The Crack Shack
+10250 Santa Monica Blvd Century City 
+(424) 320-0046 
+
+
+Speranza
+2547 Hyperion Ave Los Feliz 
+(323) 644-1918 
+
+
+Gyu-Kaku Japanese BBQ
+
+
+
+
+Blossom Vietnamese Restaurant
+4019 W Sunset Blvd Silver Lake 
+(323) 953-8345 
+
+
+Golden Mongolian Restaurant
+3012 Wilshire Blvd Wilshire Center 
+(213) 263-2141 
+
+
+Marouch Restaurant
+4905 Santa Monica Blvd East Hollywood 
+(323) 662-9325 
+
+
+Summer Buffalo
+7275 Melrose Ave Fairfax 
+(323) 938-8808 
+
+
+Bossa Nova on Sunset
+7181 W Sunset Blvd Hollywood 
+(323) 436-7999 
+
+
+Kettle Black
+3705 W Sunset Blvd Silver Lake 
+(323) 641-3705 
+
+
+Shin Ramen
+1655 N La Brea Ave Hollywood 
+(323) 874-4692 
+
+
+Baldoria
+243 S San Pedro St Little Tokyo 
+(213) 947-3329 
+
+
+Myung In Dumplings
+3109 W Olympic Blvd Koreatown 
+(213) 381-3568 
+
+
+Corner Cantina
+630 W 6th St Downtown 
+(213) 614-1900 
+
+
+Tea Station Express
+
+
+
+
+Nick + Stef’s Steakhouse
+330 S Hope St Downtown 
+(213) 680-0330 
+
+
+Sqirl
+720 N Virgil Ave East Hollywood 
+(323) 284-8147 
+
+
+BongChu
+3377 Wilshire Blvd Wilshire Center 
+(213) 263-2316 
+
+
+Delancey
+5936 W Sunset Blvd Hollywood 
+(323) 469-2100 
+
+
+Sweet Chick
+448 N Fairfax Ave Fairfax 
+(323) 592-3423 
+
+
+Stuff’d Dumpling Shop
+6909 Melrose Ave Hollywood 
+(323) 424-7148 
+
+
+MARUGAME UDON
+2029 Sawtelle Blvd Sawtelle 
+(424) 317-2222 
+
+
+Pink Taco
+8225 W Sunset Blvd Hollywood Hills West 
+(323) 380-7474 
+
+
+Spitz - Los Feliz
+1725 Hillhurst Ave Los Feliz 
+(323) 522-3309 
+
+
+Chateau Hanare
+8097 Selma Ave Hollywood Hills West 
+(323) 963-5269 
+
+
+Orleans & York Deli
+3868 Crenshaw Blvd Leimert Park 
+(323) 903-6650 
+
+
+Salt’s Cure
+1155 N Highland Ave Hollywood 
+(323) 465-7258 
+
+
+Seoul Garden Restaurant
+1833 W Olympic Blvd Westlake 
+(213) 386-8477 
+
+
+Bon Shabu
+601 S Ardmore Ave Wilshire Center 
+(213) 318-5004 
+
+
+The Red Door
+10057 Riverside Dr Toluca Lake 
+(818) 277-3884 
+
+
+The Honor Bar
+
+
+
+
+Yard House
+
+
+
+
+Frankie’s
+7228 Melrose Ave Fairfax 
+(323) 937-2801 
+
+
+Pho Saigon Pearl
+519 S Fairfax Ave Beverly Grove 
+(323) 930-8935 
+
+
+Palermo Italian Restaurant
+1858 N Vermont Ave Los Feliz 
+(323) 663-1430 
+
+
+The Semi-Tropic
+1412 Glendale Blvd Echo Park 
+(213) 568-3827 
+
+
+Whisper Lounge
+189 The Grove Dr Fairfax 
+(323) 931-0202 
+
+
+DD’Licious
+4641 W Washington Blvd Mid-City 
+(562) 326-6863 
+
+
+Gwen Butcher Shop
+6600 Sunset Blvd Hollywood 
+(323) 946-7513 
+
+
+Seorae Village Pork BBQ
+203 N Western Ave Koreatown 
+(323) 378-6948 
+
+
+Choe Gang Jip
+3470 W 6th St Wilshire Center 
+(213) 388-0410 
+
+
+The Lab Gastropub
+3500 S Figueroa Blvd University Park 
+(213) 821-1797 
+
+
+Miceli’s Italian - Hollywood
+1646 N Las Palmas Ave Hollywood 
+(323) 466-3438 
+
+
+Petit Trois
+718 N Highland Ave Hollywood 
+(323) 468-8916 
+
+
+Biergarten
+206 N Western Ave Koreatown 
+(323) 466-4860 
+
+
+Tea Station Express
+
+
+
+
+ACA Grill
+3062 W 8th St Koreatown 
+(213) 674-7708 
+
+
+Ssam Korean BBQ
+1040 S Western Ave Harvard Heights 
+(323) 737-9292 
+
+
+Spread Mediterranean Kitchen
+334 S Main St Downtown 
+(213) 537-0284 
+
+
+The Black Cat
+3909 Sunset Blvd Silver Lake 
+(323) 661-6369 
+
+
+Matteo’s
+2321 Westwood Blvd West Los Angeles 
+(310) 475-4521 
+
+
+The Crack Shack
+10250 Santa Monica Blvd Century City 
+(424) 320-0046 
+
+
+Jin China Bistro
+123 Astronaut E S Onizuka St Little Tokyo 
+(213) 620-1717 
+
+
+Larchmont Bungalow Cafe
+2110 Sunset Blvd Echo Park 
+(213) 908-5301 
+
+
+Western Doma Noodles
+429 N Western Ave Larchmont 
+(323) 871-1955 
+
+
+Wah’s Golden Hen
+709 N Virgil Ave East Hollywood 
+(323) 661-0093 
+
+
+Kopan Ramen - Los Angeles
+621 S Western Ave Koreatown 
+(213) 568-3548 
+
+
+Terroni
+7605 Beverly Blvd Fairfax 
+(323) 954-0300 
+
+
+Men Oh Tokushima Ramen
+456 E 2nd St Little Tokyo 
+(213) 687-8485 
+
+
+Madera Kitchen
+1835 N Cahuenga Blvd Hollywood 
+(213) 261-3687 
+
+
+Menya Musashi LA
+2012 Sawtelle Blvd Sawtelle 
+(310) 231-7188 
+
+
+Cow
+342 W Pico Blvd Downtown 
+(213) 536-5255 
+
+
+Fruition
+800 N Alameda St Downtown 
+(310) 938-5632 
+
+
+Wood
+2861 Sunset Blvd Silver Lake 
+(323) 667-9940 
+
+
+Kalbis Grill
+11102 W Olympic Blvd Sawtelle 
+(424) 832-7473 
+
+
+Brownstone Bistro
+5047 W Pico Blvd Mid-Wilshire 
+(323) 965-9400 
+
+
+Seasalt Fish Grill
+812 W 7th St Downtown 
+(213) 243-5700 
+
+
+Kebbros - Hollywood
+1542 N Cahuenga Hollywood 
+(323) 797-1115 
+
+
+Thai Deli
+1835 E Cesar E Chavez Ave Boyle Heights 
+(323) 223-0269 
+
+
+The Golden State
+426 N Fairfax Ave Fairfax 
+(323) 782-8331 
+
+
+Arts District Brewing Company
+828 Traction Ave Arts District 
+(213) 519-5887 
+
+
+The Lobos Truck
+4470 W Sunset Blvd Los Feliz 
+(323) 642-6500 
+
+
+Little Bear
+1855 Industrial St Arts District 
+(213) 622-8100 
+
+
+Locanda Veneta
+8638 W 3rd St Beverly Grove 
+(310) 274-1893 
+
+
+Lucky Bird
+
+
+
+
+BKLA
+
+
+
+
+Tea Station Express
+
+
+
+
+Mikkeller DTLA
+330 W Olympic Blvd Downtown 
+(213) 596-9005 
+
+
+Hyperion Public - Studio City
+12969 Ventura Blvd Studio City 
+(818) 464-3750 
+
+
+Humble Potato
+8321 Lincoln Blvd Westchester 
+(323) 989-2242 
+
+
+La Brea Ramen Bar
+850 S La Brea Ave Mid-Wilshire 
+(323) 549-9486 
+
+
+Skylight Gardens
+1139 Glendon Ave Westwood 
+(310) 824-1818 
+
+
+Mint Whale 2018
+
+
+
+
+Casa Bianca Pizza Pie
+1650 Colorado Blvd Eagle Rock 
+(323) 256-9617 
+
+
+The Fat Queso
+
+
+
+
+Tacos Tumbras a Tomas
+317 S Broadway Downtown 
+(213) 620-1071 
+
+
+The Faculty
+707 N Heliotrope Dr East Hollywood 
+(323) 284-8002 
+
+
+Yamashiro Hollywood
+1999 N Sycamore Ave Hollywood Hills 
+(323) 466-5125 
+
+
+Baja California Tacos
+10831 Venice Blvd Palms 
+(424) 603-4080 
+
+
+Qin West Noodle
+727 N Broadway Chinatown 
+(213) 687-1063 
+
+
+Ramen of York
+5051 York Blvd Highland Park 
+(323) 999-7988 
+
+
+Terra
+
+
+
+
+The Venue
+3470 Wilshire Blvd Wilshire Center 
+(213) 221-1251 
+
+
+The Oinkster
+2005 Colorado Blvd Eagle Rock 
+(323) 255-6465 
+
+
+Mitsuru Cafe
+117 Japanese Village Plz Mall Little Tokyo 
+(213) 613-1028 
+
+
+Corner Cantina
+630 W 6th St Downtown 
+(213) 614-1900 
+
+
+The Edmon
+5168 Melrose Ave Larchmont 
+(323) 645-5225 
+
+
+Alaska Seafood
+4251 Beverly Blvd East Hollywood 
+(323) 522-6048 
+
+
+Hygge Bakery
+1106 S Hope St Downtown 
+(213) 995-5022 
+
+
+Eagle Rock Kitchen
+2501 Colorado Blvd Eagle Rock 
+(323) 362-2263 
+
+
+Totoraku
+10610 W Pico Blvd Cheviot Hills 
+(310) 838-9881 
+
+
+El Compadre
+7408 W Sunset Blvd Hollywood 
+(323) 874-7924 
+
+
+Vees Cafe
+5418 W Adams Blvd West Adams 
+(323) 931-8337 
+
+
+Matsumoto
+8385 Beverly Blvd Beverly Grove 
+(323) 653-0470 
+
+
+Smorgasburg
+785 Bay St Downtown 
+(718) 928-6603 
+
+
+Hungry Crowd
+10140 Riverside Dr Toluca Lake 
+(818) 853-7858 
+
+
+Katsuya L.A. Live
+800 W Olympic Blvd Downtown 
+(213) 747-9797 
+
+
+Tea Station Express
+
+
+
+
+Taste of Tehran
+1915 Westwood Blvd West Los Angeles 
+(310) 470-0022 
+
+
+DaeBuDo
+3916 Wilshire Blvd Koreatown 
+(213) 352-1300 
+
+
+Korean Super
+11313 Mississippi Ave Sawtelle 
+(424) 248-0872 
+
+
+Three Borders Brunch
+5308 W Olympic Blvd Mid-Wilshire 
+(323) 440-9294 
+
+
+Bukchon
+361 S Western Ave Koreatown 
+(213) 302-2812 
+
+
+Ziran
+
+
+
+
+Melody
+751 N Virgil Ave East Hollywood 
+(323) 922-6037 
+
+
+Izakaya Gazen
+362 E 1st St Little Tokyo 
+(213) 613-1415 
+
+
+Cleo - Temp. CLOSED
+1717 Vine St Hollywood 
+(323) 962-1711 
+
+
+DeSano Pizza Bakery
+4959 Santa Monica Blvd East Hollywood 
+(323) 913-7000 
+
+
+Crying Tiger
+
+
+
+
+Community Los Feliz
+2044 Hillhurst Ave Los Feliz 
+(323) 913-0478 
+
+
+Geisha Japanese Restaurant
+3680 Wilshire Blvd Koreatown 
+(213) 427-0288 
+
+
+Ocean Prime
+
+
+
+
+Bluebird Brasserie
+13730 Ventura Blvd Sherman Oaks 
+(818) 849-6970 
+
+
+Lawry’s The Prime Rib, Beverly Hills
+
+
+
+
+Hail Mary Pizza
+3219 Glendale Blvd Atwater Village 
+(323) 284-8879 
+
+
+El Caserio
+401 Silver Lake Blvd Silver Lake 
+(213) 273-8945 
+
+
+sushi-litos cafe
+3310 S Central Ave Central Alameda 
+(323) 742-9817 
+
+
+Breva Restaurant
+939 S Figueroa St Downtown 
+(213) 660-3006 
+
+
+Chips N’ Chicks
+1666 North Vermont Ave Los Feliz 
+(818) 731-9624 
+
+
+The Stand
+2000 Ave of the Stars Century City 
+(310) 785-0400 
+
+
+Jun Won Restaurant
+414 S Western Ave Koreatown 
+(213) 383-8855 
+
+
+VIVO Italian Kitchen
+
+
+
+
+CaCao Mexicatessen
+1576 Colorado Blvd Eagle Rock 
+(323) 478-2791 
+
+
+Tropicalia Brazilian Grill
+1966 Hillhurst Ave Los Feliz 
+(323) 644-1798 
+
+
+Asuka
+1553 Westwood Blvd Westwood 
+(424) 832-7284 
+
+
+El Camaron Pelado
+2676 Pasadena Ave Lincoln Heights 
+(323) 505-7544 
+
+
+Ackee Bamboo Jamaican Cuisine
+4305 Degnan Blvd Leimert Park 
+(323) 295-7275 
+
+
+Beetle House LA
+6356 Hollywood Blvd Hollywood 
+(929) 291-0337 
+
+
+Tea Station Express
+
+
+
+
+Three Borders Brunch
+5308 W Olympic Blvd Mid-Wilshire 
+(323) 440-9294 
+
+
+The Front Yard
+4222 Vineland Ave Studio City 
+(818) 255-7290 
+
+
+El Zarape
+5203 Fountain Ave East Hollywood 
+(323) 741-0465 
+
+
+Home Restaurant - Los Feliz
+1760 Hillhurst Ave Los Feliz 
+(323) 669-0211 
+
+
+Rappahannock Oyster Bar DTLA
+787 S Alameda St Downtown 
+(323) 435-4004 
+
+
+Orsa & Winston
+122 W 4th St Downtown 
+(213) 687-0300 
+
+
+La Noche Buena Restaurant
+12 Olvera St Downtown 
+(213) 628-2078 
+
+
+The Wallace
+
+
+
+
+Crustacean Beverly Hills
+
+
+
+
+Eastside Market Italian Deli
+1013 Alpine St Chinatown 
+(213) 250-2464 
+
+
+Rays Texas BBQ
+
+
+
+
+HomeState
+4624 Hollywood Blvd East Hollywood 
+(323) 906-1122 
+
+
+Tommy’s Original World Famous Hamburgers
+2575 Beverly Blvd Westlake 
+(213) 389-9060 
+
+
+Kai Ramen At Joseph’s Cafe
+1777 Ivar Ave Hollywood 
+(323) 462-4165 
+
+
+Sage Plant Based Bistro
+
+
+
+
+Fat Dog
+801 N Fairfax Ave Beverly Grove 
+(323) 951-0030 
+
+
+Ten-Raku
+4177 W 3rd St Koreatown 
+(213) 380-8382 
+
+
+Thai Deli
+1835 E Cesar E Chavez Ave Boyle Heights 
+(323) 223-0269 
+
+
+Alaska Seafood
+4251 Beverly Blvd East Hollywood 
+(323) 522-6048 
+
+
+Crawford’s
+2616 Beverly Blvd Westlake 
+(213) 568-3133 
+
+
+Gam Ja Gol
+3003 W Olympic Blvd Koreatown 
+(213) 381-6446 
+
+
+The Golden State
+426 N Fairfax Ave Fairfax 
+(323) 782-8331 
+
+
+Buil Samgye Tang
+4204 W 3rd St Koreatown 
+(213) 739-0001 
+
+
+Murakami Sushi
+7160 Melrose Ave Fairfax 
+(323) 692-1450 
+
+
+Pinches Tacos
+8200 W Sunset Blvd Hollywood Hills West 
+(323) 650-0614 
+
+
+Market Provisions
+8009 Beverly Blvd Beverly Grove 
+(323) 653-8009 
+
+
+Sonoratown
+208 E 8th St Downtown 
+(213) 628-3710 
+
+
+Hail Mary Pizza
+3219 Glendale Blvd Atwater Village 
+(323) 284-8879 
+
+
+The Backhouse
+3500 W 6th St Wilshire Center 
+(213) 739-9205 
+
+
+Pho Thai Town
+5136 Hollywood Blvd East Hollywood 
+(323) 667-0934 
+
+
+Tea Station Express
+
+
+
+
+Pho Thai Town
+5136 Hollywood Blvd East Hollywood 
+(323) 667-0934 
+
+
+SOCA
+14015 Ventura Blvd Sherman Oaks 
+(818) 301-4300 
+
+
+CUP’S
+3064 W 8th St Koreatown 
+(213) 738-0968 
+
+
+Yuca’s
+2056 Hillhurst Ave Los Feliz 
+(323) 662-1214 
+
+
+Trois Mec
+716 N Highland Ave Hollywood 
+(323) 484-8588 
+
+
+Le Petit Greek
+127 N Larchmont Blvd Windsor Square 
+(323) 464-5160 
+
+
+Pokémolé
+530 S Occidental Blvd Westlake 
+(213) 568-3535 
+
+
+California Bowl
+706 N Vermont Ave East Hollywood 
+(323) 669-3070 
+
+
+Ronan
+7315 Melrose Ave Fairfax 
+(323) 917-5100 
+
+
+Yangji Gamjatang
+3470 W 6th St Wilshire Center 
+(213) 388-1105 
+
+
+Rock’N Fish
+
+
+
+
+Carousel Restaurant
+5112 Hollywood Blvd East Hollywood 
+(323) 660-8060 
+
+
+Oleego By Parks BBQ
+735 S Figueroa St Downtown 
+(213) 614-9090 
+
+
+The Village Idiot
+7383 Melrose Ave Fairfax 
+(323) 655-3331 
+
+
+Bella Trattoria 25
+3207 E Pico Blvd Boyle Heights 
+(323) 267-5706 
+
+
+Koreatown Pizza Company
+3881 Wilshire Blvd Koreatown 
+(213) 738-0077 
+
+
+CAVA
+3201 S Hoover University Park 
+(213) 212-9838 
+
+
+Citizen
+
+
+
+
+SUGARFISH by sushi nozawa
+600 W 7th St Downtown 
+(213) 627-3000 
+
+
+Gus’s Drive In
+1657 W 3rd St Westlake 
+(213) 483-8885 
+
+
+Paseo San Miguel
+1560 W Martin Luther King Jr Blvd Vermont Square 
+(323) 294-0201 
+
+
+South City Fried Chicken
+
+
+
+
+Spicy BBQ Restaurant
+5101 Santa Monica Blvd East Hollywood 
+(323) 663-4211 
+
+
+YAZAWA
+
+
+
+
+Kotoya Ramen
+10422 National Blvd Palms 
+(424) 326-9149 
+
+
+Mario’s Pizza
+4510 Inglewood Blvd Del Rey 
+(310) 881-9905 
+
+
+Mexicano
+3650 W Martin Luther King Jr Blvd Baldwin Hills/Crenshaw 
+(323) 296-0798 
+
+
+Meet in Paris
+
+
+
+
+Kabayo Cham Bada
+201 N Western Ave Koreatown 
+(323) 645-7668 
+
+
+The Pie Hole
+6314 Hollywood Blvd Hollywood 
+(323) 963-5174 
+
+
+Tea Station Express
+
+
+
+
+Umami Burger - Arts District
+738 E 3rd St Arts District 
+(323) 263-8626 
+
+
+Terra
+
+
+
+
+Honda Ya Izakaya
+333 S Alameda St Little Tokyo 
+(213) 625-1184 
+
+
+Benny’s Tacos & Chicken Rotisserie
+7101 W Manchester Ave Westchester 
+(310) 670-8226 
+
+
+Alcove Café & Bakery
+1929 Hillhurst Ave Los Feliz 
+(323) 644-0100 
+
+
+Lucky Bird
+
+
+
+
+The Pie Hole
+6314 Hollywood Blvd Hollywood 
+(323) 963-5174 
+
+
+Hot Wings Cafe
+7011 Melrose Ave Hollywood 
+(323) 930-1233 
+
+
+Shake Shack
+
+
+
+
+Arashi Sushi
+1111 S Hope St Downtown 
+(213) 749-1900 
+
+
+The Detour Bistro Bar
+
+
+
+
+Jeon Ju Restaurant
+2716 W Olympic Blvd Pico-Union 
+(213) 386-5678 
+
+
+Umami Burger - The Grove
+189 The Grove Dr Fairfax 
+(323) 954-8626 
+
+
+Khong Ten
+11520 W Pico Blvd Sawtelle 
+(424) 832-7000 
+
+
+El Coyote Mexican Cafe
+7312 Beverly Blvd Fairfax 
+(323) 939-2255 
+
+
+Karayama
+136 S Central Ave Little Tokyo 
+(213) 265-7358 
+
+
+Cousins Maine Lobster Restaurant
+
+
+
+
+Mendocino Farms
+175 S Fairfax Ave Beverly Grove 
+(323) 934-4261 
+
+
+ShaBuShi
+5185 Sunset Blvd East Hollywood 
+(323) 985-4159 
+
+
+The Apple Pan
+10801 W Pico Blvd West Los Angeles 
+(310) 475-3585 
+
+
+Caveman Kitchen
+2215 S Vermont Ave Adams Normandie 
+(323) 737-3717 
+
+
+Elbow Room
+1634 N Cahuenga Blvd Hollywood 
+(323) 645-7119 
+
+
+Kogi BBQ Truck - Verde
+
+
+
+
+New York Famous Deli
+2108 Colorado Blvd Eagle Rock 
+(323) 255-3354 
+
+
+Ay-Do-No Korean BBQ
+5911 Hollywood Blvd Hollywood 
+(323) 871-1420 
+
+
+Skylight Gardens
+1139 Glendon Ave Westwood 
+(310) 824-1818 
+
+
+FIN
+
+
+
+
+Yupdduk Olympic
+3132 W Olympic Blvd Harvard Heights 
+(213) 785-1575 
+
+
+Mario’s Pizza
+4510 Inglewood Blvd Del Rey 
+(310) 881-9905 
+
+
+Il Cielo
+
+
+
+
+Tea Station Express
+
+
+
+
+All’ Angolo Pizza & Pasta
+4050 W 3rd St Koreatown 
+(213) 368-7888 
+
+
+Yangmani
+2561 W Olympic Blvd Westlake 
+(213) 249-9292 
+
+
+DaeBokJung
+2010 James M Wood Blvd Westlake 
+(213) 386-6660 
+
+
+Petty Cash Taqueria
+7360 Beverly Blvd Fairfax 
+(323) 933-5300 
+
+
+Shibumi
+815 S Hill St Downtown 
+(323) 484-8915 
+
+
+Veggie House
+3217 Cahuenga Blvd W Hollywood Hills 
+(323) 851-8837 
+
+
+Corner Place
+2819 James M Wood Blvd Koreatown 
+(213) 487-0968 
+
+
+Seorae Village Pork BBQ
+203 N Western Ave Koreatown 
+(323) 378-6948 
+
+
+Tokyo Hamburg
+600 S New Hampshire Ave Wilshire Center 
+(213) 263-2668 
+
+
+Love Shrimp Thai Thai
+4814 Melrose Ave East Hollywood 
+(323) 663-7079 
+
+
+sweetgreen
+8055 W 3rd St Beverly Grove 
+(323) 934-3404 
+
+
+Tacos Tu Madre
+1945 1/2 Westwood Blvd West Los Angeles 
+(424) 832-7092 
+
+
+Bamboo Restaurant
+10835 Venice Blvd Palms 
+(310) 287-0668 
+
+
+Golden Pouch
+3324 W 6th St Wilshire Center 
+(213) 297-5652 
+
+
+The Pie Hole
+714 Traction Ave Arts District 
+(213) 537-0115 
+
+
+Culina
+
+
+
+
+El Cholo
+1037 S Flower St Downtown 
+(213) 746-7750 
+
+
+Da Pasquale Restaurant
+
+
+
+
+SharksTeeth
+
+
+
+
+Shake Shack
+10250 Santa Monica Blvd Century City 
+(424) 218-0076 
+
+
+Sage Plant Based Bistro
+
+
+
+
+Triple 8 China Bar & Grill
+
+
+
+
+Tracey’s Belizean Restaurant
+3810 S Western Ave Exposition Park 
+(323) 735-2166 
+
+
+Eagle Rock Kitchen
+2501 Colorado Blvd Eagle Rock 
+(323) 362-2263 
+
+
+Hama Sushi
+347 E 2nd St Little Tokyo 
+(213) 680-3454 
+
+
+Javier’s Century City
+10250 Santa Monica Blvd Century City 
+(424) 313-8143 
+
+
+Nest
+
+
+
+
+Plum Tree Inn
+913 N Broadway Chinatown 
+(213) 613-1819 
+
+
+Dan Sung Sa
+3317 W 6th St Wilshire Center 
+(213) 487-9100 
+
+
+Miceli’s Italian - Hollywood
+1646 N Las Palmas Ave Hollywood 
+(323) 466-3438 
+
+
+Tea Station Express
+
+
+
+
+Chunju Han-il Kwan
+3450 W 6th St Wilshire Center 
+(213) 480-1799 
+
+
+Froma on Melrose
+7960 Melrose Ave Beverly Grove 
+(323) 653-3700 
+
+
+BCD Tofu House
+3575 Wilshire Blvd Koreatown 
+(213) 382-6677 
+
+
+El Huarachito
+3010 N Broadway Lincoln Heights 
+(323) 223-0476 
+
+
+Sonoratown
+208 E 8th St Downtown 
+(213) 628-3710 
+
+
+Zankou Chicken
+1716 S Sepulveda Blvd West Los Angeles 
+(310) 444-0550 
+
+
+Ondal 2
+4566 W Washington Blvd Mid-City 
+(323) 933-3228 
+
+
+Sushi Hon
+3929 W Olympic Blvd Koreatown 
+(323) 852-3030 
+
+
+Ivory on Sunset
+
+
+
+
+The Local Peasant - Sherman Oaks
+14058 Ventura Blvd Sherman Oaks 
+(818) 501-0234 
+
+
+Drago Ristorante
+6060 Wilshire Blvd Mid-Wilshire 
+(323) 800-2244 
+
+
+Casa Sanchez
+4500 S Centinela Ave Del Rey 
+(310) 397-9999 
+
+
+Cilantro Lime
+934 S Los Angeles St Downtown 
+(213) 628-3517 
+
+
+Hide Sushi Japanese Restaurant
+2040 Sawtelle Blvd Sawtelle 
+(310) 477-7242 
+
+
+Shibumi
+815 S Hill St Downtown 
+(323) 484-8915 
+
+
+Wolfgang Puck Bar & Grill
+800 West Olympic Blvd Downtown 
+(213) 748-9700 
+
+
+Trencher
+1305 Portia St Echo Park 
+(323) 604-9621 
+
+
+Inti Restaurant
+5870 Melrose Ave Hancock Park 
+(323) 962-2027 
+
+
+Petty Cash Taqueria
+7360 Beverly Blvd Fairfax 
+(323) 933-5300 
+
+
+Norah
+
+
+
+
+La Pupusa Urban Eatery
+1051 W Washington Blvd Pico-Union 
+(213) 749-4573 
+
+
+Little Dom’s
+2128 Hillhurst Ave Los Feliz 
+(323) 661-0055 
+
+
+The Sunset Trocadero Lounge
+
+
+
+
+Mignon
+128 E 6th St Downtown 
+(213) 489-0131 
+
+
+Nam Won Gol
+3623 W Pico Blvd Arlington Heights 
+(323) 733-5700 
+
+
+Genki Grill
+6355 Wilshire Blvd Beverly Grove 
+(323) 653-3287 
+
+
+Manpuku Yakiniku Dining
+8486 W 3rd St Beverly Grove 
+(323) 847-5061 
+
+
+Mariscos Jalisco
+3040 E Olympic Blvd Boyle Heights 
+(323) 528-6701 
+
+
+Sushi Ippo
+3800 Wilshire Blvd Koreatown 
+(213) 381-0110 
+
+
+Okipoki
+507 S Spring St Downtown 
+(213) 628-3378 
+
+
+Tea Station Express
+
+
+
+
+XoK
+2813 Sunset Blvd Silver Lake 
+(323) 741-0021 
+
+
+Simplydlicious
+4641 W Washington Blvd Mid-City 
+(562) 326-6863 
+
+
+Lotus
+3742 S Flower St Exposition Park 
+(213) 478-0090 
+
+
+Roscoe’s House of Chicken & Waffles
+5006 W Pico Blvd Mid-City 
+(323) 934-4405 
+
+
+Isaan Station Thai Street Food
+125 N Western Ave Koreatown 
+(323) 498-2451 
+
+
+La Poubelle Bistro
+5907 Franklin Ave Hollywood Hills 
+(323) 465-0807 
+
+
+Employees Only
+
+
+
+
+LA Paella
+476 S San Vicente Blvd Beverly Grove 
+(323) 951-0745 
+
+
+Tsujita LA Artisan Noodle Annex
+2050 Sawtelle Blvd Sawtelle 
+(310) 231-0222 
+
+
+bushi by JINYA
+5168 Wilshire Blvd Mid-Wilshire 
+(323) 954-6477 
+
+
+Stefano’s - Two Guys From Italy
+6705 Hollywood Blvd Hollywood 
+(323) 463-0715 
+
+
+Mixto Comida Latina
+2827 Hyperion Ave Los Feliz 
+(323) 668-1818 
+
+
+Holbox
+3655 S Grand Ave Historic South Central 
+(213) 986-9972 
+
+
+To Soc Chon
+356 S Western Ave Koreatown 
+(213) 388-0022 
+
+
+White Boy Tacos
+224 W 8th St Downtown 
+(213) 298-1500 
+
+
+Clementine
+1751 Ensley Ave Westwood 
+(310) 552-1080 
+
+
+The Hungry Cat
+1535 Vine St Hollywood 
+(323) 462-2155 
+
+
+by CHLOE. Silver Lake
+2520 Glendale Blvd Silver Lake 
+(424) 675-7617 
+
+
+Asian Fusion
+1710 S Robertson Blvd Pico-Robertson 
+(424) 298-8247 
+
+
+Umami Burger - Arts District
+738 E 3rd St Arts District 
+(323) 263-8626 
+
+
+Sopita
+3087 W Pico Blvd Harvard Heights 
+(323) 356-9224 
+
+
+The West End: Craft Bar and Neighborhood Kitchen
+2116-B Westwood Blvd West Los Angeles 
+(310) 470-6601 
+
+
+JJAN
+3328 W 8th St Koreatown 
+(213) 381-5838 
+
+
+Yolk & Flour
+3232 1/2 N Figueroa St Cypress Park 
+(323) 206-5948 
+
+
+Rainbow Bar & Grill
+
+
+
+
+El Huero
+3000 S Figueroa St University Park 
+(213) 747-0012 
+
+
+Love Baked Wings
+7350 Melrose Ave Fairfax 
+(323) 424-4300 
+
+
+Nabi Korean Restaurant
+4632 Santa Monica Blvd East Hollywood 
+(323) 986-0107 
+
+
+La Noche Buena Restaurant
+12 Olvera St Downtown 
+(213) 628-2078 
+
+
+Zinc Cafe & Market
+580 Mateo St Arts District 
+(323) 825-5381 
+
+
+Tea Station Express
+
+
+
+
+Luv2Eat Thai Bistro
+6660 W Sunset Blvd Hollywood 
+(323) 498-5835 
+
+
+Kai Ramen At Joseph’s Cafe
+1777 Ivar Ave Hollywood 
+(323) 462-4165 
+
+
+Kashira Japanese Restaurant
+3785 Wilshire Blvd Koreatown 
+(213) 388-1620 
+
+
+Tokyo Hamburg
+600 S New Hampshire Ave Wilshire Center 
+(213) 263-2668 
+
+
+Sushi Fumi
+359 N La Cienega Blvd Beverly Grove 
+(310) 855-0006 
+
+
+Crispy Pork Gang
+5253 Hollywood Blvd Los Feliz 
+(323) 465-9796 
+
+
+El Flamin’ Taco
+505 S Vermont Ave Wilshire Center 
+(213) 718-1790 
+
+
+The Counter Downtown LA
+725 W 7th St Downtown 
+(213) 228-7800 
+
+
+Tom Tom
+
+
+
+
+Kogi Taqueria
+3500 Overland Ave Palms 
+(424) 326-3031 
+
+
+un solo sol
+1818 E 1st St Boyle Heights 
+(323) 269-8680 
+
+
+Pinches Tacos
+1030 Glendon Ave Westwood 
+(310) 361-8566 
+
+
+The BoardRoom
+135 N Grand Ave Downtown 
+(213) 972-8556 
+
+
+Pacific Dining Car
+1310 W 6th St Westlake 
+(213) 483-6000 
+
+
+Winsome
+1115 Sunset Blvd Echo Park 
+(213) 415-1818 
+
+
+Lindo Oaxaca
+322 E Washington Blvd Historic South Central 
+(213) 749-8723 
+
+
+Rincon OaxaQueno
+6655 Hollywood Blvd Hollywood 
+(323) 469-1843 
+
+
+Cielito Lindo
+E-23 Olvera St Downtown 
+(213) 687-4391 
+
+
+Bang Na Thai Fusion
+637 N Spring St Chinatown 
+(323) 698-6569 
+
+
+Mari Kimbap Shop
+3417 W 6th St Wilshire Center 
+(213) 674-7333 
+
+
+Salazar
+
+
+
+
+Shabu Hyang
+3807 Wilshire Blvd Koreatown 
+(213) 384-5464 
+
+
+Kiku Sushi
+246 N Larchmont Blvd Windsor Square 
+(323) 464-1323 
+
+
+Hayato
+1320 E 7th St Downtown 
+(213) 395-0607 
+
+
+Boneyard Bistro
+13539 Ventura Blvd Sherman Oaks 
+(818) 906-7427 
+
+
+Curry House
+123 Astronaut E S Onizuka St Little Tokyo 
+(213) 620-0855 
+
+
+Côté Est
+5022 York Blvd Highland Park 
+(323) 739-6762 
+
+
+The Palm Los Angeles
+1100 S Flower St Downtown 
+(213) 763-4600 
+
+
+Uncle John’s Cafe
+834 S Grand Ave Downtown 
+(213) 623-3555 
+
+
+Tea Station Express
+
+
+
+
+Atwater Village Tavern
+3216 Glendale Blvd Atwater Village 
+(323) 644-0605 
+
+
+Umeda
+6623 Melrose Ave Hollywood 
+(323) 965-8010 
+
+
+Pollo a La Brasa Western
+764 S Western Ave Koreatown 
+(213) 387-1531 
+
+
+L & E Oyster Bar
+1637 Silver Lake Blvd Silver Lake 
+(323) 660-2255 
+
+
+Boda Restaurant
+2310 Pasadena Ave Lincoln Heights 
+(323) 227-8573 
+
+
+Pho 87
+1019 N Broadway Elysian Park 
+(323) 227-0758 
+
+
+Elbow Room
+1634 N Cahuenga Blvd Hollywood 
+(323) 645-7119 
+
+
+Delicious Donuts
+3087 W Pico Blvd Harvard Heights 
+(323) 734-9370 
+
+
+Brooklyn Deli & Mini Market
+4308 Crenshaw Blvd Leimert Park 
+(347) 981-8408 
+
+
+Gala Thai
+3353 Barham Blvd Hollywood Hills 
+(323) 969-9169 
+
+
+Younggoo’s Naju Gomtang - Zero Nine
+301 S Western Ave Koreatown 
+(213) 908-5269 
+
+
+Loqui
+
+
+
+
+Jitlada
+5233 W Sunset Blvd East Hollywood 
+(323) 667-9809 
+
+
+Napa Valley Grille
+1100 Glendon Ave Westwood 
+(310) 824-3322 
+
+
+Hyde Sunset Kitchen + Cocktails
+8117 Sunset Blvd Hollywood Hills West 
+(323) 940-1650 
+
+
+Ramen Hood
+317 S Broadway Downtown 
+(781) 591-9111 
+
+
+The Exchange Restaurant
+416 West 8th St Downtown 
+(213) 437-9511 
+
+
+Chinese Friends Restaurant
+984 N Broadway Chinatown 
+(213) 626-1837 
+
+
+Little Vitaly
+
+
+
+
+Burgerim
+8487 Sunset Blvd Hollywood Hills West 
+(323) 645-7151 
+
+
+Belizean Paradise
+1271 S La Brea Ave Mid-Wilshire 
+(323) 937-7710 
+
+
+Momota Ramen House
+4003 Wilshire Blvd Windsor Square 
+(213) 568-3953 
+
+
+Imperial Chopsticks
+1549 N Vermont Ave East Hollywood 
+(323) 661-6647 
+
+
+All About the Bread
+7111 Melrose Ave Fairfax 
+(323) 930-8989 
+
+
+Honda Ya Izakaya
+333 S Alameda St Little Tokyo 
+(213) 625-1184 
+
+
+Tocaya Organica - Century City
+10250 Santa Monica Blvd Century City 
+(424) 255-6956 
+
+
+Tolosa
+2635 Whittier Blvd Boyle Heights 
+(323) 685-2406 
+
+
+Tracey’s Belizean Restaurant
+3810 S Western Ave Exposition Park 
+(323) 735-2166 
+
+
+Sonoritas Prime Tacos
+2004 Sawtelle Blvd Sawtelle 
+(310) 444-9100 
+
+
+Canela Cocina Latina
+12326 1/2 Venice Blvd Mar Vista 
+(310) 313-0871 
+
+
+Tea Station Express
+
+
+
+
+OMSB
+580 S Alameda St Arts District 
+(213) 670-7960 
+
+
+The Local Peasant - Sherman Oaks
+14058 Ventura Blvd Sherman Oaks 
+(818) 501-0234 
+
+
+The Lobos Truck
+4470 W Sunset Blvd Los Feliz 
+(323) 642-6500 
+
+
+Horse Thief BBQ
+324 S Hill St Downtown 
+(213) 625-0341 
+
+
+Lemonade
+626 N Larchmont Blvd Larchmont 
+(323) 464-0700 
+
+
+Uncle John’s Cafe
+834 S Grand Ave Downtown 
+(213) 623-3555 
+
+
+Pomegranate
+8556 W 3rd St Beverly Grove 
+(424) 335-0506 
+
+
+KyoChon
+3833 W 6th St Koreatown 
+(213) 739-9292 
+
+
+The Escondite
+410 Boyd St Little Tokyo 
+(213) 626-1800 
+
+
+Pasta Sisters - Culver City
+
+
+
+
+The Stand
+2000 Ave of the Stars Century City 
+(310) 785-0400 
+
+
+Diamond Buffet & Grill
+1901 W 7th St Westlake 
+(213) 989-1888 
+
+
+Brothers Bbq
+3680 W 6th St Koreatown 
+(213) 739-8800 
+
+
+Kaban Persian Restaurant
+3250 Cahuenga Blvd W Hollywood Hills 
+(323) 498-0080 
+
+
+Broken Shaker Los Angeles
+416 West 8th St Downtown 
+(213) 261-3599 
+
+
+El Huero
+3000 S Figueroa St University Park 
+(213) 747-0012 
+
+
+The Heights Deli & Bottle Shop
+2927 N Broadway Lincoln Heights 
+(323) 223-0708 
+
+
+Diablo
+3129 W Sunset Blvd Silver Lake 
+(323) 666-4666 
+
+
+Ma Dang Gook Soo
+869 S Western Ave Koreatown 
+(213) 487-6008 
+
+
+Oaxacan Quesadilla Cart
+1246 Echo Park Ave Echo Park 
+(323) 383-3580 
+
+
+Brownstone Bistro
+5047 W Pico Blvd Mid-Wilshire 
+(323) 965-9400 
+
+
+Umami Burger - Hollywood
+1520 N Cahuenga Blvd Hollywood 
+(323) 469-3100 
+
+
+Kopan Ramen - Los Angeles
+621 S Western Ave Koreatown 
+(213) 568-3548 
+
+
+Fusion Bistro
+312 N Spring St Downtown 
+(213) 626-2110 
+
+
+Momota Ramen House
+4003 Wilshire Blvd Windsor Square 
+(213) 568-3953 
+
+
+Hollywood Thai
+5241 Hollywood Blvd Los Feliz 
+(323) 467-0926 
+
+
+Juanita’s Café
+20 Olvera St Downtown 
+(213) 628-1013 
+
+
+ChiMac Star
+3054 W 8th St Koreatown 
+(213) 383-0003 
+
+
+Catcher In the Rye
+10550 Riverside Dr Toluca Lake 
+(818) 853-7835 
+
+
+Cleo - Temp. CLOSED
+1717 Vine St Hollywood 
+(323) 962-1711 
+
+
+Tea Station Express
+
+
+
+
+ChiMac Star
+3054 W 8th St Koreatown 
+(213) 383-0003 
+
+
+Singapore’s Banana Leaf
+6333 W 3rd St Fairfax 
+(323) 933-4627 
+
+
+Yuko Kitchen
+101 W 5th St Downtown 
+(213) 266-0046 
+
+
+Brownstone Bistro
+5047 W Pico Blvd Mid-Wilshire 
+(323) 965-9400 
+
+
+El Huero
+3000 S Figueroa St University Park 
+(213) 747-0012 
+
+
+Uni Luv
+
+
+
+
+Jaffa
+8048 West 3rd St Beverly Grove 
+(323) 433-4978 
+
+
+Noe Restaurant and Bar
+
+
+
+
+Ramen Champ
+
+
+
+
+Jino’s Pars
+5844 W Manchester Ave Westchester 
+(310) 645-6666 
+
+
+Pollo a La Brasa Western
+764 S Western Ave Koreatown 
+(213) 387-1531 
+
+
+Tengoku Ramen Bar
+539 S Western Ave Koreatown 
+(213) 388-8988 
+
+
+Cleo - Temp. CLOSED
+1717 Vine St Hollywood 
+(323) 962-1711 
+
+
+Pasta Sisters - Culver City
+
+
+
+
+Katsuya Hollywood
+6300 Hollywood Blvd Hollywood 
+(323) 391-2757 
+
+
+Feng Mao Lamb Kebab
+3901 W Olympic Blvd Koreatown 
+(323) 935-1099 
+
+
+Brothers BBQ
+7725 Crenshaw Blvd Hyde Park 
+(323) 751-1050 
+
+
+Salt’s Cure
+1155 N Highland Ave Hollywood 
+(323) 465-7258 
+
+
+The Local Peasant - Sherman Oaks
+14058 Ventura Blvd Sherman Oaks 
+(818) 501-0234 
+
+
+Grub
+911 Seward St Hollywood 
+(323) 461-3663 
+
+
+Azla
+3655 S Grand Ave Historic South Central 
+(213) 745-7455 
+
+
+Blair’s Restaurant
+2903 Rowena Ave Silver Lake 
+(323) 660-1882 
+
+
+PIPS On La Brea
+1356 S La Brea Ave Mid-Wilshire 
+(323) 954-7477 
+
+
+Tropicalia Brazilian Grill
+1966 Hillhurst Ave Los Feliz 
+(323) 644-1798 
+
+
+Vibrato Grill Jazz
+2930 N Beverly Glen Cir Beverly Crest 
+(310) 474-9400 
+
+
+Belizean Paradise
+1271 S La Brea Ave Mid-Wilshire 
+(323) 937-7710 
+
+
+Catcher In the Rye
+10550 Riverside Dr Toluca Lake 
+(818) 853-7835 
+
+
+Komasa Sushi
+351 E 2nd St Little Tokyo 
+(213) 680-1792 
+
+
+Holy Crab
+3250 Wilshire Blvd Wilshire Center 
+(213) 252-0058 
+
+
+Takasan Japanese Bowls
+225 W 7th St Downtown 
+(213) 878-9022 
+
+
+Tea Station Express
+
+
+
+
+Belizean Paradise
+1271 S La Brea Ave Mid-Wilshire 
+(323) 937-7710 
+
+
+Haché LA
+3319 W Sunset Blvd Silver Lake 
+(323) 928-2963 
+
+
+JINYA Ramen Bar
+700 Wilshire Blvd Downtown 
+(213) 628-3736 
+
+
+Burgerim
+8487 Sunset Blvd Hollywood Hills West 
+(323) 645-7151 
+
+
+Wake & Bake
+
+
+
+
+Vito’s Pizza
+846 N La Cienega Blvd Beverly Grove 
+(310) 652-6859 
+
+
+Holy Crab
+3250 Wilshire Blvd Wilshire Center 
+(213) 252-0058 
+
+
+Natalee Thai
+10101 Venice Blvd Palms 
+(310) 202-7003 
+
+
+Komasa Sushi
+351 E 2nd St Little Tokyo 
+(213) 680-1792 
+
+
+Tito’s Tacos
+
+
+
+
+The Sit Down
+4518 Hollywood Blvd East Hollywood 
+(323) 644-9760 
+
+
+The Six Chow House
+10668 W Pico Blvd Cheviot Hills 
+(310) 837-6662 
+
+
+Hakata Ikkousha
+368 E 2nd St Little Tokyo 
+(213) 221-7920 
+
+
+The Griddle Cafe
+7916 W Sunset Blvd Hollywood Hills West 
+(323) 874-0377 
+
+
+Panini Kabob Grill
+600 W 9th St Downtown 
+(213) 489-4200 
+
+
+Somni
+465 S La Cienega Blvd Beverly Grove 
+(310) 246-5543 
+
+
+Jones
+
+
+
+
+Cicada Restaurant
+617 S Olive St Downtown 
+(213) 488-9488 
+
+
+Shin Chon Seolnongtang
+3033 W 6th St Wilshire Center 
+(213) 365-2233 
+
+
+El Cholo
+1121 S Western Ave Harvard Heights 
+(323) 734-2773 
+
+
+Braazo Pizza
+100 1/2 W 7th St Downtown 
+(213) 622-3390 
+
+
+SUGARFISH by sushi nozawa
+6115 W Sunset Blvd Hollywood 
+(323) 320-4800 
+
+
+Cafe Gratitude - Arts District
+300 S Santa Fe Ave Downtown 
+(213) 929-5580 
+
+
+Mel’s Fish Shack
+4524 W Jefferson Blvd West Adams 
+(323) 732-6357 
+
+
+Wokcano Asian Restaurant & Bar
+8000 W Sunset Blvd Hollywood Hills West 
+(323) 450-9037 
+
+
+Robert’s Russian Cuisine
+1603 N La Brea Ave Hollywood 
+(323) 851-4202 
+
+
+Yuchun
+698 S Vermont Ave Wilshire Center 
+(213) 365-2200 
+
+
+Katana
+8439 W Sunset Blvd Hollywood Hills West 
+(323) 650-8585 
+
+
+Natalie Peruvian Seafood Restaurant
+5759 Hollywood Blvd Hollywood 
+(323) 463-8340 
+
+
+La Numero Uno
+1247 Vine St Hollywood 
+(323) 957-1111 
+
 
